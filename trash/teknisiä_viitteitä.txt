@@ -1,0 +1,15 @@
+
+Trint, Descript - täysin sama idea
+
+A Contextual Study of Semantic Speech Editing in Radio Production
+https://www.sciencedirect.com/science/article/pii/S1071581918300971
+
+TRAED: speech audio editing using imperfect transcripts
+https://ieeexplore.ieee.org/document/1651371
+
+Semantic Speech Editing
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.2178&rep=rep1&type=pdf
+
+8min äänityksen kääntäminen maksaa n. 17 senttiä
+
+minuutin audiota - prosessoi keskimäärin 30 sekuntia

@@ -1,0 +1,17 @@
+- ei tarvitse editoinnin operaatioista kirjallisuutta
+- ei välttämättä myöskään käytettävyydestä
+	- voi ottaa jonkin yhden näkökulman (painottaa helppokäyttöisyyttä)
+
+- audioraidan swaippaaminen mobiililla
+- insert record (ei between)
+
+- 4 koehenkilöä jo tiedossa
+
+- on hyvä pitää "tutkimuspäiväkirjaa"
+
+- Isomöttöselle latex (ei kai pakko), Annelille pdf
+- Git (yousource tms.)
+
+- kaksi iteraatiota, joista ensimmäinen prototyyppi (joko kuva tai html) jota arvioidaan
+
+- Gradussa ohjelman asioita voi esittää kuvina, kaavioina jne.

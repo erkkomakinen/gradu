@@ -1,0 +1,13 @@
+@INPROCEEDINGS{8190646, 
+author={A. {Heimbürger} and V. {Isomöttönen}}, 
+booktitle={2017 IEEE Frontiers in Education Conference (FIE)}, 
+title={Moderating cultural effects in a higher e-education context? Supervisor's tone of voice in recorded audio feedback}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={computer aided instruction;cultural aspects;distance learning;further education;e-Education environments;distance learning;face-to-face interaction;recorded audio feedback;multicultural higher e-Education context;RAF potentially moderates cultural effects;moderating cultural effects;writing assignments;Cultural differences;Education;Electronic mail;Information technology;Standards;Global communication;Schedules;multi-cultural;cultural dimensions;recorded audio feedback (RAF);e-Education;culture-neutrality}, 
+doi={10.1109/FIE.2017.8190646}, 
+ISSN={}, 
+month={Oct},}
+

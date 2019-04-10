@@ -1,0 +1,22 @@
+- tooltipit tulisi olla (englanniksi)
+- Insert Record nimitys?
+- klikkaaminen siirtää viivan ja "valitsee" sen raidan
+- äänitysnapit voisi olla ensin
+- saksimode?
+
+rajaus työssä tärkeä, jottei mene yli
+- timestampit, jotka tallennettaisiin json tai txt -muodossa?
+- mittarissa 5s välein luku
+- korostus napeissa on hyvä
+- napeissa voi olla hyvä erotella korostusta toimintojen/ryhmien mukaan
+
+- Design tärkeintä
+	- evaluointi
+	
+TÄRKEÄT: ILMAINEN, HELPPOKÄYTTÖINEN, EXPORTTAAMINEN VAIVATONTA, TILARIIPPUMATON
+
+
+----------------- mietteitä -----------------------
+
+- Insert recordille ei pikaisella googlailulla löytynyt nimitystä
+

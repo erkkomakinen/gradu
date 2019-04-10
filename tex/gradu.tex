@@ -1,0 +1,152 @@
+\documentclass[utf8]{gradu3}
+% Jos työ on kandidaatintutkielma eikä pro gradu, käytä ylläolevan asemesta
+%\documentclass[utf8,bachelor]{gradu3}
+% Jos kirjoitat englanniksi, käytä ylläolevan asemesta
+%\documentclass[utf8,english]{gradu3}
+% tai
+%\documentclass[utf8,bachelor,english]{gradu3}
+
+\usepackage{graphicx} % kuvien mukaan ottamista varten
+
+\usepackage{amsmath} % hyödyllinen jos tekstisi sisältää matikkaa,
+                     % ei pakollinen
+
+\usepackage{booktabs} % hyvä kauniiden taulukoiden tekemiseen
+
+% HUOM! Tämän tulee olla viimeinen \usepackage koko dokumentissa!
+\usepackage[bookmarksopen,bookmarksnumbered,linktocpage]{hyperref}
+
+\addbibresource{gradu.bib} % Lähdetietokannan tiedostonimi
+
+\begin{document}
+
+\title{Verkko-opetuksessa käytettävän äänipalautteen editointityökalu}
+\translatedtitle{Tool for giving recorded audio feedback in e-education}
+\studyline{Ohjelmistotekniikka}
+\avainsanat{%
+  äänipalaute, raf, verkko-opetus, oppimisympäristö
+  }
+\keywords{recorded audio feedback, raf, e-education, e-education environment}
+\tiivistelma{%
+Tässä tutkielmassa arvioidaan voidaanko verkko-opetuksessa käytettävää äänipalautteen antamista helpottaa.
+}
+\abstract{%
+  This Masters thesis is aimed at assessing whether the use of recorded audio feedback for online teaching can be facilitated.
+}
+
+\author{Erkko Mäkinen}
+\contactinformation{\texttt{erkko.e.makinen@student.jyu.fi}}
+% jos useita tekijöitä, anna useampi \author-komento
+\supervisor{Anneli Heimbürger ja Ville Isomöttönen}
+% jos useita ohjaajia, anna useampi \supervisor-komento
+
+\type{Tietotekniikan pro gradu -tutkielma} % et tarvitse tätä riviä tutkielmassa!
+
+\maketitle
+
+
+\begin{thetermlist}
+\item[RAF] Recorded audio feedback \parencite[ks.][]{using}. 
+\end{thetermlist}
+
+\mainmatter
+
+\chapter{Johdanto}
+
+Palautteen antaminen opiskelijoille on erittäin tärkeää heidän oppimisensa kannalta, jotta he tietävät missä he ovat suoriutuneet hyvin ja missä heillä olisi vielä kehittämisen varaa. Palautteen antamiseen on useita erilaisia menetelmiä, joista kullakin on omat hyvät ja huonot puolensa. Äänipalautteen (engl. Recorded Audio Feedback, RAF) antaminen on yleistynyt lähivuosina, erityisesti verkko-oppimisen parissa, jossa suoraa kontaktia opettajaan tai muihin opiskelijoihin ei välttämättä ole ollenkaan. Opiskelun muututtua yhä teknologia-avusteisemmaksi, on tilanteeseen sopeuduttava myös palautteen antamisen laadun ja siihen liittyvien käytänteiden saralla \parencite[][]{cavanaugh2014}.
+
+Tähän astisten tutkimusten perusteella voidaan sanoa, että äänipalaute koetaan positiivisena, vaikka siihen liittyykin tiettyjä haasteita. Äänipalautetta pystytään antamaan nopeasti, se on tekstimuotoista selkeämpää ja eroavaisuudet äänensävyn käytössä helpottaa palautteen tulkitsemista. Lisäksi palautteen kuuleminen lukemisen sijaan tuntuu henkilökohtaisemmalta, jolla taas on positiivisia vaikutuksia oppimiseen \parencite[][]{moderating}. Opiskelijoiden mukaan äänipalaute tukee oppimista parhaiten siten, että palautteen pääkohdat ovat kirjattu tekstimuotoisena ja tarkennukset niitä koskien äänipalautteena \parencite[][]{using}.
+
+Vaikka äänipalautteella on tutkittu olevan selkeitä etuja etenkin verkko-opetuksessa, niin sen käyttämiseen voi olla iso kynnys johtuen siitä, että erityisesti sen antamiseen suunnattuja työkaluja on rajallisesti saatavilla ja niissä on vielä kehittämisen varaa. Nauhoitus ja editointi onnistuu useilla työkaluilla, mutta niiden opetteleminen ja käyttäminen voi olla haastavaa ja aikaavievää. Tällainen tekninen alkukömpelyys voi vaikuttaa siihen, kuinka äänipalautteen antaminen koetaan \parencite[][]{cavanaugh2014}.
+
+Tässä tutkielmassa käydään läpi tämänhetkisiä haasteita liittyen äänipalautteen antamiseen ja niiden pohjalta luodaan alustariippumaton ja responsiivinen web-sovellus, jossa erityisesti helppokäyttöisyys on otettu huomioon. Ohjelmaa testataan siinä vaiheessa tutkimusta, kun se on mielekästä ja selvitetään tekeekö se äänipalautteen antamisesta helpompaa ja miellyttävämpää.
+
+\chapter{Palaute}
+\subsection{Millaista on hyvä palaute?}
+\subsection{Formatiivinen palaute}
+\subsection{Summatiivinen palaute}
+
+%
+
+\chapter{Äänipalaute}
+
+\section{Hyvät ja huonot puolet}
+
+\section{Äänipalautteen antaminen}
+
+
+%
+
+\chapter{Tutkimusmenetelmä}
+Design science \parencite[][]{design}.
+%
+
+\chapter{Työkalun suunnittelu ja toteutus}
+
+\section{Rajaus?}
+
+\section{Toteutus}
+
+\section{Käyttöliittymä}
+
+\subsection{Hyödynnetyt käytettävyysperiaatteet}
+\subsection{Gestaltin hahmolait}
+\subsection{Nielsenin heuristiikat}
+
+\section{Perustoiminnot}
+
+\subsection{Play}
+\subsection{Pause}
+\subsection{Record}
+\subsection{Insert Record}
+\subsection{Split}
+\subsection{Delete}
+
+\section{Erikoistoiminnot}
+
+\subsection{New File}
+\subsection{Import}
+\subsection{Export}
+
+%
+
+\chapter{Evaluointi}
+
+\section{Ensimmäinen iteraatio}
+\section{Toinen iteraatio}
+\section{Toinen iteraatio}
+
+\section{Äänipalautteen antamisen helpottaminen}
+\section{Kokemus äänipalautteen antamisesta}
+
+%
+
+\chapter{Tulokset}
+\section{Ensimmäinen iteraatio}
+\subsection{Perustoimintoja koskevat tulokset}
+\subsection{Yleiset tulokset/huomiot?}
+
+\section{Toinen iteraatio}
+\subsection{Perustoimintoja koskevat tulokset}
+\subsection{Yleiset tulokset/huomiot?}
+
+%
+
+\chapter{Pohdinta}
+
+\section{}
+\section{}
+\section{Jatkokehitys}
+
+%
+
+\chapter{Yhteenveto}
+
+\printbibliography
+
+\appendix
+\section{Ensimmäisen iteraation kyselylomake}
+
+bla bla.
+
+\end{document}
