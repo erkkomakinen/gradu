@@ -1,0 +1,24 @@
+DESIGN SCIENCE RESEARCH IN INFORMATION SYSTEMS
+
+- Suunnittelu liittyy suurimpaan osaan tieteenaloista
+- Suunnittelututkimus on käytännönläheinen tutkimusparadigma, jolla tähdätään reaalimaailman ongelmien ratkaisua it-artefaktin avulla.
+
+- Management Information Systems Quarterly (MISQ) 2004
+	. Paperin päätavoite on tarjota ymmärrys kuinka toteuttaa, evaluoida ja esittää suunnittelututkimus
+	- tietojärjestelmät toteutetaan organisaation tehokkuuden parantamisesti
+	- natural (or behavioural) science and design science täydentävät toisiaan. Teknologia ja käyttäytyminen eivät ole kahtijakoisia.
+	- wicked problems
+	- Teknologiset edistysaskeleet ovat innovatiivisten ja luovien suunnittelutukimusten tuloksia. ( If not "capricious," they are at least "arbitrary" (Brooks 1987) with respect to business needs and existing knowledge.)
+
+- DSR-prosessista ei tarkkaa kuvausta, mutta siihen kuuluu ainakin kolme suunnittelutukimussykliä (merkityksellisyyssykli, suunnittelusykli, täsmällisyys-sykli)
+
+
+ARTIFACT EVALUATION IN INFORMATION SYSTEMS DESIGN-SCIENCE RESEARCH – A HOLISTIC VIEW
+
+- suunnitteluartefaktit voidaan mieltää järjestelmiksi
+- IS artefakti on DSR-prosessin tulos
+- järjestelmän ulottuvuudet perustana arviointikriteereille
+- Äänipalautetyökalun arviointikriteereinä voisi olla ainakin osittain: goal, environment, (structure?), (learning capability?)
+- Suuressa osassa DSR-tutkimuksia evaluoidaan suppeasti. Yleensä keskitytään effifacyyn ja utilityyn
+- evaluointiin on erilaisia menetelmiä. Tässä tapauksessa parhaiten ehkä kävisi Taulukon M1.
+

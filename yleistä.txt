@@ -1,1 +1,2 @@
 - maininta alussa miten data kerätty ( + analysoitu? )
+- Summatiivinen arviointi kertoo, miten hyvä oppilas on kyseisellä hetkellä. Formatiivinen arviointi taas kertoo, mitä opettajan tulee tehdä seuraavaksi, jotta oppilaan oppiminen paranisi. 
