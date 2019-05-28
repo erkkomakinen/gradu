@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.20)  3 APR 2019 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  28 MAY 2019 23:28
 entering extended mode
 **./gradu.tex
 (gradu.tex
@@ -6,9 +6,9 @@ LaTeX2e <2018-12-01>
 (gradu3.cls
 Document Class: gradu3 2018/10/12 3.8 JY tietotekniikan gradut
 gradu3 <2018/10/12:3.8> - Tietotekniikan graduille
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -23,8 +23,8 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fixltx2e.st
-y"
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fixltx2e.sty"
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -34,49 +34,44 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chngcntr\chngcntr.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/chngcntr\chngcntr.sty"
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-) ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count89
@@ -92,45 +87,40 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2018/11/13 3.27 The Babel package
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/05/04 3.31 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-finnish\finn
-ish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-finnish\finnish.ldf"
 Language: finnish 2007/10/20 v1.3q Finnish support from the babel system
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2018/11/13 3.27 Babel common definitions
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
 \babel@savecnt=\count92
 \U@D=\dimen111
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@dirlevel=\count93
 )
 Package babel Info: Making " an active character on input line 89.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engl
-ish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathptmx.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -166,42 +156,34 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courier.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago\b
-iblatex-chicago.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago\biblatex-chicago.sty"
 Package: biblatex-chicago 2018/01/10 v 3.10 biblatex style
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count94
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
-mds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -209,24 +191,23 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
-ys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
-s.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 )))
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count95
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -287,8 +268,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.de
-f"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
 File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -380,15 +360,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compa
-t.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
 File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
-def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@textcitecount=\count274
 \c@textcitetotal=\count275
@@ -402,8 +380,8 @@ Package biblatex Info: Trying to load bibliography style 'chicago-authordate'..
 .
 Package biblatex Info: ... file 'chicago-authordate.bbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago/b
-bx\chicago-authordate.bbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/bbx\chicago-authordate
+.bbx"
 File: chicago-authordate.bbx 2018/01/11 v 3.10 biblatex bibliography style
 \lositemsep=\skip65
 \c@bbx:relatedcount=\count281
@@ -412,14 +390,14 @@ File: chicago-authordate.bbx 2018/01/11 v 3.10 biblatex bibliography style
 Package biblatex Info: Trying to load citation style 'chicago-authordate'...
 Package biblatex Info: ... file 'chicago-authordate.cbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago/c
-bx\chicago-authordate.cbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/cbx\chicago-authordate
+.cbx"
 File: chicago-authordate.cbx 2018/01/11 v 3.10 biblatex citation style
 Package biblatex Info: Trying to load citation style 'chicago-dates-common'...
 Package biblatex Info: ... file 'chicago-dates-common.cbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago/c
-bx\chicago-dates-common.cbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/cbx\chicago-dates-comm
+on.cbx"
 File: chicago-dates-common.cbx 2018/01/11 v 3.10 biblatex citation style
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -437,9 +415,7 @@ Package biblatex Info: Patching 'autolang=other' option.
 ))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.
-cfg"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 )))
 \c@gradu@listrender@count=\count283
@@ -449,54 +425,44 @@ File: biblatex.cfg
 \c@gradu@pagecount@main=\count287
 \c@gradu@pagecount@app=\count288
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen114
 ))
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen115
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count289
@@ -537,8 +503,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen123
 \lightrulewidth=\dimen124
@@ -558,17 +523,14 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count304
 \@thisrulewidth=\dimen135
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -596,24 +558,21 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen136
 \Hy@linkcounter=\count305
 \Hy@pagecounter=\count306
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count307
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
-cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
@@ -648,14 +607,12 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
-ef"
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count313
 \c@bookmark@seq@number=\count314
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
-check.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -665,47 +622,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago/l
-bx\cms-american.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/lbx\cms-american.lbx"
 File: cms-american.lbx 2018/01/09 v 3.10 biblatex localization
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\ameri
-can.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\american.lbx"
 File: american.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\engli
-sh.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\engli
-sh.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'finnish' -> 'cms-finnish'...
 Package biblatex Info: ... file 'cms-finnish.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-chicago/l
-bx\cms-finnish.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/lbx\cms-finnish.lbx"
 File: cms-finnish.lbx 2018/01/09 v 3.10 biblatex localization
 Package biblatex Info: Trying to load language 'finnish'...
 Package biblatex Info: ... file 'finnish.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\finni
-sh.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\finnish.lbx"
 File: finnish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'finnish'...
 Package biblatex Info: ... file 'finnish.lbx' found.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\finni
-sh.lbx"
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\finnish.lbx"
 File: finnish.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
 
@@ -732,8 +682,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 21.
-
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 ABD: EveryShipout initializing macros
@@ -781,9 +730,7 @@ Package biblatex Info: ... file 'gradu.bbl' found.
 (gradu.bbl)
 Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
-
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mk
-ii"
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
 \scratchdimen=\dimen140
@@ -796,13 +743,10 @@ ii"
 \MPnumerator=\count321
 \makeMPintoPDFobject=\count322
 \everyMPtoPDFconversion=\toks24
-)
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -815,12 +759,10 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 21.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
-estring.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count323
@@ -828,7 +770,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
- (gradu.out) (gradu.out)
+
+(gradu.out) (gradu.out)
 \@outlinefile=\write4
 \openout4 = `gradu.out'.
 
@@ -839,33 +782,30 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 46
 .
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 46
 .
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 46
 .
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 46
 .
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
- ("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
@@ -880,13 +820,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
  [1
 
-{C:/Users/erkko/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/makinen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 46.
 
-("C:\Users\erkko\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-[1]
+) [1]
 \tf@lof=\write5
 \openout5 = `gradu.lof'.
 
@@ -895,21 +834,27 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
  [2
 
-] (gradu.toc [3
+] (gradu.toc
+[3
 
 ]
-Overfull \hbox (1.20001pt too wide) detected at line 95
+Overfull \hbox (1.20001pt too wide) detected at line 91
  []\T1/ptm/m/n/12 10[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 97
+Overfull \hbox (1.20001pt too wide) detected at line 93
  []\T1/ptm/m/n/12 11[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 99
- []\T1/ptm/m/n/12 11[]
+Overfull \hbox (1.20001pt too wide) detected at line 95
+ []\T1/ptm/m/n/12 12[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 97
+ []\T1/ptm/m/n/12 12[]
  []
 
 )
@@ -941,64 +886,68 @@ Luku 4.
 
 ]
 Luku 5.
+
+Overfull \hbox (46.45126pt too wide) in paragraph at lines 92--93
+\T1/ptm/m/n/12 tien aset-te-lus-sa CSS3-tyyliohjeita se-kä toi-min-nal-li-suuk-
+sien to-teu-tuk-ses-sa JavaScript-ohjelmointikieltä.
+ []
+
 [5
 
-]
+] [6]
 Luku 6.
-[6
-
-]
-Luku 7.
 [7
 
 ]
-Luku 8.
+Luku 7.
 [8
 
 ]
-Luku 9.
+Luku 8.
 [9
 
 ]
-Overfull \hbox (1.52896pt too wide) in paragraph at lines 146--146
+Luku 9.
+[10
+
+]
+Overfull \hbox (1.52896pt too wide) in paragraph at lines 156--156
 [][]\T1/ptm/m/n/12 Heimbürger, A., ja V. Iso-möt-tö-nen. 2017. ``Mo-de-ra-ting 
 cul-tu-ral ef-fects in a hig-her e-education
  []
 
-[10
+[11
 
-] [11
+] [12
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
  (gradu.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `gradu.out' has not changed.
-(rerunfilecheck)             Checksum: 29821B46FBE578EAED6CE6816ECBE31D;3297.
+(rerunfilecheck)             Checksum: 79372EC0678637553942355D49F486B5;3249.
 Package logreq Info: Writing requests to 'gradu.run.xml'.
 \openout1 = `gradu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15362 strings out of 492946
- 268187 string characters out of 3126266
- 998642 words of memory out of 3000000
- 18971 multiletter control sequences out of 15000+200000
+ 15371 strings out of 492895
+ 264321 string characters out of 3133473
+ 1000436 words of memory out of 3000000
+ 18999 multiletter control sequences out of 15000+200000
  34496 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,6n,55p,1076b,3911s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/erkko/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/erkko/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr
-8a.pfb><C:/Users/erkko/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/
-utmb8a.pfb><C:/Users/erkko/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmr8a.pfb><C:/Users/erkko/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on gradu.pdf (16 pages, 104920 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
+tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gradu.pdf (17 pages, 107431 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
+ 360 PDF objects out of 1000 (max. 8388607)
  72 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
 

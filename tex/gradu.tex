@@ -20,7 +20,7 @@
 
 \begin{document}
 
-\title{Verkko-opetuksessa käytettävän äänipalautteen editointityökalu}
+\title{Äänipalautetyökalun toteutus ja evaluointi}
 \translatedtitle{Tool for giving recorded audio feedback in e-education}
 \studyline{Ohjelmistotekniikka}
 \avainsanat{%
@@ -83,15 +83,23 @@ Design science \parencite[][]{design}.
 
 \chapter{Työkalun suunnittelu ja toteutus}
 
-\section{Rajaus?}
+Tässä luvussa käsitellään äänipalautetyökalu-prototyypin suunnittelua ja toteutusta eri näkökulmista. Aluksi läpikäydään työkalun tekniseen toteutukseen liittyviä seikkoja, jonka jälkeen käsitellään käyttöliittymän suunnitelua ohjaavia käytettävyyysperiaatteita sekä itse käyttöliittymää. Lopuksi esitetään työkalun perus- ja erikoistoiminnot, ja kuinka näihin toiminnallisuuksiin päädyttiin.
 
-\section{Toteutus}
+\section{Tekniset toteutusratkaisut}
 
-\section{Käyttöliittymä}
+Äänipalautetyökalun yksi tärkeimmistä vaatimuksista oli se, että sitä voidaan käyttää vaivattomasti laitteella kuin laitteella ilman erillistä asennusta. Tämän vuoksi työkalu toteutettiin web-pohjaisena sovelluksena, eli sitä pystytään käyttämään selaimen välityksellä tietyn www-osoitteen kautta. Jotta tämä onnistuisi, sovelluksen täytyy sijaita jollain palvelimella. Ensimmäisen iteraation ajan työkalu oli sijoitettuna Google App Engine -palveluun, mutta kokeilujakson päätyttyä se siirrettiin Heroku-palveluun, joka tarjoaa web-sovellusten verkkoisännöintiä täysin maksutta. 
 
-\subsection{Hyödynnetyt käytettävyysperiaatteet}
+Työkalu toteutettiin yhdestä näkymästä koostuvana staattisena verkkosivuna, sillä siten protoyyppi saadaan valmiiksi kaikista nopeiten. Web-pohjaisuuden takia sovelluksen toteutustekniikat olivat selkeitä: rakenteen toteutuksessa käytetään HTML-merkintäkieltä, elementtien asettelussa CSS3-tyyliohjeita sekä toiminnallisuuksien toteutuksessa JavaScript-ohjelmointikieltä. Javascript-kehityksessä hyödynnetään jQuery-kirjastoa helpottamaan tiettyjä toimenpiteitä, kuten DOM-elementtien manipulointia. JQueryn lisäksi kehityksessä ei hyödynnetty muita kirjastoja tai ohjelmistokehyksiä, sillä ylimääräisistä riippuvuuksilta haluttiin välttyä jatkokehitystä ajatellen. Ääniaallon piirtämiseen harkittiin wavesurfer-kirjastoa, mutta sen integrointi äänipalautetyökaluun olisi vaatinut enemmän aikaa, kuin sen toteuttaminen itse verkosta haettujen ohjeiden avulla.
+
+
+
+
+\section{Hyödynnetyt käytettävyysperiaatteet}
+
 \subsection{Gestaltin hahmolait}
 \subsection{Nielsenin heuristiikat}
+
+\section{Käyttöliittymä}
 
 \section{Perustoiminnot}
 
@@ -104,7 +112,9 @@ Design science \parencite[][]{design}.
 
 \section{Erikoistoiminnot}
 
-\subsection{New File}
+Erikoistoimintojen toteutus jouduttiin aikataulusyistä rajaamaan tutkimuksen ulkopuolelle. Toiminnallisuudet on kuitenkin suunniteltu ja evaluoinnin suoirittavilla koehenkilöillä on mahdollisuus ilmaista ajatuksiaan niihin liittyen arviointilomakkeella. 
+
+\subsection{Start New}
 \subsection{Import}
 \subsection{Export}
 

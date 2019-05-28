@@ -8,41 +8,40 @@
 \BOOKMARK [1][]{section.3.2}{3.2 \304\344nipalautteen antaminen}{chapter.3}% 8
 \BOOKMARK [0][]{chapter.4}{4 Tutkimusmenetelm\344}{}% 9
 \BOOKMARK [0][]{chapter.5}{5 Ty\366kalun suunnittelu ja toteutus}{}% 10
-\BOOKMARK [1][]{section.5.1}{5.1 Rajaus?}{chapter.5}% 11
-\BOOKMARK [1][]{section.5.2}{5.2 Toteutus}{chapter.5}% 12
-\BOOKMARK [1][]{section.5.3}{5.3 K\344ytt\366liittym\344}{chapter.5}% 13
-\BOOKMARK [2][]{subsection.5.3.1}{5.3.1 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{section.5.3}% 14
-\BOOKMARK [2][]{subsection.5.3.2}{5.3.2 Gestaltin hahmolait}{section.5.3}% 15
-\BOOKMARK [2][]{subsection.5.3.3}{5.3.3 Nielsenin heuristiikat}{section.5.3}% 16
-\BOOKMARK [1][]{section.5.4}{5.4 Perustoiminnot}{chapter.5}% 17
-\BOOKMARK [2][]{subsection.5.4.1}{5.4.1 Play}{section.5.4}% 18
-\BOOKMARK [2][]{subsection.5.4.2}{5.4.2 Pause}{section.5.4}% 19
-\BOOKMARK [2][]{subsection.5.4.3}{5.4.3 Record}{section.5.4}% 20
-\BOOKMARK [2][]{subsection.5.4.4}{5.4.4 Insert Record}{section.5.4}% 21
-\BOOKMARK [2][]{subsection.5.4.5}{5.4.5 Split}{section.5.4}% 22
-\BOOKMARK [2][]{subsection.5.4.6}{5.4.6 Delete}{section.5.4}% 23
-\BOOKMARK [1][]{section.5.5}{5.5 Erikoistoiminnot}{chapter.5}% 24
-\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 New File}{section.5.5}% 25
-\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Import}{section.5.5}% 26
-\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Export}{section.5.5}% 27
-\BOOKMARK [0][]{chapter.6}{6 Evaluointi}{}% 28
-\BOOKMARK [1][]{section.6.1}{6.1 Ensimm\344inen iteraatio}{chapter.6}% 29
-\BOOKMARK [1][]{section.6.2}{6.2 Toinen iteraatio}{chapter.6}% 30
-\BOOKMARK [1][]{section.6.3}{6.3 Toinen iteraatio}{chapter.6}% 31
-\BOOKMARK [1][]{section.6.4}{6.4 \304\344nipalautteen antamisen helpottaminen}{chapter.6}% 32
-\BOOKMARK [1][]{section.6.5}{6.5 Kokemus \344\344nipalautteen antamisesta}{chapter.6}% 33
-\BOOKMARK [0][]{chapter.7}{7 Tulokset}{}% 34
-\BOOKMARK [1][]{section.7.1}{7.1 Ensimm\344inen iteraatio}{chapter.7}% 35
-\BOOKMARK [2][]{subsection.7.1.1}{7.1.1 Perustoimintoja koskevat tulokset}{section.7.1}% 36
-\BOOKMARK [2][]{subsection.7.1.2}{7.1.2 Yleiset tulokset/huomiot?}{section.7.1}% 37
-\BOOKMARK [1][]{section.7.2}{7.2 Toinen iteraatio}{chapter.7}% 38
-\BOOKMARK [2][]{subsection.7.2.1}{7.2.1 Perustoimintoja koskevat tulokset}{section.7.2}% 39
-\BOOKMARK [2][]{subsection.7.2.2}{7.2.2 Yleiset tulokset/huomiot?}{section.7.2}% 40
-\BOOKMARK [0][]{chapter.8}{8 Pohdinta}{}% 41
-\BOOKMARK [1][]{section.8.1}{8.1 }{chapter.8}% 42
-\BOOKMARK [1][]{section.8.2}{8.2 }{chapter.8}% 43
-\BOOKMARK [1][]{section.8.3}{8.3 Jatkokehitys}{chapter.8}% 44
-\BOOKMARK [0][]{chapter.9}{9 Yhteenveto}{}% 45
-\BOOKMARK [0][]{section*.3}{L\344hteet}{}% 46
-\BOOKMARK [0][]{section*.5}{Liitteet}{}% 47
-\BOOKMARK [1][]{section.I.1}{A Ensimm\344isen iteraation kyselylomake}{section*.5}% 48
+\BOOKMARK [1][]{section.5.1}{5.1 Tekniset toteutusratkaisut}{chapter.5}% 11
+\BOOKMARK [1][]{section.5.2}{5.2 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{chapter.5}% 12
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Gestaltin hahmolait}{section.5.2}% 13
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Nielsenin heuristiikat}{section.5.2}% 14
+\BOOKMARK [1][]{section.5.3}{5.3 K\344ytt\366liittym\344}{chapter.5}% 15
+\BOOKMARK [1][]{section.5.4}{5.4 Perustoiminnot}{chapter.5}% 16
+\BOOKMARK [2][]{subsection.5.4.1}{5.4.1 Play}{section.5.4}% 17
+\BOOKMARK [2][]{subsection.5.4.2}{5.4.2 Pause}{section.5.4}% 18
+\BOOKMARK [2][]{subsection.5.4.3}{5.4.3 Record}{section.5.4}% 19
+\BOOKMARK [2][]{subsection.5.4.4}{5.4.4 Insert Record}{section.5.4}% 20
+\BOOKMARK [2][]{subsection.5.4.5}{5.4.5 Split}{section.5.4}% 21
+\BOOKMARK [2][]{subsection.5.4.6}{5.4.6 Delete}{section.5.4}% 22
+\BOOKMARK [1][]{section.5.5}{5.5 Erikoistoiminnot}{chapter.5}% 23
+\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 Start New}{section.5.5}% 24
+\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Import}{section.5.5}% 25
+\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Export}{section.5.5}% 26
+\BOOKMARK [0][]{chapter.6}{6 Evaluointi}{}% 27
+\BOOKMARK [1][]{section.6.1}{6.1 Ensimm\344inen iteraatio}{chapter.6}% 28
+\BOOKMARK [1][]{section.6.2}{6.2 Toinen iteraatio}{chapter.6}% 29
+\BOOKMARK [1][]{section.6.3}{6.3 Toinen iteraatio}{chapter.6}% 30
+\BOOKMARK [1][]{section.6.4}{6.4 \304\344nipalautteen antamisen helpottaminen}{chapter.6}% 31
+\BOOKMARK [1][]{section.6.5}{6.5 Kokemus \344\344nipalautteen antamisesta}{chapter.6}% 32
+\BOOKMARK [0][]{chapter.7}{7 Tulokset}{}% 33
+\BOOKMARK [1][]{section.7.1}{7.1 Ensimm\344inen iteraatio}{chapter.7}% 34
+\BOOKMARK [2][]{subsection.7.1.1}{7.1.1 Perustoimintoja koskevat tulokset}{section.7.1}% 35
+\BOOKMARK [2][]{subsection.7.1.2}{7.1.2 Yleiset tulokset/huomiot?}{section.7.1}% 36
+\BOOKMARK [1][]{section.7.2}{7.2 Toinen iteraatio}{chapter.7}% 37
+\BOOKMARK [2][]{subsection.7.2.1}{7.2.1 Perustoimintoja koskevat tulokset}{section.7.2}% 38
+\BOOKMARK [2][]{subsection.7.2.2}{7.2.2 Yleiset tulokset/huomiot?}{section.7.2}% 39
+\BOOKMARK [0][]{chapter.8}{8 Pohdinta}{}% 40
+\BOOKMARK [1][]{section.8.1}{8.1 }{chapter.8}% 41
+\BOOKMARK [1][]{section.8.2}{8.2 }{chapter.8}% 42
+\BOOKMARK [1][]{section.8.3}{8.3 Jatkokehitys}{chapter.8}% 43
+\BOOKMARK [0][]{chapter.9}{9 Yhteenveto}{}% 44
+\BOOKMARK [0][]{section*.3}{L\344hteet}{}% 45
+\BOOKMARK [0][]{section*.5}{Liitteet}{}% 46
+\BOOKMARK [1][]{section.I.1}{A Ensimm\344isen iteraation kyselylomake}{section*.5}% 47
