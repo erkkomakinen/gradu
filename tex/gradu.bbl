@@ -125,6 +125,54 @@
       \field{volume}{8}
       \field{year}{2018}
     \endentry
+    \entry{academics}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=ebac7fcf7cdca945da2c5bcf7fce0587}{%
+           family={Heimbürger},
+           familyi={H\bibinitperiod},
+           given={Anneli},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=241606f1eda7d0701726d7f16053dc9f}{%
+           family={Isomottonen},
+           familyi={I\bibinitperiod},
+           given={Ville},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=413d1a5057c10980f7cef82bed000946}{%
+           family={Nieminen},
+           familyi={N\bibinitperiod},
+           given={Paavo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6c8a3801604afd4050b70c55e3f0d27}{%
+           family={Keto},
+           familyi={K\bibinitperiod},
+           given={Harri},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37232ac44d143516e68a007e8f376418}
+      \strng{fullhash}{f1fa08e33acad5e5c306fbaabc75f840}
+      \strng{bibnamehash}{f1fa08e33acad5e5c306fbaabc75f840}
+      \strng{authorbibnamehash}{f1fa08e33acad5e5c306fbaabc75f840}
+      \strng{authornamehash}{37232ac44d143516e68a007e8f376418}
+      \strng{authorfullhash}{f1fa08e33acad5e5c306fbaabc75f840}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{How do Academics Experience Use of Recorded Audio Feedback in Higher Education? A Thematic Analysis}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/FIE.2018.8658635
+      \endverb
+    \endentry
     \entry{design}{incollection}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=d9ddca3b1b7af0f96d62a62424bd939a}{%

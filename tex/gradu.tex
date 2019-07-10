@@ -20,7 +20,7 @@
 
 \begin{document}
 
-\title{Äänipalautetyökalun toteutus ja evaluointi}
+\title{Äänipalautetyökalun suunnittelu, toteutus ja evaluointi}
 \translatedtitle{Tool for giving recorded audio feedback in e-education}
 \studyline{Ohjelmistotekniikka}
 \avainsanat{%
@@ -85,38 +85,75 @@ Design science \parencite[][]{design}.
 
 Tässä luvussa käsitellään äänipalautetyökalu-prototyypin suunnittelua ja toteutusta eri näkökulmista. Aluksi läpikäydään työkalun tekniseen toteutukseen liittyviä seikkoja, jonka jälkeen käsitellään käyttöliittymän suunnitelua ohjaavia käytettävyyysperiaatteita sekä itse käyttöliittymää. Lopuksi esitetään työkalun perus- ja erikoistoiminnot, ja kuinka näihin toiminnallisuuksiin päädyttiin.
 
+Työkalu suunniteltiin pääasiassa yhteistyössä pro gradu -ohjaajien kanssa, joilla molemmilla on kokemusta äänipalautteen antamisesta. He ovat myös olleet osallisina tutkimuksessa, jossa selvitettiin akateemikkojen suhtautumista äänipalautteen antamiseen. Tutkimuksessa kolmella neljästä koehenkilöstä heräsi ideoita työkalusta, jolla äänipalautetta voisi antaa, editoida, hallita ja arkistoida \parencite[][]{academics}. Kyseisen tutkimuksen ja ohjaajien omien kokemuksien sekä näkemyksien pohjalta työkalua lähdettiin suunnittelemaan ja toteuttamaan.
+
 \section{Tekniset toteutusratkaisut}
 
 Äänipalautetyökalun yksi tärkeimmistä vaatimuksista oli se, että sitä voidaan käyttää vaivattomasti laitteella kuin laitteella ilman erillistä asennusta. Tämän vuoksi työkalu toteutettiin web-pohjaisena sovelluksena, eli sitä pystytään käyttämään selaimen välityksellä tietyn www-osoitteen kautta. Jotta tämä onnistuisi, sovelluksen täytyy sijaita jollain palvelimella. Ensimmäisen iteraation ajan työkalu oli sijoitettuna Google App Engine -palveluun, mutta kokeilujakson päätyttyä se siirrettiin Heroku-palveluun, joka tarjoaa web-sovellusten verkkoisännöintiä täysin maksutta. 
 
 Työkalu toteutettiin yhdestä näkymästä koostuvana staattisena verkkosivuna, sillä siten protoyyppi saadaan valmiiksi kaikista nopeiten. Web-pohjaisuuden takia sovelluksen toteutustekniikat olivat selkeitä: rakenteen toteutuksessa käytetään HTML-merkintäkieltä, elementtien asettelussa CSS3-tyyliohjeita sekä toiminnallisuuksien toteutuksessa JavaScript-ohjelmointikieltä. Javascript-kehityksessä hyödynnetään jQuery-kirjastoa helpottamaan tiettyjä toimenpiteitä, kuten DOM-elementtien manipulointia. JQueryn lisäksi kehityksessä ei hyödynnetty muita kirjastoja tai ohjelmistokehyksiä, sillä ylimääräisistä riippuvuuksilta haluttiin välttyä jatkokehitystä ajatellen. Ääniaallon piirtämiseen harkittiin wavesurfer-kirjastoa, mutta sen integrointi äänipalautetyökaluun olisi vaatinut enemmän aikaa, kuin sen toteuttaminen itse verkosta haettujen ohjeiden avulla.
 
-
-
+Työkalun nauhoitus on toteutettu Mediarecorder API-ohjelmointirajapintaa hyödyntäen, joka mahdollistaa äänen ja videon kaappaamisen tietovirtana selaimen kautta. Tutkimuksen toteutushetkellä selainten tuki kyseiselle ohjelmointirajapinnalle ei ole täysin kattava, sillä Safari-selaimen eri versiot tukevat sitä ainoastaan osittain. Nauhoittaminen oltaisiin voitu tehdä myös vaihtoehtoisella tavalla, joka olisi mahdollistanut nauhoittamisen useammilla selaimilla, mutta se rajattiin toteutuksen ulkopuolelle, sillä tärkeintä on, että prototyyppiä päästään testaamaan ainakin tietyillä eniten käytetyimmillä selaimilla.
 
 \section{Hyödynnetyt käytettävyysperiaatteet}
 
+Käytettävyys on
+
 \subsection{Gestaltin hahmolait}
+
 \subsection{Nielsenin heuristiikat}
+
+Jakob Nielsen on yksi maailman tunnetuimmista käytettävyysasijantuntijoista, joka on työskennellyt käytettävyyyden parissa jo useiden kymmenien vuosien ajan. Hänen ja Rolf Molichin vuonna 1994 laatimat käytettävyysheuristiikat ovat yhtiä maailman käytetyimmistä heuristiikoista käyttöliittymien suunnittelussa ja käytettävyyden arvioinnissa.
 
 \section{Käyttöliittymä}
 
 \section{Perustoiminnot}
 
-\subsection{Play}
-\subsection{Pause}
+Äänipalautetyökalussa on kuusi perustoimintoa, jotka ovat toiminnoista oleellisimpia äänitteiden nauhoittamisen, toistamisen ja editoinnin kannalta. Tässä luvussa käsitellään mitä mikäkin perustoiminto tekee ja perustellaan miksi työkalussa on päädytty juuri kyseisiin toiminnallisuuksiin. Päätöksiin vaikuttavat käytettävyysperiaatteet, suunnittelussa mukana olleiden näkemykset ja aiemmat kokemukset sekä tutkimuksen evaluointi-iteraatiot.
+
+
 \subsection{Record}
+
+Record-toiminto aloittaa äänipalautteen nauhoittamisen siihen kohtaan äänileikenäkymää, missä äänileikekursori sijaitsee nauhoituksen aloitushetkellä. Jos nauhoitus tapahtuu toisten äänileikkeiden päälle, niin uusi äänileike korvaa alle jääneet äänileikkeet. Nauhoitettava äänileike levenee nauhoituksen edetessä, ja äänileikekursoria liikutetaan äänileikkeen mukana. Kun äänileikekursori saavuttaa äänileikenäkymän oikean reunan, se pysähtyy ja äänileike jatkaa levenemistään. Tällöin nauhoituksen edetessä äänileikenäkymää vieritetään levenevän äänileikkeen oikean reunan mukana.
+
 \subsection{Insert Record}
+
+Insert Record -toiminto nauhoittaa uuden äänileikkeen jo olemassa olevan äänileikkeen väliin. Toiminto katkaisee aluksi sen äänileikkeen kahteen osaan, jonka väliin ollaan nauhoittamassa uutta äänileikettä. Sitten katkaisukohtaan aletaan nauhoittamaan uutta äänileikettä, ja nauhoituksen edetessä oikealla puolella olevia äänileikkeitä kuljetetaan uuden äänileikkeen mukana. 
+
+Kuten tavallisessa nauhoituksessa, niin myös väliinnauhoituksessa äänileikkeen ja kursorin saavuttaessa äänilekenäkymän oikean reunan, kursorin eteneminen pysäytetään ja äänileikenäkymää vierietetään uuden äänileikkeen oikean reunan mukaisesti.
+
+\subsection{Play}
+
+Play-toiminto aloittaa äänipalautteen toistamisen siitä kohdasta missä äänileikekursori sijaitsee toiston aloitushetkellä. Äänileikekursoria liikutetaan toiston edetessä eri tavoin riippuen sen sijainnista ja sitä ympäröivistä äänileikkeistä. Kursoria liikutetaan äänileikenäkymässä oikealle päin siihen asti, kunnes se melkein saavuttaa äänileikenäkymän oikean reunan. Kursorin ja äänileikenäkymän oikean reunan välille jätetään pieni väli, jotta toiston edetessä nähdään pieni tulossa oleva pätkä toistettavasta äänileikkeestä. Jos äänileikenäkymässä on vieritysvaraa oikealle päin, eli toisin sanoen kursoria seuraavia äänileikkeitä, niin äänileikekursori pysähtyy paikalleen ja äänileikenäkymää vieritetään oikealle päin. Kun äänileikenäkymä saavuttaa sen pisteen, ettei vieritettävää enää ole, niin se luonnollisesti pysähtyy ja äänileikekursoria liikutetaan oikealle, kunnes äänileikenäkymän oikea reuna saavutetaan.
+ 
+
+\subsection{Preview}
+
+Toimii lähes samalla tavalla kuin Play-toiminto, eli aloittaa äänipalautteen toiston siitä kohdasta, missä äänileikekursori toiston aloitushetkellä sijaitsee. Ainut poikkeavuus tavalliseen toistoon on se, että toiston loputtua äänileikekursori palautetaan toiston aloituskohtaan. 
+
 \subsection{Split}
+
+Split-toiminto katkaisee äänileikkeen kahtia siitä kohasta, missä äänileikekursori sillä hetkellä sijaitsee. Katkaisun jälkeen äänileikekursoria siirretään yhden pikselin verran vasemmalle, jolloin se vasemmanpuoleisen katkotun äänileikkeen päällä. Tällöin vasemmanpuoleinen katkaistu äänileike myös asetetaan valinnan alaiseksi, eli se korostetaan tummemmalla värillä.
+
 \subsection{Delete}
+
+Delete-toiminto poistaa halutun äänileikkeen äänileikenäkymästä. Äänileikkeistä poistetaan se, mikä on äänileikekursorin alla poiston aloitushetkellä. Poistettavaa äänileikettä ympäröivät äänileikkeet siirretään yhteen poiston tapahduttua ja äänileikekursori siirretään näiden äänileikkeiden liittymiskohtaan.
 
 \section{Erikoistoiminnot}
 
-Erikoistoimintojen toteutus jouduttiin aikataulusyistä rajaamaan tutkimuksen ulkopuolelle. Toiminnallisuudet on kuitenkin suunniteltu ja evaluoinnin suoirittavilla koehenkilöillä on mahdollisuus ilmaista ajatuksiaan niihin liittyen arviointilomakkeella. 
+Erikoistoimintojen toteutus jouduttiin aikataulusyistä rajaamaan tutkimuksen ulkopuolelle. Toiminnallisuudet on kuitenkin osittain suunniteltu ja evaluoinnin suoirittavilla koehenkilöillä on mahdollisuus ilmaista ajatuksiaan erikoistoimintoihin liittyen arviointilomakkeella. 
 
 \subsection{Start New}
+
+Start New -toiminto palauttaa äänipalautetyökalun alkutilaan uuden äänipalautteen työstämistä varten. Äänileikenäkymä siis tyhjennetään äänileikkeistä ja Undo - Redo -historia tyhjennetään. Uudelleenaloittaminen varmistetaan käyttäjältä ponnahdusikkunan avulla.
+
 \subsection{Import}
-\subsection{Export}
+
+Import-toiminnon avulla käyttäjä pystyy tuomaan jo nauhoitetun äänipalautteen omasta tiedostojärjestelmästään äänipalautetyökaluun työstöä varten. Tuotu äänitiedosto asetetaan äänileikenäkymään uutena äänileikkeenä. 
+
+\subsection{Save}
+
+Save-toiminnolla työstetty äänipalaute saadaan tallennettua, joko äänitiedostona tai projektitiedostona, jolloin se voidaan avata äänipalautetyökalussa uudestaan.
 
 %
 
