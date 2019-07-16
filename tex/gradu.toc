@@ -26,72 +26,72 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Hy\IeC {\"o}dynnetyt k\IeC {\"a}ytett\IeC {\"a}vyysperiaatteet}{6}{section.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Gestaltin hahmolait}{6}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.1}Gestaltin hahmolait}{7}{subsection.5.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Nielsenin heuristiikat}{6}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.2}Nielsenin heuristiikat}{7}{subsection.5.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{6}{section.5.3}% 
+\contentsline {section}{\numberline {5.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{7}{section.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Perustoiminnot}{6}{section.5.4}% 
+\contentsline {section}{\numberline {5.4}Perustoiminnot}{7}{section.5.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.1}Record}{7}{subsection.5.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}Insert Record}{7}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.2}Insert Record}{8}{subsection.5.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.3}Play}{7}{subsection.5.4.3}% 
+\contentsline {subsection}{\numberline {5.4.3}Play}{8}{subsection.5.4.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4.4}Preview}{8}{subsection.5.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.5}Split}{8}{subsection.5.4.5}% 
+\contentsline {subsection}{\numberline {5.4.5}Split}{9}{subsection.5.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.6}Delete}{8}{subsection.5.4.6}% 
+\contentsline {subsection}{\numberline {5.4.6}Delete}{9}{subsection.5.4.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Erikoistoiminnot}{8}{section.5.5}% 
+\contentsline {section}{\numberline {5.5}Erikoistoiminnot}{9}{section.5.5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5.1}Start New}{9}{subsection.5.5.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5.2}Import}{9}{subsection.5.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Save}{9}{subsection.5.5.3}% 
+\contentsline {subsection}{\numberline {5.5.3}Save}{10}{subsection.5.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Evaluointi}{10}{chapter.6}% 
+\contentsline {chapter}{\numberline {6}Evaluointi}{11}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Ensimm\IeC {\"a}inen iteraatio}{10}{section.6.1}% 
+\contentsline {section}{\numberline {6.1}Ensimm\IeC {\"a}inen iteraatio}{11}{section.6.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Toinen iteraatio}{10}{section.6.2}% 
+\contentsline {section}{\numberline {6.2}Toinen iteraatio}{11}{section.6.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Toinen iteraatio}{10}{section.6.3}% 
+\contentsline {section}{\numberline {6.3}Toinen iteraatio}{11}{section.6.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}\IeC {\"A}\IeC {\"a}nipalautteen antamisen helpottaminen}{10}{section.6.4}% 
+\contentsline {section}{\numberline {6.4}\IeC {\"A}\IeC {\"a}nipalautteen antamisen helpottaminen}{11}{section.6.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Kokemus \IeC {\"a}\IeC {\"a}nipalautteen antamisesta}{10}{section.6.5}% 
+\contentsline {section}{\numberline {6.5}Kokemus \IeC {\"a}\IeC {\"a}nipalautteen antamisesta}{11}{section.6.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Tulokset}{11}{chapter.7}% 
+\contentsline {chapter}{\numberline {7}Tulokset}{12}{chapter.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Ensimm\IeC {\"a}inen iteraatio}{11}{section.7.1}% 
+\contentsline {section}{\numberline {7.1}Ensimm\IeC {\"a}inen iteraatio}{12}{section.7.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Perustoimintoja koskevat tulokset}{11}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.1}Perustoimintoja koskevat tulokset}{12}{subsection.7.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.2}Yleiset tulokset/huomiot?}{11}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.2}Yleiset tulokset/huomiot?}{12}{subsection.7.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Toinen iteraatio}{11}{section.7.2}% 
+\contentsline {section}{\numberline {7.2}Toinen iteraatio}{12}{section.7.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Perustoimintoja koskevat tulokset}{11}{subsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7.2.1}Perustoimintoja koskevat tulokset}{12}{subsection.7.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Yleiset tulokset/huomiot?}{11}{subsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.2.2}Yleiset tulokset/huomiot?}{12}{subsection.7.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Pohdinta}{12}{chapter.8}% 
+\contentsline {chapter}{\numberline {8}Pohdinta}{13}{chapter.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}}{12}{section.8.1}% 
+\contentsline {section}{\numberline {8.1}}{13}{section.8.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}}{12}{section.8.2}% 
+\contentsline {section}{\numberline {8.2}}{13}{section.8.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Jatkokehitys}{12}{section.8.3}% 
+\contentsline {section}{\numberline {8.3}Jatkokehitys}{13}{section.8.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Yhteenveto}{13}{chapter.9}% 
+\contentsline {chapter}{\numberline {9}Yhteenveto}{14}{chapter.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{L\"ahteet}{14}{section*.3}% 
+\contentsline {chapter}{L\"ahteet}{15}{section*.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Liitteet}{15}{section*.5}% 
+\contentsline {chapter}{Liitteet}{16}{section*.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Ensimm\IeC {\"a}isen iteraation kyselylomake}{15}{section.I.1}% 
+\contentsline {section}{\numberline {A}Ensimm\IeC {\"a}isen iteraation kyselylomake}{16}{section.I.1}% 

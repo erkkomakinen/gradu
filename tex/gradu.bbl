@@ -209,6 +209,30 @@
       \field{pages}{9\bibrangedash 22}
       \range{pages}{14}
     \endentry
+    \entry{intro-usability}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Usability 101: Introduction to usability}
+      \field{year}{2003}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
