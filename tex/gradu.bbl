@@ -209,6 +209,75 @@
       \field{pages}{9\bibrangedash 22}
       \range{pages}{14}
     \endentry
+    \entry{improving-human}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=5121fc884cb68ab1735048c6f4b01c00}{%
+           family={Molich},
+           familyi={M\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \strng{fullhash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \strng{bibnamehash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \strng{authorbibnamehash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \strng{authornamehash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \strng{authorfullhash}{ce7cfbcd5e215572dcffb79a14d4748b}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{3}
+      \field{title}{Improving a human-computer dialogue}
+      \field{volume}{33}
+      \field{year}{1990}
+      \field{pages}{338\bibrangedash 348}
+      \range{pages}{11}
+    \endentry
+    \entry{enhancing}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{fullhash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{bibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
+      \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI conference on Human Factors in Computing Systems}
+      \field{title}{Enhancing the explanatory power of usability heuristics}
+      \field{year}{1994}
+      \field{pages}{152\bibrangedash 158}
+      \range{pages}{7}
+    \endentry
     \entry{intro-usability}{misc}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
@@ -224,6 +293,7 @@
       \strng{authorbibnamehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{authornamehash}{753054f71283d85f82cda8e35daf6bac}
       \strng{authorfullhash}{753054f71283d85f82cda8e35daf6bac}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{extradatescope}{labelyear}
@@ -232,6 +302,42 @@
       \field{labeltitlesource}{title}
       \field{title}{Usability 101: Introduction to usability}
       \field{year}{2003}
+    \endentry
+    \entry{heuristic-evaluation}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=753054f71283d85f82cda8e35daf6bac}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5121fc884cb68ab1735048c6f4b01c00}{%
+           family={Molich},
+           familyi={M\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{93f25eae6b00f04b1c168be0f628288f}
+      \strng{fullhash}{93f25eae6b00f04b1c168be0f628288f}
+      \strng{bibnamehash}{93f25eae6b00f04b1c168be0f628288f}
+      \strng{authorbibnamehash}{93f25eae6b00f04b1c168be0f628288f}
+      \strng{authornamehash}{93f25eae6b00f04b1c168be0f628288f}
+      \strng{authorfullhash}{93f25eae6b00f04b1c168be0f628288f}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the SIGCHI conference on Human factors in computing systems}
+      \field{title}{Heuristic evaluation of user interfaces}
+      \field{year}{1990}
+      \field{pages}{249\bibrangedash 256}
+      \range{pages}{8}
     \endentry
   \enddatalist
 \endrefsection
