@@ -58,6 +58,38 @@
       \field{pages}{122}
       \range{pages}{1}
     \endentry
+    \entry{cross2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fcc9454942f4d3266ce0e3a61ae7b0c4}{%
+           family={Cross},
+           familyi={C\bibinitperiod},
+           given={Nigel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \strng{fullhash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \strng{bibnamehash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \strng{authorbibnamehash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \strng{authornamehash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \strng{authorfullhash}{fcc9454942f4d3266ce0e3a61ae7b0c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Design issues}
+      \field{number}{3}
+      \field{title}{Designerly ways of knowing: Design discipline versus design science}
+      \field{volume}{17}
+      \field{year}{2001}
+      \field{pages}{49\bibrangedash 55}
+      \range{pages}{7}
+    \endentry
     \entry{moderating}{inproceedings}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=d7cdfb22af8f0e523d6eb31b63431df4}{%
@@ -338,6 +370,91 @@
       \field{year}{1990}
       \field{pages}{249\bibrangedash 256}
       \range{pages}{8}
+    \endentry
+    \entry{wicked}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=350a5d76204392db55fffb5b96ddca14}{%
+           family={Rittel},
+           familyi={R\bibinitperiod},
+           given={Horst\bibnamedelima W},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a6ca6a1eea0ffceca20bafe3b69d5029}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={Melvin\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \strng{fullhash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \strng{bibnamehash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \strng{authorbibnamehash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \strng{authornamehash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \strng{authorfullhash}{162716c6cb16a98c92f4034e4ea80c6e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Polity}
+      \field{number}{155}
+      \field{title}{2.3 planning problems are wicked}
+      \field{volume}{4}
+      \field{year}{1973}
+      \field{pages}{e169}
+      \range{pages}{-1}
+    \endentry
+    \entry{hevner2004}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8eab1026c45902f1f934d7fa9af36d1}{%
+           family={Von\bibnamedelima Alan},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={R\bibnamedelima Hevner},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5aec260b5b1381edc4b8ff6755f2d543}{%
+           family={March},
+           familyi={M\bibinitperiod},
+           given={Salvatore\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c518c214dc9e77148493e9ea47f505ab}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=65565df90d4793da7a2f20e5e1b07345}{%
+           family={Ram},
+           familyi={R\bibinitperiod},
+           given={Sudha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8401c3fb094105d4d7c5f0c127972603}
+      \strng{fullhash}{823e510c54bbd5d3de10bf7bf67bd1fd}
+      \strng{bibnamehash}{823e510c54bbd5d3de10bf7bf67bd1fd}
+      \strng{authorbibnamehash}{823e510c54bbd5d3de10bf7bf67bd1fd}
+      \strng{authornamehash}{8401c3fb094105d4d7c5f0c127972603}
+      \strng{authorfullhash}{823e510c54bbd5d3de10bf7bf67bd1fd}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS quarterly}
+      \field{number}{1}
+      \field{title}{Design science in information systems research}
+      \field{volume}{28}
+      \field{year}{2004}
+      \field{pages}{75\bibrangedash 105}
+      \range{pages}{31}
     \endentry
   \enddatalist
 \endrefsection
