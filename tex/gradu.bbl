@@ -205,6 +205,35 @@
       \verb 10.1109/FIE.2018.8658635
       \endverb
     \endentry
+    \entry{cycles}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e054261c7f1739e1ba1db0a45e385c1b}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \strng{fullhash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \strng{bibnamehash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \strng{authorbibnamehash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \strng{authornamehash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \strng{authorfullhash}{e054261c7f1739e1ba1db0a45e385c1b}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian journal of information systems}
+      \field{number}{2}
+      \field{title}{A three cycle view of design science research}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{pages}{4}
+      \range{pages}{1}
+    \endentry
     \entry{design}{incollection}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=d9ddca3b1b7af0f96d62a62424bd939a}{%

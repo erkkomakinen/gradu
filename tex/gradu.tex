@@ -7,6 +7,7 @@
 %\documentclass[utf8,bachelor,english]{gradu3}
 
 \usepackage{graphicx} % kuvien mukaan ottamista varten
+\graphicspath{ {./kuvat/} }
 
 \usepackage{amsmath} % hyödyllinen jos tekstisi sisältää matikkaa,
                      % ei pakollinen
@@ -104,7 +105,27 @@ Suunnittelututkimksen avulla pyritään luomaan innovaatioita, jotka määrittä
 
 \section{Suunnittelututkimuksen syklit}
 
-Suunnittelututkimuksessa 
+Suunnittelututkimuksen toteuttamiseen sisältyy on kolme oleellista sykliä: relevanssisykli, suunnittelusykli ja täsmällisyyssykli \parencite[][]{cycles}. Näitä syklejä toistetaan iteratiivisesti tutkimuksen lävitse, kunnes päädytään haluttuun lopputulokseen. Kuviossa ~\ref{fig:dsr} on esitetty suunnittelutukimuksen toteutukseen kuuluvat komponentit, joista syklit ovat korostettu sinisellä värillä. Kuvio pohjautuu Hevnerin vuonna 2004 \parencite[][]{hevner2004} laatimaan viitekehykseen, mutta kyseinen Hevnerin vuonna 2007 \parencite[][]{cycles} laatima kuvio painottaa suunnittelutukimukseen liittyviä syklejä. Seuraavissa alaluvuissa käsitellään kunkin kolmen syklin toteuttamista, merkityksiä ja ominaisuuksia. Lisäksi kutakin sykliä käsitellään tämän tutkimuksen näkökulmasta.
+
+\begin{figure}[h]\centering
+  \includegraphics[height=7cm,keepaspectratio]{DSR}
+  \caption[]{Suunnittelututkimuksen syklit}
+  \label{fig:dsr}
+\end{figure}
+
+\subsection{Relevanssisykli}
+
+Relevanssisykli on suunnittelututkimuksen aloittava sykli, joka määrittää sovellusalueen kontekstin tutkimukselle. Sovellusalue koostuu ihmisistä, organisaatiojärjestelmistä ja teknisistä järjestelmistä, jotka toimivat yhdessä tietyn tavoitteen saavuttamiseksi. Suunnittelututkimuksessa on oleellista löytää sovellusalueelta ongelmia tai mahdollisuuksia, joiden pohjalta lähdetään kehittämään niihin erilaisia ratkaisuja artefaktien avulla. Relevanssisykli määrittää ympäristön kautta suunnittelututkimukselle vaatimukset sekä hyväksymiskriteerit tutkimustulosten evaluoinnille. Oleelliset kysymykset ovat: helpottaako artefakti ympäristöään jollain tavalla, ja kuinka tämä parannus voidaan mitata \parencite[][]{cycles}?
+
+Relevanssin toinen merkittävä osa on artefaktin kenttätestaus, joka voidaan suorittaa monin eri tavoin. Sen tarkoituksena on selvittää, täyttääkö artefakti sille määrätyt vaatimukset, ja tuoko se sitä kautta jonkin asteisia parannuksia ympäristöönsä. On myös mahdollista, että vaatimukset ovat alusta alkaen olleet väärät, jolloin ne täytyy uudelleenmäärittää. Suunnittelutukimuksessa esille tulleet tulokset määrittävät sen, vaatiiko se ylimääräisiä relevanssisyklejä \parencite[][]{cycles}.
+
+Tämän tutkimuksen sovellusalue koostuu yliopistosta organisaationa, opettajista sekä järjestelmistä, joita hyödynnetään äänipalautteen antamisessa. Ensimmäisen relevanssisyklin tärkein tavoite on selvittää, miten opettajat suhtautuvat äänipalautteen antamiseen, millaisia työkaluja he käyttävät sekä millä keinoin äänipalautteen antamista voidaan helpottaa. Relevanssisyklin erityisen tärkeä osa on ongelmien tai mahdollisuuksien löytäminen, jotka tämän tutkimuksen kohdalla saivat alkuunsa Heimburgerin, Isomöttösen ym. \parencite[][]{academics} tekemän tutkimuksen kautta. Tutkimuksessa tuli esille tiettyjä äänipalautteen antamiseen liittyviä ongelmia ja ideoita äänipalautteen antamiseen tarkoitetusta työkalusta, joiden pohjalta tässä suunnittelututkimuksessa lähdetään etenemään.
+
+Kenttätestaus suoritetaan tutkimuksessa kehitettävän prototyyppisovelluksen käyttäjätestaamisella ja evaluoinnilla. Evaluoinnin suorittavat neljä opettajaa, joilla on jo aiempaa kokemusta äänipalautteen antamisesta. Kenttätestauksen suoritukseen osallistuvat tämän tutkielman ohjaajat Anneli Heimburger ja Ville Isomöttönen sekä kaksi muuta yliopistossa työskentelevää opettajaa Paavo Nieminen sekä Harri Keto. Evaluointia käsitellään tarkemmin luvussa X. 
+
+\subsection{Suunnittelusykli}
+
+\subsection{täsmällisyyssykli}
 
 \section{Artefaktien evaluointi}
 

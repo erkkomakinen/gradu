@@ -3615,16 +3615,22 @@
     <bcf:citekey order="11">hevner2004</bcf:citekey>
     <bcf:citekey order="12">hevner2004</bcf:citekey>
     <bcf:citekey order="13">wicked</bcf:citekey>
-    <bcf:citekey order="14">academics</bcf:citekey>
-    <bcf:citekey order="15">intro-usability</bcf:citekey>
-    <bcf:citekey order="16">intro-usability</bcf:citekey>
-    <bcf:citekey order="17">intro-usability</bcf:citekey>
-    <bcf:citekey order="18">improving-human</bcf:citekey>
-    <bcf:citekey order="19">enhancing</bcf:citekey>
-    <bcf:citekey order="20">heuristic-evaluation</bcf:citekey>
-    <bcf:citekey order="21">heuristic-evaluation</bcf:citekey>
-    <bcf:citekey order="22">enhancing</bcf:citekey>
-    <bcf:citekey order="23">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="14">cycles</bcf:citekey>
+    <bcf:citekey order="15">hevner2004</bcf:citekey>
+    <bcf:citekey order="16">cycles</bcf:citekey>
+    <bcf:citekey order="17">cycles</bcf:citekey>
+    <bcf:citekey order="18">cycles</bcf:citekey>
+    <bcf:citekey order="19">academics</bcf:citekey>
+    <bcf:citekey order="20">academics</bcf:citekey>
+    <bcf:citekey order="21">intro-usability</bcf:citekey>
+    <bcf:citekey order="22">intro-usability</bcf:citekey>
+    <bcf:citekey order="23">intro-usability</bcf:citekey>
+    <bcf:citekey order="24">improving-human</bcf:citekey>
+    <bcf:citekey order="25">enhancing</bcf:citekey>
+    <bcf:citekey order="26">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="27">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="28">enhancing</bcf:citekey>
+    <bcf:citekey order="29">heuristic-evaluation</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
