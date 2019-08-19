@@ -117,17 +117,31 @@ Suunnittelututkimuksen toteuttamiseen sisältyy on kolme oleellista sykliä: rel
 
 Relevanssisykli on suunnittelututkimuksen aloittava sykli, joka määrittää sovellusalueen kontekstin tutkimukselle. Sovellusalue koostuu ihmisistä, organisaatiojärjestelmistä ja teknisistä järjestelmistä, jotka toimivat yhdessä tietyn tavoitteen saavuttamiseksi. Suunnittelututkimuksessa on oleellista löytää sovellusalueelta ongelmia tai mahdollisuuksia, joiden pohjalta lähdetään kehittämään niihin erilaisia ratkaisuja artefaktien avulla. Relevanssisykli määrittää ympäristön kautta suunnittelututkimukselle vaatimukset sekä hyväksymiskriteerit tutkimustulosten evaluoinnille. Oleelliset kysymykset ovat: helpottaako artefakti ympäristöään jollain tavalla, ja kuinka tämä parannus voidaan mitata \parencite[][]{cycles}?
 
-Relevanssin toinen merkittävä osa on artefaktin kenttätestaus, joka voidaan suorittaa monin eri tavoin. Sen tarkoituksena on selvittää, täyttääkö artefakti sille määrätyt vaatimukset, ja tuoko se sitä kautta jonkin asteisia parannuksia ympäristöönsä. On myös mahdollista, että vaatimukset ovat alusta alkaen olleet väärät, jolloin ne täytyy uudelleenmäärittää. Suunnittelutukimuksessa esille tulleet tulokset määrittävät sen, vaatiiko se ylimääräisiä relevanssisyklejä \parencite[][]{cycles}.
+Relevanssin toinen merkittävä osa on artefaktin kenttätestaus, joka voidaan suorittaa monin eri tavoin. Sen tarkoituksena on selvittää, täyttääkö artefakti sille määrätyt vaatimukset, ja tuoko se sitä kautta jonkin asteisia parannuksia ympäristöönsä. On myös mahdollista, että vaatimukset ovat alusta alkaen olleet väärät, jolloin ne täytyy uudelleenmäärittää. Suunnittelutukimuksen edetessä tulokset määrittävät sen, vaatiiko tutkimus ylimääräisiä relevanssisyklejä \parencite[][]{cycles}.
 
 Tämän tutkimuksen sovellusalue koostuu yliopistosta organisaationa, opettajista sekä järjestelmistä, joita hyödynnetään äänipalautteen antamisessa. Ensimmäisen relevanssisyklin tärkein tavoite on selvittää, miten opettajat suhtautuvat äänipalautteen antamiseen, millaisia työkaluja he käyttävät sekä millä keinoin äänipalautteen antamista voidaan helpottaa. Relevanssisyklin erityisen tärkeä osa on ongelmien tai mahdollisuuksien löytäminen, jotka tämän tutkimuksen kohdalla saivat alkuunsa Heimburgerin, Isomöttösen ym. \parencite[][]{academics} tekemän tutkimuksen kautta. Tutkimuksessa tuli esille tiettyjä äänipalautteen antamiseen liittyviä ongelmia ja ideoita äänipalautteen antamiseen tarkoitetusta työkalusta, joiden pohjalta tässä suunnittelututkimuksessa lähdetään etenemään.
 
 Kenttätestaus suoritetaan tutkimuksessa kehitettävän prototyyppisovelluksen käyttäjätestaamisella ja evaluoinnilla. Evaluoinnin suorittavat neljä opettajaa, joilla on jo aiempaa kokemusta äänipalautteen antamisesta. Kenttätestauksen suoritukseen osallistuvat tämän tutkielman ohjaajat Anneli Heimburger ja Ville Isomöttönen sekä kaksi muuta yliopistossa työskentelevää opettajaa Paavo Nieminen sekä Harri Keto. Evaluointia käsitellään tarkemmin luvussa X. 
 
-\subsection{Suunnittelusykli}
-
 \subsection{täsmällisyyssykli}
 
-\section{Artefaktien evaluointi}
+Täsmällisyyssyklin tarkoituksena on tuoda tutkimukseen aiempaa tietämystä aihealueeseen liittyen, jotta voidaan varmistua siitä, että toteutettavan suunnittelututkimuksen tulokset ovat innovaatiivisia. Suunnittelututkimus perustuu useimmiten tieteellisiin teorioihin, teknisiin menetelmiin sekä kokemuksiin ja asiantuntijuuteen, jotka määrittävät sovellusalueen sen hetkisen tilan. Lisäksi tietopohjaan kuuluuvat sovellusalueella jo käytössä olevat artefaktit ja prosessit \parencite[][]{cycles}.
+
+Sopivien teorioiden ja menetelmien löytäminen artefaktin kehittämisen ja evaluoinnin tueksi on suunnittelututkimuksen toteuttajien yksi perustavanlaatuisista tehtävistä. On kuitenkin epärealistista ja alalle haitallista odottaa, että kaikki suunnittelututkimuksen osa-alueet perustuvat tiettyihin teorioihin. Suotuisampaa on tunnistaa useita idoiden lähteitä, jotka luovat pohjan suunnittelututkimuksen toteuttamiselle \parencite[][]{cycles}.
+
+Jos suunnittelutukimuksen tulokset ovat innovatiivisia, ne tuovat eri asteisia lisäyksiä sovellusalueen tietopohjaan. Muutoksen voivat liittyä teorioihin, menetelmiin, meta-artefakteihin tai kokemuksiin, jotka on saavutettu tutkimuksen ja kenttätestauksen toteuttamisen yhteydessä \parencite[][]{cycles}.
+
+Tämän suunnittelututkimuksen tietopohja pohjautuu opettajien kokemuksiin ja näkemyksiin äänipalautteen antamisesta, käyttöliittymäsuunnittelussa hyödynnettäviin käytettävyysperiaatteisiin sekä erilaisten nauhoitus- ja äänipalautetyökalujen tämänhetkiseen tilaan.  Kuten jo aiemmin on mainittu, niin tämä suunnittelututkimus sai alkunsa tutkimuksesta, joka käsittelee äänipalautteen antamista opettajien näkökulmasta. Tutkimuksessa tuli esille tietynlaisia haasteita äänipalautteen antamiseen liittyen, sekä ideoita äänipalautteen antamiseen suunnatusta työkalusta. Jo olemassa olevien nauhoitus- ja äänipalautetyökalujen tutkimisen pohjalta voidaan todeta, että työkalut eivät ole täysin soveltuvia äänipalautteen antamiseen ja sitä kautta niissä on parantamisen varaa. Esimerkiksi useimmat äänipalautteen antamiseen suunnatut työkalut ovat kaupallisia, joten niiden käyttö opetuksessa on lähes aina poissuljettua. Jo tämän tutkimuksen alkuvaiheilla oli selkeää, että äänitteen väliin tulisi pystyä nauhoittamaan uusi äänite mahdollisimman helposti. Monissa äänitystyökaluissa tämä onnistuu, mutta se vaatii useita peräkkäisiä toimintoja. Lisäksi työkalut sisältävät runsaasti sellaisia toimintoja, jotka ovat äänipalautteen antamisessa tarpeettomia. Pelkästään näiden tietojen pohjalta saadaan varmuus siihen, että suunnittelututkimuksessa kehitetään jotain uutta ja innovatiivista.
+
+Käyttöliittymän suunnittelu on erittäin tärkeää, jotta työkalu olisi käytettävyydeltään mahdollisimman hyvä. Suunnittelun apuna tutkimuksessa käytetään kahta toisistaan eroavaa käytettävyysperiaatteiden joukkoa. Nielsenin heuristiikat tarjoavat yleisiä käytettävyyteen liittyviä ohjenuoria kun taas Gestaltin hahmolait keskittyvät ainoastaan käyttöliittymän visuaalisuuteen ihmisaivojen hahmottelukyvyn kautta. Suunnittelussa hyödynnettyjä käytettävyysperiaatteita käsitellään tarkemmin luvussa X.
+
+Äänipalautetyökalun evaluointi suoritetaan hyvin vapaamuotoisena käyttäjäkyselynä, joka suoritetaan kahteen kertaan tutkimuksen eri vaiheissa. Kyselyn tärkein tavoite on saada selville helpottiko äänipalautetyökalu äänipalautteen antamista tai siihen suhtautumista. Lisäksi evaluointiin kuuluu työkalun tarkoituksenmukaisuuden, perustoimintojen sekä käytettävyyden arviointi. Evaluointi on täysin laadullinen, sillä edellä mainittujen ominaisuuksien arvioiminen olisi määrällisesti haastavaa, erityisesti kun kyseessä on prototyyppisovellus. Äänipalautetyökalun evaluointia käsitellään tarkemmin luvussa X.
+
+\subsection{Suunnittelusykli}
+
+
+
+\section{Artefaktin evaluointi}
 
 
 \chapter{Työkalun suunnittelu ja toteutus}
