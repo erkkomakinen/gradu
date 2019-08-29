@@ -150,6 +150,7 @@ Näiden kahden suunnittelusyklin lisäksi äänipalautetyökalun kehittäminen t
 \section{Artefaktin evaluointi}
 
 \subsection{evaluoinnin kriteerit}
+\label{kriteerit}
 
 Artefaktin evaluointi on suunnittelututkimuksen merkittävä osa, jossa arvioidaan tietyin menetelmin, täyttääkö artefakti sille määrätyt kriteerit. Suunnittelututkimuksen alkuvaiheilla on tärkeä määrittää mihin objektiin evaluointi kohdistuu ja mitkä ovat evaluoinnin kriteerit, sekä määrittää kuinka artefakti evaluoidaan ja mitä menetelmiä siinä hyödynnetään \parencite[][]{evaluation}. 
 
@@ -181,9 +182,24 @@ Suurin osa suunnittelututkimuksista keskittyy organisaation toiminnan tehostamis
 
 Rakenteeseen, aktiivisuuteen ja evoluutioon liittyvät evaluointikriteerit voidaan rajata suoraan evaluoinnin ulkopuolelle, sillä evaluoinnin kohteena oleva artefakti on prototyyppi. Ne ovat yksityiskohtaisempia kriteerejä, jotka liittyvät vahvasti mm. viimeistelyyn, täydellisyyteen, suoritustehoon ja mukautuvuuteen, jota ei prototyypiltä voida vaatia. Äänipalautteen suunnittelussa ja toteutuksessa nämä seikat on myös jätetty lähes täysin huomiotta, sillä tarkoituksena on kahden tutkimusiteraation kautta saada selville työkalun toimivat ja ei-toimivat ratkaisut tavoitteeseen ja käyttäjäystävällisyyteen liittyen.
 
-\subsection{evaluoinnin menetelmät}
+\subsection{Artefaktin evaluointimenetelmät}
 
+Artefaktin evaluointi voidaan suorittaa useilla eri menetelmillä.  Prat, Comyn-Wattiau ja Akoka \parencite[][]{evaluation} ovat omassa suunnittelututkimuksessaan luoneet mallin, joka kuvaa evaluointimenetelmän erilaisia ominaisuuksia. He ovat jaotelleet evaluointimenetelmän kokonaisuudessaan viiteen eri komponenttiin, joita ovat evaluointikriteerit, evaluoinnin tyyppi, evaluoinnin taso, evaluoinnin suhteellisuus sekä toissijaiset osallistujat. Evaluoinnin kriteerit on käsitelty edellisessä alaluvussa \ref{kriteerit}. Evaluoinnin tyyppi jaotellaan joko määrälliseksi tai laadulliseksi, joista määrällinen tuottaa jonkin mitatun tai havaitun numeerisen arvon \parencite[][]{evaluation}. Evaluointi voi olla joko abstrakti- tai instanssi-tasoinen, joka riipuu evaluoitavan artefaktin ominaisuuksista. Instanssitasoinen evaluointi voidaan suorittaa, joko kuvitteellisten tai autenttisten tehtävänantojen kautta. Evaluointi voi olla suhteellisuudeltaan absoluuttinen, suhteessa samankaltaisiin artefakteihin tai suhteessa artefaktin puuttumiseen. Toissijaiset osallistujat taas ovat henkilöitä, jotka testaavat esimerkiksi artefaktin prototyyppiä \parencite[][]{evaluation}. Edellä mainituista evaluoinnin ominaisuuksista osa jakautuu vielä alaluokkiin.
 
+Tässä tutkimuksessa suoritettava äänipalautetyökalun evaluointi on instanssitasoista, sillä abstraktin artefaktin sijaan evaluoinnin kohteena on prototyyppi äänipalautetyökalusta. Usein prototyyppiä evaluoidessa hyödynnetään toissijaisia osallistujia, mutta tämän tutkimuksen tapauksessa artefaktia evaluoivat ainoastaan ensisijaiset koehenkilöt. Ensimmäiseen iteraatioon osallistuu kaksi henkilöä, ja toiseen iteraatioon neljä henkilöä.
+
+Molemmat evaluointikerroista suoritetaan lähes samalla tavalla, pieniä muutoksia lukuunottamatta. Koehenkilöille lähetetään sähköpostin välityksellä linkki äänipalautetyökaluun, sekä arviointilomakkeeseen, jossa heidän tulee vastata äänipalautetyökalua koskeviin kysymyksiin. Evaluoinnin ohjeistukset on kerrottu arviointilomakkeen alussa. Koehenkilöitä pyydetään aluksi käyttämään äänipalautetyökalua autenttisessa tilanteessa, jotta evaluoinnin tulokset olisivat mahdollisimman tarkkoja. Tämän jälkeen heitä pyydetään testaamaan jokaista työkalun perustoimintoja, joita annetun tehtävän aikana koehenkilö ei testannut. Nämä tehtävänannot suoritettuaan koehenkilön tulee vastata lomakkeella esitettyihin kysymyksiin. Lomakkeella käyttäjän tulee arvioida, palveliko äänipalautetyökalu tarkoitustaan, helpottiko työkalu äänipalautteen antamista entuudestaan, tai muuttiko se suhtautumista äänipalautteen antamiseen. Sen lisäksi koehenkilön tulee arvioida työkalun perustoiminnallisuuksia. Lomakkeen loppuvaiheilla käyttäjällä on mahdollisuus tuoda vapaamuotoisesti ilmi työkaluun liittyviä huomioita ja kehitysideoita.
+
+Evaluointi on suhteeltaan absoluuttinen, suhteessa muihin samankaltaisiin artefakteihin, sekä suhteessa vastaavanlaisten artefaktien puuttumiseen, joten se kattaa kaikki kolme osa-aluetta. Evaluoinnissa arvioidaan absoluuttisesti työkalun tarkoituksenmukaisuutta ja toiminnallisuutta, mutta lisäksi äänipalautteen antoa pyydetään vertaamaan koehenkilön aiempiin kokemuksiin. Toisaalta aivan vastaavanlaisia äänipalautteen antamiseen suunniteltuja artefakteja ei ole vielä kehitetty, joten vertaaminen tapahtuu esimerkiksi perinteisiä nauhoitusohjelmia vasten.
+
+\begin{table}[t]
+\caption{Yhteenveto evaluoinnista}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+Kuvaus                                                                                                                                         & evaluointikriteerit                                                                                                                                                                             & \begin{tabular}[t]{@{}l@{}}evaluoinnin\\  tyyppi\end{tabular} & \begin{tabular}[t]{@{}l@{}}evaluoinnin\\ taso\end{tabular} & \begin{tabular}[t]{@{}l@{}}evaluoinnin \\ suhteellisuus\end{tabular}                                                                                  \\ \hline
+\begin{tabular}[t]{@{}l@{}}Äänipalautetyökalun\\ tarkoituksenmukaisuuden, \\ käytettävyyden ja \\ toiminnallisuuden\\ evaluointi.\end{tabular} & \begin{tabular}[t]{@{}l@{}}Tavoite / tehokkuus\\ Tavoite / validius\\ \\ ympäristö / \\ johdonmukaisuus\\ ihmisten kanssa /\\ hyödyllisyys,\\ ymmärrettävyys, \\ helppokäyttöisyys\end{tabular} & Laadullinen                                                   & Instanssi                                                  & \begin{tabular}[t]{@{}l@{}}Absoluuttinen,\\ \\ suhteessa saman-\\ kaltaisiin\\ artefakteihin,\\ \\ suhteessa artefaktien \\ puuttumiseen\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
 
 \chapter{Työkalun suunnittelu ja toteutus}
 
