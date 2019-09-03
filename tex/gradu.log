@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  29 AUG 2019 17:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  3 SEP 2019 19:19
 entering extended mode
 **./gradu.tex
 (gradu.tex
@@ -846,6 +846,11 @@ Overfull \hbox (1.20001pt too wide) detected at line 17
  []\T1/ptm/m/n/12 20[]
  []
 
+
+Overfull \hbox (1.20001pt too wide) detected at line 23
+ []\T1/ptm/m/n/12 29[]
+ []
+
 )
 \tf@lot=\write6
 \openout6 = `gradu.lot'.
@@ -1001,62 +1006,72 @@ Overfull \hbox (1.20001pt too wide) detected at line 87
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 89
- []\T1/ptm/m/n/12 25[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 91
- []\T1/ptm/m/n/12 25[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 93
- []\T1/ptm/m/n/12 25[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 95
- []\T1/ptm/m/n/12 25[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 97
- []\T1/ptm/m/n/12 26[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 99
- []\T1/ptm/m/n/12 26[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 101
- []\T1/ptm/m/n/12 26[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 103
- []\T1/ptm/m/n/12 26[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 105
  []\T1/ptm/m/n/12 27[]
  []
 
 
+Overfull \hbox (1.20001pt too wide) detected at line 91
+ []\T1/ptm/m/n/12 30[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 93
+ []\T1/ptm/m/n/12 30[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 95
+ []\T1/ptm/m/n/12 30[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 97
+ []\T1/ptm/m/n/12 30[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 99
+ []\T1/ptm/m/n/12 30[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 101
+ []\T1/ptm/m/n/12 31[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 103
+ []\T1/ptm/m/n/12 31[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 105
+ []\T1/ptm/m/n/12 31[]
+ []
+
+
 Overfull \hbox (1.20001pt too wide) detected at line 107
- []\T1/ptm/m/n/12 28[]
+ []\T1/ptm/m/n/12 31[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 109
- []\T1/ptm/m/n/12 30[]
+ []\T1/ptm/m/n/12 32[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 111
- []\T1/ptm/m/n/12 30[]
+ []\T1/ptm/m/n/12 33[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 113
+ []\T1/ptm/m/n/12 35[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 115
+ []\T1/ptm/m/n/12 35[]
  []
 
 )
@@ -1093,7 +1108,7 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
  [4
 
 ]
-<./kuvat/DSR.png, id=353, 981.6675pt x 441.65pt>
+<./kuvat/DSR.png, id=365, 981.6675pt x 441.65pt>
 File: ./kuvat/DSR.png Graphic file (type png)
 <use ./kuvat/DSR.png>
 Package pdftex.def Info: ./kuvat/DSR.png  used on input line 111.
@@ -1113,7 +1128,7 @@ li, jo-ka m‰‰-rit-t‰‰ so-vel-lusa-lu-een kon-
  []
 
 [5] [6 <./kuvat/DSR.png>] [7] [8] [9]
-<./kuvat/evaluointikriteerit.png, id=395, 723.70375pt x 994.71625pt>
+<./kuvat/evaluointikriteerit.png, id=407, 723.70375pt x 994.71625pt>
 File: ./kuvat/evaluointikriteerit.png Graphic file (type png)
 <use ./kuvat/evaluointikriteerit.png>
 Package pdftex.def Info: ./kuvat/evaluointikriteerit.png  used on input line 16
@@ -1187,41 +1202,47 @@ Luku 7.
 [25
 
 ]
+Overfull \hbox (3.9261pt too wide) in paragraph at lines 351--352
+\T1/ptm/m/n/12 huo-man-nut ‰‰-ni-pa-lau-te-tyˆ-ka-lun oi-keas-sa yl‰-kul-mas-sa
+ si-jait-se-vaa kysymysmerkki-ikonia, jos-
+ []
+
+[26] [27] [28] [29] [30]
 Luku 8.
-[26
+[31
 
 ]
 Luku 9.
-[27
+[32
 
 ]
-Overfull \hbox (1.52896pt too wide) in paragraph at lines 359--359
+Overfull \hbox (1.52896pt too wide) in paragraph at lines 411--411
 [][]\T1/ptm/m/n/12 Heimb¸rger, A., ja V. Iso-mˆt-tˆ-nen. 2017. ``Mo-de-ra-ting 
 cul-tu-ral ef-fects in a hig-her e-education
  []
 
-[28
+[33
 
-] [29] [30
+] [34] [35
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 365.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 365.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 417.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 417.
  (gradu.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 365.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 365.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 417.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 417.
 Package rerunfilecheck Info: File `gradu.out' has not changed.
-(rerunfilecheck)             Checksum: F856A257581D28DDCA93BB656EAA67AA;3810.
+(rerunfilecheck)             Checksum: F3C4974D2E458C5C8DBF7377CBF4BAF5;3967.
 Package logreq Info: Writing requests to 'gradu.run.xml'.
 \openout1 = `gradu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15554 strings out of 492895
- 267618 string characters out of 3133473
+ 15579 strings out of 492895
+ 267947 string characters out of 3133473
  1001896 words of memory out of 3000000
- 19125 multiletter control sequences out of 15000+200000
+ 19142 multiletter control sequences out of 15000+200000
  39969 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,13n,62p,1486b,3911s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1230,9 +1251,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gradu.pdf (36 pages, 258903 bytes).
+Output written on gradu.pdf (41 pages, 271704 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
- 116 named destinations out of 1000 (max. 500000)
- 443 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 601 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
 
