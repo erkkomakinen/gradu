@@ -58,6 +58,48 @@
       \field{pages}{122}
       \range{pages}{1}
     \endentry
+    \entry{chang}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f7a6ddfd2d5917d29cf0c09231c8621b}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Dempsey},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e88eb8fae6e112ead1554cd358ef16a3}{%
+           family={Dooley},
+           familyi={D\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d97c98d85b76af5f92f06f4559176c52}{%
+           family={Tuovinen},
+           familyi={T\bibinitperiod},
+           given={Juhani\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Australian Computer Society, Inc.}%
+      }
+      \strng{namehash}{d2a9feda442528e37fb1559394abeb50}
+      \strng{fullhash}{d2a9feda442528e37fb1559394abeb50}
+      \strng{bibnamehash}{d2a9feda442528e37fb1559394abeb50}
+      \strng{authorbibnamehash}{d2a9feda442528e37fb1559394abeb50}
+      \strng{authornamehash}{d2a9feda442528e37fb1559394abeb50}
+      \strng{authorfullhash}{d2a9feda442528e37fb1559394abeb50}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Seventh world conference on computers in education conference on Computers in education: Australian topics-Volume 8}
+      \field{title}{Gestalt theory in visual screen design: a new look at an old subject}
+      \field{year}{2002}
+      \field{pages}{5\bibrangedash 12}
+      \range{pages}{8}
+    \endentry
     \entry{cross2001}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=fcc9454942f4d3266ce0e3a61ae7b0c4}{%
@@ -89,6 +131,37 @@
       \field{year}{2001}
       \field{pages}{49\bibrangedash 55}
       \range{pages}{7}
+    \endentry
+    \entry{rearranged}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=96b20ed74f5c7ad16b102dcd0d1ae3cf}{%
+           family={Guberman},
+           familyi={G\bibinitperiod},
+           given={Shelia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \strng{fullhash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \strng{bibnamehash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \strng{authorbibnamehash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \strng{authornamehash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \strng{authorfullhash}{96b20ed74f5c7ad16b102dcd0d1ae3cf}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in psychology}
+      \field{title}{Gestalt Theory Rearranged: Back to Wertheimer}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{pages}{1782}
+      \range{pages}{1}
     \endentry
     \entry{moderating}{inproceedings}{}
       \name{author}{2}{}{%
@@ -269,6 +342,33 @@
       \field{year}{2010}
       \field{pages}{9\bibrangedash 22}
       \range{pages}{14}
+    \endentry
+    \entry{koffka}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c4bf638c5d1c4062869b30ac876f073d}{%
+           family={Koffka},
+           familyi={K\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c4bf638c5d1c4062869b30ac876f073d}
+      \strng{fullhash}{c4bf638c5d1c4062869b30ac876f073d}
+      \strng{bibnamehash}{c4bf638c5d1c4062869b30ac876f073d}
+      \strng{authorbibnamehash}{c4bf638c5d1c4062869b30ac876f073d}
+      \strng{authornamehash}{c4bf638c5d1c4062869b30ac876f073d}
+      \strng{authorfullhash}{c4bf638c5d1c4062869b30ac876f073d}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Gestalt psychology}
+      \field{year}{2013}
     \endentry
     \entry{modeling}{article}{}
       \name{author}{1}{}{%

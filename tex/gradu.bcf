@@ -3648,12 +3648,15 @@
     <bcf:citekey order="43">intro-usability</bcf:citekey>
     <bcf:citekey order="44">intro-usability</bcf:citekey>
     <bcf:citekey order="45">intro-usability</bcf:citekey>
-    <bcf:citekey order="46">improving-human</bcf:citekey>
-    <bcf:citekey order="47">enhancing</bcf:citekey>
-    <bcf:citekey order="48">heuristic-evaluation</bcf:citekey>
-    <bcf:citekey order="49">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="46">koffka</bcf:citekey>
+    <bcf:citekey order="47">rearranged</bcf:citekey>
+    <bcf:citekey order="48">chang</bcf:citekey>
+    <bcf:citekey order="49">improving-human</bcf:citekey>
     <bcf:citekey order="50">enhancing</bcf:citekey>
     <bcf:citekey order="51">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="52">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="53">enhancing</bcf:citekey>
+    <bcf:citekey order="54">heuristic-evaluation</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
