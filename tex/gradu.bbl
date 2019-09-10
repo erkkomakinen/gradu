@@ -702,6 +702,51 @@
       \field{title}{General systems theory: Problems, perspectives, practice}
       \field{year}{2005}
     \endentry
+    \entry{stone}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=08219812ece4db3e5fc78e7675742567}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Debbie},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bc778a30ad80e81fcb8e647e113da7c7}{%
+           family={Jarrett},
+           familyi={J\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=76e90953d9ccfb50533f67aa90f1eba3}{%
+           family={Woodroffe},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=69c46022cd009d1dd640193bd12d5649}{%
+           family={Minocha},
+           familyi={M\bibinitperiod},
+           given={Shailey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c8c0bcc915d3ed9776f5b8440af01eda}
+      \strng{fullhash}{9805d5314e7f534e36eb21d79e7c2bce}
+      \strng{bibnamehash}{9805d5314e7f534e36eb21d79e7c2bce}
+      \strng{authorbibnamehash}{9805d5314e7f534e36eb21d79e7c2bce}
+      \strng{authornamehash}{c8c0bcc915d3ed9776f5b8440af01eda}
+      \strng{authorfullhash}{9805d5314e7f534e36eb21d79e7c2bce}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User interface design and evaluation}
+      \field{year}{2005}
+    \endentry
     \entry{hevner2004}{article}{}
       \name{author}{4}{}{%
         {{uniquename=0,uniquepart=base,hash=f8eab1026c45902f1f934d7fa9af36d1}{%

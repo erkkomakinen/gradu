@@ -293,7 +293,43 @@ Heuristisessa evaluoinnissa ei tulisi luottaa ainoastaan yhden ihmisen arviointi
 
 \section{Käyttöliittymä}
 
-Käyttöliittymä on järjestelmän osa, jonka 
+Käyttöliittymä on järjestelmän osa, jonka kautta käyttäjä on vuorovaikutuksessa järjestelmän kanssa saavuttaakseen tietyn tavoitteensa \parencite[][]{stone}. Äänipalautetyökalun tapauksessa käyttötarkoitus on hyvin rajattu äänipalautteen antamiseen, joten käyttöliittymän on tuettava juuri sitä mahdollisimman tehokkaasti ja käyttäjäystävällisesti.  Käyttöliittymissä on usein myös eroja erilaisten järjestelmien välillä, sillä vuorovaikutuksessa käytetään erilaista välineitä, jotka vaikuttavat käyttöliittymäsuunnitteluun \parencite[][]{stone}. Äänipalautetyökalun yksi tärkeimmistä vaatimuksista on se, että se on käytettävissä perinteisillä tietokoneilla, tableteilla ja puhelimilla, joten myös käyttöliittymä on suunniteltava siten, että sen käyttö onnistuu hiiren ja näppäimistön lisäksi myös kosketusnäytöllä. Myös käyttöliittymän skaalautuvuus on otettava huomioon, sillä päätelaitteiden ruudun koko vaikuttaa merkittävästi siihen, kuinka käyttöliittymän komponentit järjestestäytyvät. Käyttöliittymä on esitetty tietokone-koossa kuvassa X, tablettikoossa-kuvassa X ja mobiili-koossa kuvassa X.
+
+Käyttöliittymän suunnittelun apuna hyödynnetään usein erilaisia käytettävyysperiaatteita, joilla käyttöliittymän suunnitteluratkaisuja voidaan perustella. Äänipalautetyökalun käyttöliityymän suunnittelussa on hydynnetty Nielsenin heuristiikkoja sekä Gestaltin hahmolakeja, jotka on käsitelty tarkemmin luvussa X. Tässä luvussa esitellään äänipalautetyökalun käyttöliittymä kokonaisuudessaan, ja peilataan tehtyjä suunnittelu- ja toteutusratkaisuja hyödynnettyihin käytettävyysperiaatteisiin. Luvussa ja kuvissa esitettävä käyttöliittymä on suunnittelututkimuksen toisessa iteraatiossa evaluoitu konfiguraatio, joten siinä on pieniä muutoksia ensimmäisen evaluoinnin kohteena olevaan käyttöliittymään verrattuna. 
+
+Äänipalautetyökalun käyttöliittymä voidaan jakaa vaakasuunnassa neljään eri alueeseen, joista kulkin eroaa selvästi toisistaan. Työkalun yläosassa sijaitsevat avustusikkunan avaava kysymysmerkki-ikoni, siniset erikoistoiminto-painikkeet sekä peruuta- ja palaa-toiminnot. Keskiössä sijaitsee muusta taustasta selkeästi erottuva äänileikenäkymä, joka on käytännössä aikajana, johon nauhoitetut äänileikkeet ääniaaltoineen piirretään. Äänileikenäkymän alapuolella sijaitsevat navigaatiotoiminnot, jotka toteutettiin ensimmäisen iteraation evaluointitulosten pohjalta. Alimpana käyttöliittymässä sijaitsevat perustoiminnot, joiden avulla varsinainen äänipalautteen nauhoittaminen ja editointi suoritetaan. 
+
+Edellä mainittujen osioiden sijoittelulla ja ulkoasulla on suuri merkitys työkalun käytettävyyden kannalta, jotta ne erottuisivat selkeästi erilaisiksi kokonaisuuksisi, joilla on oma tehtävänsä. Käyttöliittymän komponenttien asettelu on tehty mahdollisimman symmetriseksi ja tasapainoiseksi kokonaisuudeksi, ilman että yhtäkään toiminnallisuutta olisi piilotettu käyttäjältä. Gestaltin symmetrian lain mukaan tasapainoinen, eli keskiviivan molemmin puoleinen asettelu koetaan selkeämmäksi, kuin epäsymmetrinen asettelu. Nielsenin tunnistaminen muistamisen sijaan -heuristiikan mukaan taas käyttöliittymän toiminnallisuuksien tulisi olla esillä ja mahdollisimman helposti saatavilla, joka myös toteutuu käyttöliittymässä. Edellä mainittujen seikkojen lisäksi käyttöliittymä on suunniteltu visuaalisuudeltaan mahdollisimman selkeäksi, eikä se sisällä epäolennaista informaatiota, joten se on linjassa myös Nielsenin esteettinen ja minimalistinen suunnittelu -heuristiikan kanssa. Informaation määrää on vähennetty myös tietoisesti siten, että perustoiminnot ovat painikkeita, jotka toimivat kuten kytkimet, eli kun toiminto aktivoidaan, muut perustoiminnot muuttuvat haaleiksi merkiksi siitä, että ne eivät sillä hetkellä ole käytettävissä. Lisäksi aktivoidun painikkeen teksti muuttuu tällöin esimerkiksi Play-toiminnon tapauksessa "Stop"-tekstiksi.
+
+Gstaltin läheisyyden lain mukaan vierekkäin olevat elementit tulkitaan yhteenkuuluviksi, jonka vuoksi sitä on hyödynnetty käyttöliittymän painikkeiden ryhmittelyssä. Käyttöliittymän erikoistoiminnot, peruuta - ja palaa-komennot, navigointipainikkeet sekä perustoiminnot ovat toiminnallisuuksiltaan selkeästi toisistaan eroavia, joten ne on ryhmitelty eri tavoin äänileikenäkymän ympärille. Perustoiminto-painikkeet muodostavat oman ryhmänsä, mutta niiden sisäisessä jaottelussa on myös hyödynnetty läheisyyden lakia. Record-, ja Insert Record -toiminnot ovat selvästi nauhoitukseeen liittyviä toimintoja, joten ne on oma pienempi ryhmänsä. Play- ja Previe-toiminnot taas ovat äänitteiden toistamiseen liittyviä toimintoja, joten ne ovat oma ryhmänsä. Split- ja Delete-toiminnot liittyvät äänileikkeiden katkomiseen ja poistamiseen, joten myös ne ovat vahvasti liitoksissa toisiinsa. Läheisyyden lakia hyödyntäen, nämä kolme perustoimintojen ryhmää ovat erotettu toisistaan suuremmilla väleillä, kun toistensa kanssa samankaltaiset perustoiminnot. 
+
+Gestaltin läheisyyden lain lisäksi elemettejä voidaan ryhmitellä myös samanlaisuuden lakia hyödyntäen. Kohteet voidaan tulkita samanlaiseksi, joko värin, koon, muodon perusteella. Äänipalautetyökalussa värin avulla ryhmittelyä on hyödynnetty erityisesti painikkeissa, läheisyyden lain lisäksi. Erikoistoiminnot ovat korostettu sinisellä värillä, kun taas perustoiminnot ja niihin vahvasti niittyvät peruuta- ja palaa -toiminnot on värjätty harmaalla värillä. Navigointipainikkeet taas on väriltään myös äänileikenäkymässä käytetty vaalean harmaa, sillä ne liittyvät vahvasti äänileikenäkymään, jossa äänileikkeiden välillä navigointi tapahtuu. Muista painikkeista eroten navigointipainikkeet on myös suorakaiteen sijasta ympyrän muotoisia, jotta ne erottuisivat selkeästi niiden alapuolella sijaitsevista perustoiminnoista. Koska uloimpien ja sisempien navigointipainikkeiden toiminnallisuuksissa on eroja, niin kaksi sisimmäistä painiketta on kooltaan suurempia, kuin kaksi ulommaista painiketta. Lisäksi ulommissa ja sisemmissä painikkeissa olevien nuolien tyyli on hieman erilainen, jotta ne erottuisivat toisistaan.
+
+Kaikissa käyttöliittymän painikkeissa, erikoistoiminnot poislukien, on hyödynnetty ikoneja, jotta ne olisivat mahdollisimman helposti ymmärrettäviä. Nielsenin johdonmukaisuus ja standardit -heuristiikan sekä Gestaltin yhdenmukaisuuden lain mukaan käyttöliittymässä tulisi käyttää tuttuja kuvioita, joiden tulkintaa helpottavat aiemmat kokemukset. Suurimmassa osassa ikoneista tämä toteutuu ainakin suurimmaksi osaksi, mutta esimerkiksi Insert Record on uudenlainen toiminto, jota ei ole saatavilla äänitystyökaluissa, joten ikoni täytyi kehitellä itse. Johdonmukaisuutta ja standardeja koskeva nielsenin heuristiikka koskee kuvioiden lisäksi myös tekstiä, joten painikkeiden teksteissä on pyritty noudattamaan standardeja. Poikkeuksena ovat Insert Record -, ja preview-toiminnot, joille jouduttiin keksimään nimi itse. Insert Record-toiminnosta joku voi päätellä, että kyseessä on väliin nauhoittaminen, sillä insert-toiminto löytyy myös näppäimistöstä, mutta Preview-toiminto voi olla vaikeampi päätellä pelkän tekstin pohjalta. Nielsenin heuristiikkojen mukaan järjestelmässä tulisi puhua käyttäjän ymmärtämää kieltä, johon painikkeiden teksteillä ja avustusikkunan toimintojen kuvauksilla pyritty.
+
+Johdonmukaisuutta ja standardeja on myös pyritty noudattamaan äänileikenäkymässä, joka koostuu aikajanasta, kursorista, äänileikkeistä ja vierityspalkista. Kuten useimmissa ohjelmistoissa, aikajana on äänileikenäkymän yläreunassa, jonka alla on kaistale, jossa äänileikkeet näytetään. Aikajanaa tai äänileikettä klikattessa punaisella värillä korostettua äänileikenäkymän kursoria siirrteään klikattuun kohtaan. Äänileikkeisiin piirretään äänen visuaalisen hahmottamisen tueksi ääniaalto, kuten useimmissa äänitystyökaluissa on tapana. Yksittäisen äänileikkeen reuna on ohut ja saman värinen kuin piirrettävä ääniaalto, joten äänileikkeiden erottamisen tueksi, äänileikettä klikkaamalla, se korostetaan sinisen tummemmalla sävyllä.
+
+Nielsenin käyttäjän hallinta ja vapaus -heuristiikan mukaankäyttäjän tulisi pystyä palaamaan ei-toivotusta tilasta, joten työkaluun on toteutettu peruuta- ja palaa-toiminnot. Nielsenin heuristiikkojen mukaan käyttöliittymän tulisi olla myös joustava ja tehokas, joten tietyille toiminnoille on määritetty pikanäppäimet. Peruuta- ja palauta-toiminnoissa on noudatettu yleistä "CTRL + Z" ja "CTRL + Y" näppäinyhdistelmää, ja Delete-toiminnossa delete-näppäintä. Perustoiminnoille pikanäppäinten määrittämistä harkittiin, mutta tässä tutkimuksessa ainoastaan Play-toiminto aktivoituu välilyöntiä painamalla. Äänileikenäkymässä on alusta asti ollut mahdollisuus liikuttaa kursoria myös nuolinäppäimillä, mutta ensimmäisen iteraation jälkeen toteutettuihin yksittäisten äänileikkeiden välillä navigointitoimintoihin lisättiin koehenkilön ehdottama "SHITF + NUOLI OIKEALLE TAI VASEMMALLE" näppäinyhdistelmä.
+
+Lisäksi Nielsenin heuristiikkojen mukaan virheiden tapahtuminen tulisi ensisijaisesti estää, ja sellaisen sattuessa, virheestä tulisi esittää selkeä kuvaus ja ohjeet siitä toipumiseen. Koska evaluoitava äänipalautetyökalu on prototyyppi, niin virheitä saattaa käytön aikana kuitenkin ilmaantua. Toisen iteraation evaluoinnin ensimmäisenä suorittanut henkilö huomasi käyttöliittymää vilkaistessaan, ennen ohjeistuksen lukemista, ettei erikoistoiminnoista tapahtunut mitään, ja informoi asiasta. Tämän vuoksi erikoistoimintojen painikkeisiin lisättiin sellainen toiminto, että niitä painettaessa ilmoitetaan käyttäjällä ponnahdusikkunana, että niitä toimintoja ei ole toteutettu.
+
+\begin{figure}[h]\centering
+  \includegraphics[height=7cm,keepaspectratio]{UI}
+  \caption[]{Äänipalautetyökalun käyttöliittymä tietokone-koossa.}
+  \label{fig:UI}
+\end{figure}
+
+\begin{figure}[h]\centering
+  \includegraphics[height=7cm,keepaspectratio]{UI_tablet}
+  \caption[]{Äänipalautetyökalun käyttöliittymä tabletti-koossa}
+  \label{fig:UI_tablet}
+\end{figure}
+
+\begin{figure}[h]\centering
+  \includegraphics[height=7cm,keepaspectratio]{UI_mobile}
+  \caption[]{Äänipalautetyökalun käyttöliittymä mobiili-koossa}
+  \label{fig:UI_mobile}
+\end{figure}
 
 \section{Perustoiminnot}
 
@@ -342,17 +378,6 @@ Import-toiminnon avulla käyttäjä pystyy tuomaan jo nauhoitetun äänipalautte
 \subsection{Save}
 
 Save-toiminnolla työstetty äänipalaute saadaan tallennettua, joko äänitiedostona tai projektitiedostona, jolloin se voidaan avata äänipalautetyökalussa uudestaan.
-
-%
-
-\chapter{Evaluointi}
-
-\section{Ensimmäinen iteraatio}
-\section{Toinen iteraatio}
-\section{Toinen iteraatio}
-
-\section{Äänipalautteen antamisen helpottaminen}
-\section{Kokemus äänipalautteen antamisesta}
 
 %
 
@@ -410,24 +435,19 @@ Pienemmistä kehitysideoista päätettiin toteuttaa erikoistoimintojen tekstikuv
 \end{tabular}
 \end{table}
 
-\subsection{Perustoimintoja koskevat tulokset}
-\subsection{Yleiset tulokset/huomiot?}
-
 \section{Toinen iteraatio}
-\subsection{Perustoimintoja koskevat tulokset}
-\subsection{Yleiset tulokset/huomiot?}
+\subsection{Tulokset}
+\subsection{Jatkotoimenpiteet}
 
 %
 
 \chapter{Pohdinta}
 
-\section{}
-\section{}
+\section{Tutkimusongelma}
+\section{Vahvuudet ja heikkoudet}
 \section{Jatkokehitys}
 
 %
-
-\chapter{Yhteenveto}
 
 \printbibliography
 

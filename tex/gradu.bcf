@@ -3657,6 +3657,8 @@
     <bcf:citekey order="52">heuristic-evaluation</bcf:citekey>
     <bcf:citekey order="53">enhancing</bcf:citekey>
     <bcf:citekey order="54">heuristic-evaluation</bcf:citekey>
+    <bcf:citekey order="55">stone</bcf:citekey>
+    <bcf:citekey order="56">stone</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
