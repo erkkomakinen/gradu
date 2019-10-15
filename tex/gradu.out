@@ -1,47 +1,44 @@
 \BOOKMARK [0][]{chapter.1}{1 Johdanto}{}% 1
-\BOOKMARK [0][]{chapter.2}{2 Palaute}{}% 2
-\BOOKMARK [1][]{subsection.2.0.1}{2.0.1 Millaista on hyv\344 palaute?}{chapter.2}% 3
-\BOOKMARK [2][]{subsection.2.0.2}{2.0.2 Formatiivinen palaute}{subsection.2.0.1}% 4
-\BOOKMARK [2][]{subsection.2.0.3}{2.0.3 Summatiivinen palaute}{subsection.2.0.1}% 5
-\BOOKMARK [0][]{chapter.3}{3 \304\344nipalaute}{}% 6
-\BOOKMARK [1][]{section.3.1}{3.1 Hyv\344t ja huonot puolet}{chapter.3}% 7
-\BOOKMARK [1][]{section.3.2}{3.2 \304\344nipalautteen antaminen}{chapter.3}% 8
-\BOOKMARK [0][]{chapter.4}{4 Tutkimusmenetelm\344}{}% 9
-\BOOKMARK [1][]{section.4.1}{4.1 Suunnittelututkimuksen syklit}{chapter.4}% 10
-\BOOKMARK [2][]{subsection.4.1.1}{4.1.1 Relevanssisykli}{section.4.1}% 11
-\BOOKMARK [2][]{subsection.4.1.2}{4.1.2 t\344sm\344llisyyssykli}{section.4.1}% 12
-\BOOKMARK [2][]{subsection.4.1.3}{4.1.3 Suunnittelusykli}{section.4.1}% 13
-\BOOKMARK [1][]{section.4.2}{4.2 Artefaktin evaluointi}{chapter.4}% 14
-\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 evaluoinnin kriteerit}{section.4.2}% 15
-\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Artefaktin evaluointimenetelm\344t}{section.4.2}% 16
-\BOOKMARK [0][]{chapter.5}{5 Ty\366kalun suunnittelu ja toteutus}{}% 17
-\BOOKMARK [1][]{section.5.1}{5.1 Tekniset toteutusratkaisut}{chapter.5}% 18
-\BOOKMARK [1][]{section.5.2}{5.2 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{chapter.5}% 19
-\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Gestaltin hahmolait}{section.5.2}% 20
-\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Nielsenin heuristiikat}{section.5.2}% 21
-\BOOKMARK [1][]{section.5.3}{5.3 K\344ytt\366liittym\344}{chapter.5}% 22
-\BOOKMARK [1][]{section.5.4}{5.4 Perustoiminnot}{chapter.5}% 23
-\BOOKMARK [2][]{subsection.5.4.1}{5.4.1 Record}{section.5.4}% 24
-\BOOKMARK [2][]{subsection.5.4.2}{5.4.2 Insert Record}{section.5.4}% 25
-\BOOKMARK [2][]{subsection.5.4.3}{5.4.3 Play}{section.5.4}% 26
-\BOOKMARK [2][]{subsection.5.4.4}{5.4.4 Preview}{section.5.4}% 27
-\BOOKMARK [2][]{subsection.5.4.5}{5.4.5 Split}{section.5.4}% 28
-\BOOKMARK [2][]{subsection.5.4.6}{5.4.6 Delete}{section.5.4}% 29
-\BOOKMARK [1][]{section.5.5}{5.5 Erikoistoiminnot}{chapter.5}% 30
-\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 Start New}{section.5.5}% 31
-\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Import}{section.5.5}% 32
-\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Save}{section.5.5}% 33
-\BOOKMARK [0][]{chapter.6}{6 Evaluoinnin tulokset}{}% 34
-\BOOKMARK [1][]{section.6.1}{6.1 Ensimm\344inen iteraatio}{chapter.6}% 35
-\BOOKMARK [2][]{subsection.6.1.1}{6.1.1 tulokset}{section.6.1}% 36
-\BOOKMARK [2][]{subsection.6.1.2}{6.1.2 jatkotoimenpiteet}{section.6.1}% 37
-\BOOKMARK [1][]{section.6.2}{6.2 Toinen iteraatio}{chapter.6}% 38
-\BOOKMARK [2][]{subsection.6.2.1}{6.2.1 Tulokset}{section.6.2}% 39
-\BOOKMARK [2][]{subsection.6.2.2}{6.2.2 Jatkotoimenpiteet}{section.6.2}% 40
-\BOOKMARK [0][]{chapter.7}{7 Pohdinta}{}% 41
-\BOOKMARK [1][]{section.7.1}{7.1 Tutkimusongelma}{chapter.7}% 42
-\BOOKMARK [1][]{section.7.2}{7.2 Vahvuudet ja heikkoudet}{chapter.7}% 43
-\BOOKMARK [1][]{section.7.3}{7.3 Jatkokehitys}{chapter.7}% 44
-\BOOKMARK [0][]{section*.3}{L\344hteet}{}% 45
-\BOOKMARK [0][]{section*.5}{Liitteet}{}% 46
-\BOOKMARK [1][]{section.G.1}{A Ensimm\344isen iteraation kyselylomake}{section*.5}% 47
+\BOOKMARK [0][]{chapter.2}{2 \304\344nipalaute}{}% 2
+\BOOKMARK [1][]{section.2.1}{2.1 Yleist\344 palautteenannosta ja \344nipalautteesta}{chapter.2}% 3
+\BOOKMARK [1][]{section.2.2}{2.2 \304\344nipalautteen hyvi\344 ja huonoja puolia}{chapter.2}% 4
+\BOOKMARK [1][]{section.2.3}{2.3 \304\344nipalautteen antaminen}{chapter.2}% 5
+\BOOKMARK [0][]{chapter.3}{3 Tutkimusmenetelm\344}{}% 6
+\BOOKMARK [1][]{section.3.1}{3.1 Suunnittelututkimuksen syklit}{chapter.3}% 7
+\BOOKMARK [2][]{subsection.3.1.1}{3.1.1 Relevanssisykli}{section.3.1}% 8
+\BOOKMARK [2][]{subsection.3.1.2}{3.1.2 t\344sm\344llisyyssykli}{section.3.1}% 9
+\BOOKMARK [2][]{subsection.3.1.3}{3.1.3 Suunnittelusykli}{section.3.1}% 10
+\BOOKMARK [1][]{section.3.2}{3.2 Artefaktin evaluointi}{chapter.3}% 11
+\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 evaluoinnin kriteerit}{section.3.2}% 12
+\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 Artefaktin evaluointimenetelm\344t}{section.3.2}% 13
+\BOOKMARK [0][]{chapter.4}{4 Ty\366kalun suunnittelu ja toteutus}{}% 14
+\BOOKMARK [1][]{section.4.1}{4.1 Tekniset toteutusratkaisut}{chapter.4}% 15
+\BOOKMARK [1][]{section.4.2}{4.2 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{chapter.4}% 16
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Gestaltin hahmolait}{section.4.2}% 17
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Nielsenin heuristiikat}{section.4.2}% 18
+\BOOKMARK [1][]{section.4.3}{4.3 K\344ytt\366liittym\344}{chapter.4}% 19
+\BOOKMARK [1][]{section.4.4}{4.4 Perustoiminnot}{chapter.4}% 20
+\BOOKMARK [2][]{subsection.4.4.1}{4.4.1 Record}{section.4.4}% 21
+\BOOKMARK [2][]{subsection.4.4.2}{4.4.2 Insert Record}{section.4.4}% 22
+\BOOKMARK [2][]{subsection.4.4.3}{4.4.3 Play}{section.4.4}% 23
+\BOOKMARK [2][]{subsection.4.4.4}{4.4.4 Preview}{section.4.4}% 24
+\BOOKMARK [2][]{subsection.4.4.5}{4.4.5 Split}{section.4.4}% 25
+\BOOKMARK [2][]{subsection.4.4.6}{4.4.6 Delete}{section.4.4}% 26
+\BOOKMARK [1][]{section.4.5}{4.5 Erikoistoiminnot}{chapter.4}% 27
+\BOOKMARK [2][]{subsection.4.5.1}{4.5.1 Start New}{section.4.5}% 28
+\BOOKMARK [2][]{subsection.4.5.2}{4.5.2 Import}{section.4.5}% 29
+\BOOKMARK [2][]{subsection.4.5.3}{4.5.3 Save}{section.4.5}% 30
+\BOOKMARK [0][]{chapter.5}{5 Evaluoinnin tulokset}{}% 31
+\BOOKMARK [1][]{section.5.1}{5.1 Ensimm\344inen iteraatio}{chapter.5}% 32
+\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 tulokset}{section.5.1}% 33
+\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 jatkotoimenpiteet}{section.5.1}% 34
+\BOOKMARK [1][]{section.5.2}{5.2 Toinen iteraatio}{chapter.5}% 35
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Tulokset}{section.5.2}% 36
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Jatkotoimenpiteet}{section.5.2}% 37
+\BOOKMARK [0][]{chapter.6}{6 Pohdinta}{}% 38
+\BOOKMARK [1][]{section.6.1}{6.1 Tutkimusongelma}{chapter.6}% 39
+\BOOKMARK [1][]{section.6.2}{6.2 Vahvuudet ja heikkoudet}{chapter.6}% 40
+\BOOKMARK [1][]{section.6.3}{6.3 Jatkokehitys}{chapter.6}% 41
+\BOOKMARK [0][]{section*.3}{L\344hteet}{}% 42
+\BOOKMARK [0][]{section*.5}{Liitteet}{}% 43
+\BOOKMARK [1][]{section.F.1}{A Ensimm\344isen iteraation kyselylomake}{section*.5}% 44

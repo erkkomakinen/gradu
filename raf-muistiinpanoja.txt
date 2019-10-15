@@ -1,0 +1,260 @@
+MODERATING CULTURAL EFFECTS
+
+- 60% preferred combination of raf and written
+- According to the learners, combination feedback should consist of written main points (in the form of a bulleted list) sent via email and a more detailed explanation via RAF
+- length 5-10min
+- embedded and one audio file considered equally good options
+- students were asked most important aspects
+	- wxplaining misunderstandigs
+	- demonstrating correct practices
+	- suggesting spproaches for future assignments
+- students considered best way to structure raf
+	- general comments
+	- kappaleittain/luvuttain
+	- summary of next steps
+	- critical comments
+	- appreciations
+- prefered rich nuances
+- 80% thought tone of voice showed are canges to be made minor or major
+- less follow up questions 
+- raf may have potential to moderate the effects of cultural dimensions
+- boundaries separating cultural groups can be unclear 
+- in some cases cultural differences seem inevitable
+- 
+
+VOICE ASSESSMENT ON STUDENT WORK
+
+- clarity of meaning
+- increased time spent with returned assignment and multiple listens
+- few students felt critiscism 
+- positive behavioural changes
+	- listened and corrected
+	- listened before returning other course assigment
+	- many students said they will return to listen while for next assigment
+
+AUDIO FEEDBACK VERSUS Written
+
+- tone was favorable
+- it didnt sound quite as harsh
+- felt direct
+- AF was more general and refer to global issues
+- Written feedback tended to focus on micro-level issues
+- written comments were more robust, and the audio comments were more general.
+- The results from this study indicated that some of the audio comments had little to no grammatical content in them, while written comments from the same instructors had extensive grammatical content in them.
+- In the literature, the effectiveness of the use of audio comments to provide feedback on micro-level areas (e.g., grammar, punctuation, spelling, and citation format) is mixed
+- written is preferred for micro-level concerns
+- !teachers preferred written, students preferred AF
+- voice sounded "soft and young" and lacked authorative quality, which student disagreed
+- "however AF gave chance to be more specific on corrections that needed to be made"
+- Even though the audio comments lacked specific grammatical suggestions, Laura found the paragraph-by-paragraph and section-by-section analysis of the audio more effective for her than the written feedback
+- it may not be easy for students to refer back to specific comments in audio format
+- The literature has shown that teacher personality and tone of voice can affect an instructor's commenting style when giving audio feedback
+- clarity of comments is more important in distance
+- listening and writing down may be obstacle
+- technical difficulties
+- Second, teachers' methods of audio creation should be considered as future studies are conducted. In this study, one instructor wrote out her comments first and then recorded them. This method would defeat one purpose of using audio comments, which is to save time. In addition,
+- some preferred written because of locating mistakes
+
+AUDIO FEEDBACK DESIGN PRINCIPLES
+
+- usually recorded PC or portable MP3
+- audio easier to record than video
+- student get AF quicker
+- it's not as critical as perhaps it is as when it's written in black and white
+- 
+
+ENGAGING
+
+- time is only saved ONLY if AF is used
+- re-accessing on AF is harder than writing
+- !AF is not SUITED to all types of assignments
+- Saves time, particularly if substantial amount of feedback is given. Only true if used as replacement for text comments, not as supplement
+- students may check only mark
+- file sharing site links sent via email better than grademark. additionally tracking urls can be used and free structure
+- students used mobile to check email
+
+EVALUATING
+
+- international students liked most AF
+- AF was worst mode 
+- written comments can be vague
+- lack of visual in AF
+- fast to record but fb distribution is slower
+
+FEEDBACK MODES
+
+- multiple modes
+- digital modes were liked
+- !AF considered to be more personalized than f2f, which was suprising
+- !AF was not considered so usable, maybe because lack of visual (should indicate verbally or embedded audio clips)
+- one well known limitation of AF is navigation
+- Students who received multiple forms of feedback had consistently higher mean ranks than students who did not
+- The results demonstrate that students who received multiple forms of feedback, including at least one digital recording, had consistently higher mean rank scores that those who did not receive a digital recording.
+
+FEEDBACK WITH DISTANCE
+
+- aimplication that f2f is the best
+- feels less confrontational than f2f
+- it was positive to hear voice
+- time pressures -> traditional practises are continued
+
+ARE YOU LISTENING
+
+- tutors found easy
+- AF took much less time
+- 1 minute audio is equal to 6 minutes of writing
+- students review feedback more likely when received in audio form
+- 
+
+STUDENT
+
+- formative process completed
+- may be more understandable bevause multimedia
+- praise comments
+- tutors could provide examples how to change the work
+- students appreciate a more personal caring approach
+
+TO LISTEN
+
+- personal
+- international students could listen repeatedly until understandable
+- better than grademark
+- support for indivudual written feedback and group audio feedback
+- took same time to record than write grademark comments
+- Within the audio feedback the tutor found it easier to
+emphasise the aspects that students need to work on and feed forward into future
+assignments.
+
+USING FOR STUDENT FEEDBACK
+
+- students needed folios in front of them... to be effective
+- personal
+- kuilun kaventaja
+
+DEVELOPING
+
+- Written usually has complex vocabulary or academic language
+- handwriting
+- detailed
+- being spoken to
+- tone of voice to convey overall impression (oli jossain toisessakin ->)
+- some didnt want formative feedback because requires more work and some perceived it as negative feedback
+- final and last year students
+- !distance better than f2f 
+- inclined to look again the piece of work
+- divulged they were likely to listen more than once to formative AF
+- Audio feedback, a richer form of feedback, provides tutors with the space to acknowledge the wider context in which suggested developments are made and the scope to explain what areas should be prioritised.
+- Students preferred feedback that was more detailed and considered all the sections that they had written, not just generic or summarised comments.
+- first year students want praises when final year students had greater resilence to being constructive
+- better than f2f
+- audio should be structured and distributed in particular way
+- students appreciated some positive remarks to acknowledge...
+- dual approach might take too much resources..
+- framework
+
+HOW DO ACADEMICS
+
+- versatile communication
+- reduction in cognitive and physical load
+- unpleasant feelings from sensitivity of using human voice, sitting alone in workroom
+
+-----------
+
+HOW DO ACADEMICS
+
+- RAF is more suitable to writing tasks than exact tasks
+- To make adoption smoother, supporting collegue could decrease the threshold and TECHNICAL FACILITIES SHOULD BE MADE ACCESSIBLE
+
+VOICE ASSESMENT OF STUDENT WORK
+
+- cassettes
+- embedded files
+- techonolgy has eliminated most difficulties of hardware problems
+- need for greater bandwidth
+- MS word large file sizes
+- new audio format take much space
+- Tier 1: MS WORD
+	- needs separate program for recording
+	- ubiquotous
+	- requires WAV-format
+- Tier 2: Stand-alone software
+	- can provide comments  by referring to lines of text insteand of embedding
+	- recording in mono reduces file size
+	- more expensive in some cases
+- Tier 3: Voice recoring and screen recording
+	- combines voice and visual data
+	- richest mode
+	- requires more techonolgically, compression, publication and interface
+	- much larger file size
+	- cost
+- Ipad adoptions in higher education
+- markup can be hard with tablets and mobile
+- Given voice grading's large file sizes and constraints in wireless transfer, Tier 2 software still seems to us the best choice, regardless of whether it is used on a desktop or on a mobile device.
+- learnin disabiliteis wanted written
+- comments were in nearly every case more complete and coherent than written remarks
+- fatigue combined with use of muscles that have been displaced by those used in digital entry, resulted in marks that were incomplete in thought and often illegible to those who needed to read them the most
+- rhetorical stance of written comments was quite often difficult to identify
+- reduced time 5-10%
+ tier 3 took most take bevause of set-up time and each review need to be rendered into a viewable format
+
+AUDIO FEEDBACK DESIGN PRINCIPLES
+
+- usually recorded PC or portable MP3
+- most tutors dont edit their recordings
+- "its easier to collect your thoughts and just start again"
+
+AUDIO FEEDBACK VERSUS Written
+
+- teachers had technical difficulties, students did not
+- 
+
+USING AUDIO TECHONOLGY
+
+- first time took same time than written but felt that quality was better, second time took much less time
+- This ability to give higher quality feedback was also highlighted during the Sounds Good project, with staff stating that they ‘took a little less time but gave much more detailed feedback and expanded on explanations’[11], and by Ennis-Reynolds, who states staff found it ‘much more satisfactory’ [5].
+- needed quiet room
+- needed RE-RECORD after interruption 
+- re-naming after uploding and sendin in email was laborious
+- principles presented
+
+USING AUDIO FEEDBACK WITH DISTANCE
+
+- recording it and making it available...
+- lecturers were generally comfortable
+- Recommendations for best practice for audio feedback
+
+USING RECORDED AUDIO FEEDBACK IN CROSS SULTURAL
+
+- Optima has raf
+- learners and supervisors have overall positive attitude towards raf
+- Adobe reader
+- word
+- audacity
+- different types of raf
+
+DEVELOPING
+
+- needing a quiet place or techonoligal demands
+- used digitized recorders and downloading them to windows media player
+- email filled
+- requires some technological skills (teachers and students)
+- structure is needed
+- first and last year students
+- using written and audio together is best but takes resources
+
+STUDENT
+
+- worse sound quality decrease personality
+- VLE may overcome file-size difficulties
+
+ENGAGING
+
+- why RAF is not widely used?
+- good practice for the use of audio feedback presented
+
+SMARTPHONE
+
+- !editing audio is neither useful nor realistic
+
+
+

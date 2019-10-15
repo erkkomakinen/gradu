@@ -2,3 +2,24 @@
 - Summatiivinen arviointi kertoo, miten hyv‰ oppilas on kyseisell‰ hetkell‰. Formatiivinen arviointi taas kertoo, mit‰ opettajan tulee tehd‰ seuraavaksi, jotta oppilaan oppiminen paranisi.
 - onko palautteenanto prosessi vai tuotos?
 - 
+
+
+
+Pohdinta
+
+- tiedoston tulisi olla helppo uploadata
+- palautte tulisi olla saatavilla juuri tietylle henkilˆlle
+
+-----
+
+\chapter{Palaute}
+
+\subsection{Summatiivinen palaute ja formatiivinen arviointi}
+
+Arvointi on t‰rke‰ osa opetusta, ja se voidaan suorittaa usein eriaisin tavoin, riippuen sen pohjimmaiseta tavoitteesta. Arviointi jaoitellaan usein summatiiviseen ja formatiiviseen arvointiin, joista molemmilla on selv‰sti toisistaan eroavat funktionsa. Formatiivisen arvioinnin tavoitteena on parantaa ja nopeuttaa oppimista \parencite[][]{sadler1998}, kun taas summatiivinen arviointi keskittyy oppilaan suoriutumisen systemaattiseen mittaamiseen tietty‰ arvosana-asteikkoa vasten \parencite[][]{meanings}. Formatiivista ja summatiivista k‰sittelev‰ss‰ kirjallisuudessa niiden kuvaukset, terminologia ja suhteet toisiinsa ei kuitenkaan ole t‰ysin linjassa toistensa kanssa. Taraksen \parencite[][]{perceptions} laatiman tutkimuksen mukaan edes opettajilla, ei ole selke‰‰ k‰sityst‰ niiden m‰‰ritelmist‰ ja suhteista toisiinsa.
+
+\subsection{Millaista on hyv‰ palaute?}
+%
+
+
+Gibbs & Simpsonin m‰‰ritelm‰ tehokkaalle palautteelle - Students...
