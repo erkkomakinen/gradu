@@ -3,12 +3,21 @@
 - onko palautteenanto prosessi vai tuotos?
 - 
 
-
+- share suoraan työkalussa
 
 Pohdinta
 
 - tiedoston tulisi olla helppo uploadata
 - palautte tulisi olla saatavilla juuri tietylle henkilölle
+
+- Toisaalta osa palautteenantoon suunnitelluista työkaluistakin, voidaan 
+  kokea haastavaksi, varsinkin, jos kyseessä on laaja järjestelmä. 
+  Cannin \parencite[][]{engaging} toteuttamassa tutkimuksessa 
+  palautteenantoon suunniteltu järjestelmä Turnitin GradeMark osoittautui huonommaksi vaihtoehdoksi, kuin 
+- ilmoittaa oppilaille kuinka avata raf (academics)
+- editoinnille ei muka tarvetta, ymmärtää jos lyhyet äänipalautteet, heimburger 5-10min, opettajallekin mieluisampaa antaa juuri sellaista palautetta kun haluaa eikä tarvitse mennä ekalla kerralla nappiin
+- Word dokumentit oli isokokoisia ja vaativat erillisen nauhoitusohjelman
+- email merge
 
 -----
 
@@ -23,3 +32,5 @@ Arvointi on tärkeä osa opetusta, ja se voidaan suorittaa usein eriaisin tavoin, 
 
 
 Gibbs & Simpsonin määritelmä tehokkaalle palautteelle - Students...
+
+Äänipalautteen hyödyntäminen opetuksessa on saavuttanut suosiota vuosien varrella, sillä se on tehokas palautemuoto tekstimuotoisen palautteen ohella. Äänipalaute on tekstimuotoista palauttetta yksityiskohtaisempaa, ymmärrettävempää ja henkilökohtaisempaa, joten. Äänipalautteen antaminen koostuu palautteen nauhoittamisesta ja sen jakamisesta, ja nämä toimenpiteet voidaan suorittaa usein eri tavoin. Tässä suunnittelutukimuksessa suunniteltiin ja toteutettiin äänipalautteen antamiseen suunnattu web-pohjainen työkalu, jota evaluoimalla selvitettiin, voidaanko äänipalautteen antamista helpottaa entisestään tai voidaanko suhtautumista sen antamiseen muuttaa. Työkalun suunnittelussa ja toteutuksessa hyödynnettiin Nielsenin heuristiikkoja sekä Gestaltin hahmolakeja, ja osa ratkaisuista päätettiin yhteistyössä äänipalautetta opetuksessaan hyödyntäneiden ohjaajien kanssa. Työkalun evaluointi suoritettiin kahdessa iteraatiossa, joista ensimmäiseen osallistuivat kaksi koehenkilöä. Ensimmäisen iteraation pohjalta työkaluun tehtiin parannuksia, ja siirryttiin toiseen evaluointiin, jonka suorittivat neljä koehenkilöä. Tulosten perusteella voidaan sanoa, että.

@@ -5,7 +5,7 @@ MODERATING CULTURAL EFFECTS
 - length 5-10min
 - embedded and one audio file considered equally good options
 - students were asked most important aspects
-	- wxplaining misunderstandigs
+	- explaining misunderstandigs
 	- demonstrating correct practices
 	- suggesting spproaches for future assignments
 - students considered best way to structure raf
@@ -104,7 +104,7 @@ ARE YOU LISTENING
 - AF took much less time
 - 1 minute audio is equal to 6 minutes of writing
 - students review feedback more likely when received in audio form
-- 
+-   
 
 STUDENT
 
@@ -208,6 +208,11 @@ AUDIO FEEDBACK VERSUS Written
 - teachers had technical difficulties, students did not
 - 
 
+EVALUATING WRITTEN AUDIO AND VIDEO
+
+- distributing is slower than written but faster than video
+- requires digital access to listen
+
 USING AUDIO TECHONOLGY
 
 - first time took same time than written but felt that quality was better, second time took much less time
@@ -251,6 +256,8 @@ ENGAGING
 
 - why RAF is not widely used?
 - good practice for the use of audio feedback presented
+- One solution to this is a simple click-record, click-listen system with no
+additional steps for staff or students to negotiate
 
 SMARTPHONE
 

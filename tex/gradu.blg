@@ -1,22 +1,21 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'gradu.blg'
 [54] biber-MSWIN64:315> INFO - === 
-[114] Biber.pm:371> INFO - Reading 'gradu.bcf'
-[455] Biber.pm:889> INFO - Found 38 citekeys in bib section 0
-[485] Biber.pm:4093> INFO - Processing section 0
-[508] Biber.pm:4254> INFO - Looking for bibtex format file 'gradu.bib' for section 0
-[523] bibtex.pm:1523> INFO - LaTeX decoding ...
-[641] bibtex.pm:1340> INFO - Found BibTeX data source 'gradu.bib'
-[673] Utils.pm:193> WARN - month field 'Oct' in entry 'moderating' is not an integer - this will probably not sort properly.
-[1010] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\OBFVuPNGHy\gradu.bib_8116.utf8, line 3, warning: 31 characters of junk seen at toplevel
-[1010] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\OBFVuPNGHy\gradu.bib_8116.utf8, line 213, warning: 39 characters of junk seen at toplevel
-[1011] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\OBFVuPNGHy\gradu.bib_8116.utf8, line 348, warning: 32 characters of junk seen at toplevel
-[1011] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\OBFVuPNGHy\gradu.bib_8116.utf8, line 383, warning: 39 characters of junk seen at toplevel
-[1012] Utils.pm:193> WARN - I didn't find a database entry for 'enganing' (section 0)
-[1152] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1152] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1152] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'level = 4' with 'level = 2'
-[1152] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'fi'
-[1240] bbl.pm:636> INFO - Writing 'gradu.bbl' with encoding 'UTF-8'
-[1279] bbl.pm:739> INFO - Output to gradu.bbl
-[1288] Biber.pm:110> INFO - WARNINGS: 6
+[115] Biber.pm:371> INFO - Reading 'gradu.bcf'
+[457] Biber.pm:889> INFO - Found 42 citekeys in bib section 0
+[492] Biber.pm:4093> INFO - Processing section 0
+[517] Biber.pm:4254> INFO - Looking for bibtex format file 'gradu.bib' for section 0
+[532] bibtex.pm:1523> INFO - LaTeX decoding ...
+[668] bibtex.pm:1340> INFO - Found BibTeX data source 'gradu.bib'
+[726] Utils.pm:193> WARN - month field 'Oct' in entry 'moderating' is not an integer - this will probably not sort properly.
+[1114] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\Kb415xH8_Q\gradu.bib_3616.utf8, line 3, warning: 31 characters of junk seen at toplevel
+[1114] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\Kb415xH8_Q\gradu.bib_3616.utf8, line 235, warning: 39 characters of junk seen at toplevel
+[1114] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\Kb415xH8_Q\gradu.bib_3616.utf8, line 370, warning: 32 characters of junk seen at toplevel
+[1114] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\makinen\AppData\Local\Temp\Kb415xH8_Q\gradu.bib_3616.utf8, line 405, warning: 39 characters of junk seen at toplevel
+[1250] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'level = 4' with 'level = 2'
+[1250] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1251] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1251] Biber.pm:3921> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'fi'
+[1344] bbl.pm:636> INFO - Writing 'gradu.bbl' with encoding 'UTF-8'
+[1387] bbl.pm:739> INFO - Output to gradu.bbl
+[1394] Biber.pm:110> INFO - WARNINGS: 5

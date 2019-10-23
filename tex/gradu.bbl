@@ -655,6 +655,100 @@
       \field{pages}{9\bibrangedash 22}
       \range{pages}{14}
     \endentry
+    \entry{ice}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=c0ee723782b32f22c49dd4b648f577c1}{%
+           family={Ice},
+           familyi={I\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a83d590aa4002b21d71c6d9535373c35}{%
+           family={Swan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3ed02dd8ef5a688c3d82f903eacdb5c7}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=207daea1cb73f78d61f7afa5a8872f39}{%
+           family={Kupczynski},
+           familyi={K\bibinitperiod},
+           given={Lori},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5d32db25b8349fed2063015b8753899}{%
+           family={Swan-Dagen},
+           familyi={S\bibinithyphendelim D\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{280b47bfa51da9a76df9c8a730c65dd2}
+      \strng{fullhash}{2650cef33e62b25fe15f07370ed7da94}
+      \strng{bibnamehash}{2650cef33e62b25fe15f07370ed7da94}
+      \strng{authorbibnamehash}{2650cef33e62b25fe15f07370ed7da94}
+      \strng{authornamehash}{280b47bfa51da9a76df9c8a730c65dd2}
+      \strng{authorfullhash}{2650cef33e62b25fe15f07370ed7da94}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Educational Computing Research}
+      \field{number}{1}
+      \field{title}{An analysis of students' perceptions of the value and efficacy of instructors' auditory and text-based feedback modalities across multiple conceptual levels}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{113\bibrangedash 134}
+      \range{pages}{22}
+    \endentry
+    \entry{style}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=16643ba92216e3c498e4d87c6667ea9c}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Genevieve\bibnamedelima Marie},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=89d2dc2bd614efd70fa12ed8cf3be5ac}{%
+           family={Cooke},
+           familyi={C\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nova Science Publishers, Inc.}%
+      }
+      \strng{namehash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \strng{fullhash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \strng{bibnamehash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \strng{authorbibnamehash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \strng{authornamehash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \strng{authorfullhash}{5eb08eb8402970c4c266c2546ee13b0f}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of University Teaching and Faculty Development}
+      \field{number}{2}
+      \field{title}{Student Use of Audio, Video, and Written Teacher Feedback: The Predictive Utility of Learning Modality Preference, Self-Regulated Learning, and Learning Style}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{111}
+      \range{pages}{1}
+    \endentry
     \entry{koffka}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=c4bf638c5d1c4062869b30ac876f073d}{%
@@ -825,6 +919,41 @@
       \field{pages}{1\bibrangedash 11}
       \range{pages}{11}
     \endentry
+    \entry{principles}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e11d771a69a873fe3253f523753e124b}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e96641cd8149b4324c6bcd13cae16521}{%
+           family={Nortcliffe},
+           familyi={N\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{064d1822399c7bd77ea6d79b85df4371}
+      \strng{fullhash}{064d1822399c7bd77ea6d79b85df4371}
+      \strng{bibnamehash}{064d1822399c7bd77ea6d79b85df4371}
+      \strng{authorbibnamehash}{064d1822399c7bd77ea6d79b85df4371}
+      \strng{authornamehash}{064d1822399c7bd77ea6d79b85df4371}
+      \strng{authorfullhash}{064d1822399c7bd77ea6d79b85df4371}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Continuing Engineering Education and Life-Long Learning}
+      \field{number}{2}
+      \field{title}{Audio feedback design: principles and emerging practice}
+      \field{volume}{20}
+      \field{year}{2010}
+      \field{pages}{208\bibrangedash 223}
+      \range{pages}{16}
+    \endentry
     \entry{improving-human}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=5121fc884cb68ab1735048c6f4b01c00}{%
@@ -954,6 +1083,44 @@
       \field{year}{1990}
       \field{pages}{249\bibrangedash 256}
       \range{pages}{8}
+    \endentry
+    \entry{smartphone}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e96641cd8149b4324c6bcd13cae16521}{%
+           family={Nortcliffe},
+           familyi={N\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e11d771a69a873fe3253f523753e124b}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{29aac9ff1eb7705adb85f5a348222e93}
+      \strng{fullhash}{29aac9ff1eb7705adb85f5a348222e93}
+      \strng{bibnamehash}{29aac9ff1eb7705adb85f5a348222e93}
+      \strng{authorbibnamehash}{29aac9ff1eb7705adb85f5a348222e93}
+      \strng{authornamehash}{29aac9ff1eb7705adb85f5a348222e93}
+      \strng{authorfullhash}{29aac9ff1eb7705adb85f5a348222e93}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Electrical Engineering Education}
+      \field{number}{3}
+      \field{title}{Smartphone feedback: using an iPhone to improve the distribution of audio feedback}
+      \field{volume}{48}
+      \field{year}{2011}
+      \field{pages}{280\bibrangedash 293}
+      \range{pages}{14}
     \endentry
     \entry{evaluation}{inproceedings}{}
       \name{author}{3}{}{%
@@ -1234,6 +1401,44 @@
       \field{title}{General systems theory: Problems, perspectives, practice}
       \field{year}{2005}
     \endentry
+    \entry{stern}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c284dac5b00efeddaba597ab0a7f6379}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={Lesa\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dea6938877ad8a93cee252d0ef49367b}{%
+           family={Solomon},
+           familyi={S\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cacf8145eefd616d860f909bad513624}
+      \strng{fullhash}{cacf8145eefd616d860f909bad513624}
+      \strng{bibnamehash}{cacf8145eefd616d860f909bad513624}
+      \strng{authorbibnamehash}{cacf8145eefd616d860f909bad513624}
+      \strng{authornamehash}{cacf8145eefd616d860f909bad513624}
+      \strng{authorfullhash}{cacf8145eefd616d860f909bad513624}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Assessing writing}
+      \field{number}{1}
+      \field{title}{Effective faculty feedback: The road less traveled}
+      \field{volume}{11}
+      \field{year}{2006}
+      \field{pages}{22\bibrangedash 41}
+      \range{pages}{20}
+    \endentry
     \entry{stone}{book}{}
       \name{author}{4}{}{%
         {{uniquename=0,uniquepart=base,hash=08219812ece4db3e5fc78e7675742567}{%
@@ -1363,7 +1568,6 @@
       \range{pages}{31}
     \endentry
   \enddatalist
-  \missing{enganing}
 \endrefsection
 \endinput
 
