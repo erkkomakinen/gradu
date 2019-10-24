@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  23 OCT 2019 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  24 OCT 2019 18:05
 entering extended mode
 **./gradu.tex
 (gradu.tex
@@ -825,29 +825,35 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 47.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) [1] [2] (gradu.lof
+)
+Overfull \hbox (2.3355pt too wide) in paragraph at lines 47--47
+\T1/ptm/b/n/12 Avainsanat: \T1/ptm/m/n/12 suun-nit-te-lu-tut-ki-mus, ää-ni-pa-l
+au-te, työ-ka-lu, audio-ohjelmisto, pa-lau-te-muo-to, heu-
+ []
+
+[1] [2] (gradu.lof
 Overfull \hbox (1.20001pt too wide) detected at line 11
- []\T1/ptm/m/n/12 12[]
+ []\T1/ptm/m/n/12 13[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 13
- []\T1/ptm/m/n/12 21[]
+ []\T1/ptm/m/n/12 22[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 17
- []\T1/ptm/m/n/12 32[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 19
  []\T1/ptm/m/n/12 33[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 21
+Overfull \hbox (1.20001pt too wide) detected at line 19
  []\T1/ptm/m/n/12 34[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 21
+ []\T1/ptm/m/n/12 35[]
  []
 
 )
@@ -856,17 +862,17 @@ Overfull \hbox (1.20001pt too wide) detected at line 21
 
  (gradu.lot
 Overfull \hbox (1.20001pt too wide) detected at line 11
- []\T1/ptm/m/n/12 20[]
+ []\T1/ptm/m/n/12 21[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 15
- []\T1/ptm/m/n/12 27[]
+ []\T1/ptm/m/n/12 28[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 19
- []\T1/ptm/m/n/12 40[]
+ []\T1/ptm/m/n/12 41[]
  []
 
 )
@@ -877,199 +883,199 @@ Overfull \hbox (1.20001pt too wide) detected at line 19
 
 ] (gradu.toc
 Overfull \hbox (1.20001pt too wide) detected at line 15
- []\T1/ptm/m/n/12 10[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 17
  []\T1/ptm/m/n/12 11[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 19
+Overfull \hbox (1.20001pt too wide) detected at line 17
  []\T1/ptm/m/n/12 12[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 21
+Overfull \hbox (1.20001pt too wide) detected at line 19
  []\T1/ptm/m/n/12 13[]
  []
 
 
+Overfull \hbox (1.20001pt too wide) detected at line 21
+ []\T1/ptm/m/n/12 14[]
+ []
+
+
 Overfull \hbox (1.20001pt too wide) detected at line 23
- []\T1/ptm/m/n/12 15[]
+ []\T1/ptm/m/n/12 16[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 25
- []\T1/ptm/m/n/12 16[]
+ []\T1/ptm/m/n/12 17[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 27
- []\T1/ptm/m/n/12 16[]
+ []\T1/ptm/m/n/12 17[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 29
- []\T1/ptm/m/n/12 18[]
+ []\T1/ptm/m/n/12 19[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 31
- []\T1/ptm/m/n/12 22[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 33
- []\T1/ptm/m/n/12 22[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 35
  []\T1/ptm/m/n/12 23[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 37
+Overfull \hbox (1.20001pt too wide) detected at line 33
+ []\T1/ptm/m/n/12 23[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 35
  []\T1/ptm/m/n/12 24[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 39
+Overfull \hbox (1.20001pt too wide) detected at line 37
  []\T1/ptm/m/n/12 25[]
  []
 
 
+Overfull \hbox (1.20001pt too wide) detected at line 39
+ []\T1/ptm/m/n/12 26[]
+ []
+
+
 Overfull \hbox (1.20001pt too wide) detected at line 41
- []\T1/ptm/m/n/12 28[]
+ []\T1/ptm/m/n/12 29[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 43
- []\T1/ptm/m/n/12 31[]
+ []\T1/ptm/m/n/12 32[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 45
- []\T1/ptm/m/n/12 32[]
+ []\T1/ptm/m/n/12 33[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 47
- []\T1/ptm/m/n/12 32[]
+ []\T1/ptm/m/n/12 33[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 49
- []\T1/ptm/m/n/12 33[]
+ []\T1/ptm/m/n/12 34[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 51
- []\T1/ptm/m/n/12 33[]
+ []\T1/ptm/m/n/12 34[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 53
- []\T1/ptm/m/n/12 34[]
+ []\T1/ptm/m/n/12 35[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 55
- []\T1/ptm/m/n/12 34[]
+ []\T1/ptm/m/n/12 35[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 57
- []\T1/ptm/m/n/12 34[]
+ []\T1/ptm/m/n/12 35[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 59
- []\T1/ptm/m/n/12 35[]
+ []\T1/ptm/m/n/12 36[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 61
- []\T1/ptm/m/n/12 35[]
+ []\T1/ptm/m/n/12 36[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 63
- []\T1/ptm/m/n/12 35[]
+ []\T1/ptm/m/n/12 36[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 65
- []\T1/ptm/m/n/12 36[]
+ []\T1/ptm/m/n/12 37[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 67
- []\T1/ptm/m/n/12 36[]
+ []\T1/ptm/m/n/12 37[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 69
- []\T1/ptm/m/n/12 36[]
+ []\T1/ptm/m/n/12 37[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 71
- []\T1/ptm/m/n/12 38[]
+ []\T1/ptm/m/n/12 39[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 73
- []\T1/ptm/m/n/12 41[]
+ []\T1/ptm/m/n/12 42[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 75
- []\T1/ptm/m/n/12 41[]
+ []\T1/ptm/m/n/12 42[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 77
- []\T1/ptm/m/n/12 41[]
+ []\T1/ptm/m/n/12 42[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 79
- []\T1/ptm/m/n/12 42[]
+ []\T1/ptm/m/n/12 43[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 81
- []\T1/ptm/m/n/12 42[]
+ []\T1/ptm/m/n/12 43[]
  []
 
 [4
 
 ]
 Overfull \hbox (1.20001pt too wide) detected at line 83
- []\T1/ptm/m/n/12 42[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 85
- []\T1/ptm/m/n/12 42[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 87
  []\T1/ptm/m/n/12 43[]
  []
 
 
+Overfull \hbox (1.20001pt too wide) detected at line 85
+ []\T1/ptm/m/n/12 43[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 87
+ []\T1/ptm/m/n/12 44[]
+ []
+
+
 Overfull \hbox (1.20001pt too wide) detected at line 89
- []\T1/ptm/m/n/12 47[]
+ []\T1/ptm/m/n/12 48[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 91
- []\T1/ptm/m/n/12 47[]
+ []\T1/ptm/m/n/12 48[]
  []
 
 )
@@ -1082,36 +1088,36 @@ Luku 1.
 
 
 ]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 65.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+ [2]
 Luku 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 66.
-[2
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
+[3
 
 ]
-Overfull \hbox (3.0491pt too wide) in paragraph at lines 74--75
+Overfull \hbox (3.0491pt too wide) in paragraph at lines 81--82
 \T1/ptm/m/n/12 muo-toi-nen pa-lau-te, sil-lä in-for-maa-tio voi-daan il-mais-ta
  kir-joi-tet-tu-na täs-mäl-li-sem-min ([]Heimbür-
  []
 
-[3] [4] [5] [6] [7] [8] [9]
+[4] [5] [6] [7] [8] [9] [10]
 Luku 3.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 118.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
- [10
+[11
 
 ]
-<./kuvat/DSR.png, id=431, 981.6675pt x 441.65pt>
+<./kuvat/DSR.png, id=438, 981.6675pt x 441.65pt>
 File: ./kuvat/DSR.png Graphic file (type png)
 <use ./kuvat/DSR.png>
-Package pdftex.def Info: ./kuvat/DSR.png  used on input line 143.
+Package pdftex.def Info: ./kuvat/DSR.png  used on input line 150.
 (pdftex.def)             Requested size: 442.70496pt x 199.16928pt.
 
-Overfull \hbox (1.68723pt too wide) in paragraph at lines 143--144
+Overfull \hbox (1.68723pt too wide) in paragraph at lines 150--151
  [][] 
  []
 
@@ -1119,145 +1125,145 @@ Overfull \hbox (1.68723pt too wide) in paragraph at lines 143--144
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (1.24991pt too wide) in paragraph at lines 150--151
+Overfull \hbox (1.24991pt too wide) in paragraph at lines 157--158
 \T1/ptm/m/n/12 Relevanssisykli on suun-nit-te-lu-tut-ki-muk-sen aloit-ta-va syk
 li, jo-ka mää-rit-tää so-vel-lusa-lu-een kon-
  []
 
-[11] [12 <./kuvat/DSR.png>] [13] [14] [15]
-<./kuvat/evaluointikriteerit.png, id=472, 723.70375pt x 994.71625pt>
+[12] [13 <./kuvat/DSR.png>] [14] [15] [16]
+<./kuvat/evaluointikriteerit.png, id=479, 723.70375pt x 994.71625pt>
 File: ./kuvat/evaluointikriteerit.png Graphic file (type png)
 <use ./kuvat/evaluointikriteerit.png>
-Package pdftex.def Info: ./kuvat/evaluointikriteerit.png  used on input line 19
-4.
+Package pdftex.def Info: ./kuvat/evaluointikriteerit.png  used on input line 20
+1.
 (pdftex.def)             Requested size: 441.01692pt x 606.1689pt.
 
 
-LaTeX Warning: Float too large for page by 32.6159pt on input line 197.
+LaTeX Warning: Float too large for page by 32.6159pt on input line 204.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (6.68785pt too wide) in paragraph at lines 201--202
+Overfull \hbox (6.68785pt too wide) in paragraph at lines 208--209
 []\T1/ptm/m/n/12 Artefaktin ym-pä-ris-tö koos-tuu ih-mi-sis-tä, or-ga-ni-saa-ti
 ois-ta ja tek-no-lo-gias-ta ([]Von Alan ym. []2004[]).
  []
 
-[16]
-Overfull \hbox (10.4948pt too wide) in paragraph at lines 203--204
+[17]
+Overfull \hbox (10.4948pt too wide) in paragraph at lines 210--211
 \T1/ptm/m/n/12 tai-suus, sel-keys, tyy-li, ho-mo-mor-fis-mi, yk-si-tyis-koh-tai
 -suus se-kä joh-don-mu-kai-suus ([]Prat, Comyn-
  []
 
-[17] [18] [19]
-Overfull \hbox (51.97398pt too wide) in paragraph at lines 229--234
+[18] [19] [20]
+Overfull \hbox (51.97398pt too wide) in paragraph at lines 236--241
 [][] 
  []
 
-[20] [21 <./kuvat/evaluointikriteerit.png>]
+[21] [22 <./kuvat/evaluointikriteerit.png>]
 Luku 4.
 
-Overfull \hbox (46.45126pt too wide) in paragraph at lines 246--247
+Overfull \hbox (46.45126pt too wide) in paragraph at lines 253--254
 \T1/ptm/m/n/12 tien aset-te-lus-sa CSS3-tyyliohjeita se-kä toi-min-nal-li-suuk-
 sien to-teu-tuk-ses-sa JavaScript-ohjelmointikieltä.
  []
 
-[22
+[23
 
-] [23] [24] [25]
-Underfull \hbox (badness 2318) in paragraph at lines 308--308
+] [24] [25] [26]
+Underfull \hbox (badness 2318) in paragraph at lines 315--315
 []\T1/ptm/b/n/12 Esteettisyys ja mi-ni-ma-lis-ti-
  []
 
 
-Overfull \hbox (9.79694pt too wide) in paragraph at lines 300--313
+Overfull \hbox (9.79694pt too wide) in paragraph at lines 307--320
  [][][] 
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 318--319
+Underfull \hbox (badness 5403) in paragraph at lines 325--326
 \T1/ptm/m/n/12 da käyt-tä-jäl-le ta-pah-tu-mis-ta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 \T1/ptm/m/n/12 asian-mu-kai-sil-la pa-laut-teil-la
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 320--320
+Underfull \hbox (badness 2334) in paragraph at lines 327--327
 []\T1/ptm/m/n/12 Järjestelmän ja re-aa-li-maa-il-
  []
 
-[26] [27]
-Overfull \hbox (2.25804pt too wide) in paragraph at lines 332--333
+[27] [28]
+Overfull \hbox (2.25804pt too wide) in paragraph at lines 339--340
 []\T1/ptm/m/n/12 Äänipalautetyökalun käyt-tö-liit-ty-mä voi-daan ja-kaa vaa-ka-
 suun-nas-sa nel-jään eri alu-ee-seen, jois-
  []
 
-[28] [29] [30]
-<./kuvat/UI.png, id=587, 892.08281pt x 360.59718pt>
+[29] [30] [31]
+<./kuvat/UI.png, id=595, 892.08281pt x 360.59718pt>
 File: ./kuvat/UI.png Graphic file (type png)
 <use ./kuvat/UI.png>
-Package pdftex.def Info: ./kuvat/UI.png  used on input line 349.
+Package pdftex.def Info: ./kuvat/UI.png  used on input line 356.
 (pdftex.def)             Requested size: 492.7161pt x 199.16928pt.
 
-Overfull \hbox (51.69836pt too wide) in paragraph at lines 349--350
+Overfull \hbox (51.69836pt too wide) in paragraph at lines 356--357
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./kuvat/UI_tablet.png, id=588, 568.37344pt x 365.11406pt>
+<./kuvat/UI_tablet.png, id=596, 568.37344pt x 365.11406pt>
 File: ./kuvat/UI_tablet.png Graphic file (type png)
 <use ./kuvat/UI_tablet.png>
-Package pdftex.def Info: ./kuvat/UI_tablet.png  used on input line 355.
+Package pdftex.def Info: ./kuvat/UI_tablet.png  used on input line 362.
 (pdftex.def)             Requested size: 310.04791pt x 199.16928pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./kuvat/UI_mobile.png, id=589, 271.0125pt x 429.10312pt>
+<./kuvat/UI_mobile.png, id=597, 271.0125pt x 429.10312pt>
 File: ./kuvat/UI_mobile.png Graphic file (type png)
 <use ./kuvat/UI_mobile.png>
-Package pdftex.def Info: ./kuvat/UI_mobile.png  used on input line 361.
+Package pdftex.def Info: ./kuvat/UI_mobile.png  used on input line 368.
 (pdftex.def)             Requested size: 125.79205pt x 199.16928pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31] [32 <./kuvat/UI.png>] [33 <./kuvat/UI_tablet.png>] [34 <./kuvat/UI_mobile.
-png>] [35]
+[32] [33 <./kuvat/UI.png>] [34 <./kuvat/UI_tablet.png>] [35 <./kuvat/UI_mobile.
+png>] [36]
 Luku 5.
-[36
+[37
 
 ]
-Overfull \hbox (3.9261pt too wide) in paragraph at lines 430--431
+Overfull \hbox (3.9261pt too wide) in paragraph at lines 437--438
 \T1/ptm/m/n/12 huo-man-nut ää-ni-pa-lau-te-työ-ka-lun oi-keas-sa ylä-kul-mas-sa
  si-jait-se-vaa kysymysmerkki-ikonia, jos-
  []
 
-[37] [38] [39] [40] [41]
+[38] [39] [40] [41] [42]
 Luku 6.
-[42
+[43
 
 ]
-Overfull \hbox (1.52896pt too wide) in paragraph at lines 485--485
+Overfull \hbox (1.52896pt too wide) in paragraph at lines 492--492
 [][]\T1/ptm/m/n/12 Heimbürger, A., ja V. Iso-möt-tö-nen. 2017. ``Mo-de-ra-ting 
 cul-tu-ral ef-fects in a hig-her e-education
  []
 
-[43
+[44
 
-] [44] [45] [46] [47
+] [45] [46] [47] [48
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 491.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 491.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 498.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 498.
  (gradu.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 491.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 491.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 498.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 498.
 Package rerunfilecheck Info: File `gradu.out' has not changed.
 (rerunfilecheck)             Checksum: 7850CD093BEBF53715282B7EF74871A4;3122.
 Package logreq Info: Writing requests to 'gradu.run.xml'.
@@ -1265,10 +1271,10 @@ Package logreq Info: Writing requests to 'gradu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15776 strings out of 492895
- 271725 string characters out of 3133473
- 1005040 words of memory out of 3000000
- 19299 multiletter control sequences out of 15000+200000
+ 15780 strings out of 492895
+ 271768 string characters out of 3133473
+ 1005085 words of memory out of 3000000
+ 19302 multiletter control sequences out of 15000+200000
  39969 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,13n,62p,1795b,3911s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1277,9 +1283,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gradu.pdf (53 pages, 394038 bytes).
+Output written on gradu.pdf (54 pages, 396746 bytes).
 PDF statistics:
- 724 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
+ 731 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 500000)
  378 words of extra memory for PDF output out of 10000 (max. 10000000)
 
