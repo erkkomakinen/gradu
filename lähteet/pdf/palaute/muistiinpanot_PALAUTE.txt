@@ -23,3 +23,5 @@ ASSESMENT AND LEARNING: differences and relation between....
 
 - formatiivisen ja summatiivisen palautteenannon erot epäselviä
 - syvä ja pinnallinen oppiminen
+- Sadlerin määritelmä formatiivisesta on linjassa + siinä on lisäys että oppilaalla pitää olla tietyt asiat hallussa
+- formatiivisess palautteessa otettava oppilaan individuaalinen tila huomioon

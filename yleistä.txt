@@ -5,6 +5,8 @@
 
 - share suoraan työkalussa
 
+- tällä hetkellä ei saatavilla äänipalauttetyökalua, jolla voi editoida. Upottamiseen löytyy toimivia vaihtoehtoja
+
 Pohdinta
 
 - tiedoston tulisi olla helppo uploadata

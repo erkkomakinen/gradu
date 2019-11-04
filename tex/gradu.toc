@@ -38,17 +38,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Nielsenin heuristiikat}{26}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{29}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{27}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Perustoiminnot}{32}{section.4.4}% 
+\contentsline {section}{\numberline {4.4}Perustoiminnot}{33}{section.4.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.1}Record}{33}{subsection.4.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Insert Record}{33}{subsection.4.4.2}% 
+\contentsline {subsection}{\numberline {4.4.2}Insert Record}{34}{subsection.4.4.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.3}Play}{34}{subsection.4.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.4}Preview}{34}{subsection.4.4.4}% 
+\contentsline {subsection}{\numberline {4.4.4}Preview}{35}{subsection.4.4.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.5}Split}{35}{subsection.4.4.5}% 
 \defcounter {refsection}{0}\relax 
@@ -74,12 +74,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.1}Tulokset}{42}{subsection.5.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Jatkotoimenpiteet}{42}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.2}Jatkotoimenpiteet}{43}{subsection.5.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Pohdinta}{43}{chapter.6}% 
+\contentsline {chapter}{\numberline {6}Pohdinta}{44}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{L\"ahteet}{44}{section*.2}% 
+\contentsline {chapter}{L\"ahteet}{47}{section*.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Liitteet}{48}{section*.4}% 
+\contentsline {chapter}{Liitteet}{51}{section*.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Ensimm\IeC {\"a}isen iteraation kyselylomake}{48}{section.F.1}% 
+\contentsline {section}{\numberline {A}Ensimm\IeC {\"a}isen iteraation kyselylomake}{51}{section.F.1}% 

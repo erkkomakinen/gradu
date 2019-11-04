@@ -1,0 +1,114 @@
+Anneli Heimburger
+
+1. Käyttökokemus
+
+- Palveli tarkoitustaan
+- Vaatii uusien toimintojen opettelun, mutta auttaa varmasti pidemmän päälle. (Toimintoja vähän, mikä vähenätää opettelua muihin ohjelmistoihin verrattuna)'
+- Ei muuttanut suhtautumista, sillä ollut positiivinen. Antaa kuitenkin lisäarvoa äänipalautetyöskentelylle ja mahdollistaa palautteen annon muissakin ympäristöissä kuin työhuoneeessa
+
+2. Navigointitoiminnot
+
+- Navigointi selkeä
+
+3. Perustoiminnot
+
+- Toimii ok
+
+4. Vapaamuotoinen palaute työkalua koskien
+
+- Käyttöliittymä on selkeytynyt
+- ohjeet paremmin näkyvissä ja käytettävissä kuin ensimmäisessä iteraatiossa
+
+5. Kehitysideat
+
+- Teksti infon lisäys hyvä idea, jolla voidaan korostaa palautteen keskeisiä asioita ja puheella sitten tarkentaa
+
+--------------------
+
+Harri Keto
+
+1. Käyttökokemus
+
+- Palveli tarkoitustaan. Helppo ja nopea tapa
+- helpotti äänipalautteen antamista entuudestaan. Etu oli, että vähemmän ominaisuuksia, joten ei niin monimutkaista käyttää
+- Ei muuttanut suhtautumista, sillä ollut positiivinen. Väline ei sinänsä ollut esteenä
+
+2. Navigointitoiminnot
+
+- Selkeät
+
+3. Perustoiminnot
+
+- Toimii
+- Insert Record erinomainen. Ei ole törmännyt ohjelmistoon, jossa toiminto suoritetaan yhtä helposti.
+- Previewiä ei heti tajunnut, mutta kokeiltuaan selvisi. Huomasi myös myöhemmin Helpin, jossa toiminto oli myös selitetty selkeästi.
+- Splitissä saksien kuva ja termi "split", joten sai käsityksen, että se jo sinällään poistaisi jotain. Siksi pohti hetken, millä merkitään poistokohta.
+- Ehkä "Mark split" tai "Mark" voisi olla sopivampi termi.
+- Näinkin hyvä, sillä kokeilemalla toiminnon oppi.
+
+4. Vapaamuotoinen palaute työkalua koskien
+
+- Yksinkertaisuus on valttia
+
+5. Kehitysideat
+
+- Tallennus omalle laitteelle kannattaa tehdä yksinkertaisesti. Varmaan käyttöliittymän perustallennus riittää (voi valita tai luoda sopivan kansion), eli ei tuke kirjastointiin.
+- Tiedostojen nimeämiseen voisi olla jokin tuki, joka ehdottaa esim etuliitettä tms. kokonaisuuteen viittaavaa tunnistetta. (Kirjallisuudessa mainittiin, että nimeäminen on työlästä)
+- tekstimuotoisen palautteen antaminen saattaa olla erinomainen lisäpiirre. Ei muista vastaavaa missään audio-ohjelmassa.
+
+--------------------
+
+Ville Isomöttönen (testasi iphone-emuloidulla ruutukoolla)
+
+1. Käyttökokemus
+
+- Palveli tarkoitustaan (rivien välistä)
+- Helpotti entuudestaan. (ainakin äänipalautetyökalun edellisestä iteraatiosta)
+- Ei ainakaan ekassa iteraatiossa muuttanut suhtautumista, sillä ollut positiivinen.
+- Tällaiselle ilmaiselle työkalulle olisi tarvetta.
+
+
+2. Navigointitoiminnot
+
+- Navigointi oli selkeää ja intuitiivista. "shift + nuolet" pikanäppäiminä toimivat hyvin.
+
+3. Perustoiminnot
+
+- Toimii tarkoituksenmukaisesti.
+- Kun preview käynnissä, olisi intuitiivisempaa, että painikkeessa lukisi stop, eikä pause.  "Pause" useimmissa käyttöyhteyksissä yleensä pysähtyy siihen, missä kursori on kullakin hetkellä.
+
+4. Vapaamuotoinen palaute työkalua koskien
+
+- Onko musta pieni yläkolmio leikenäkymän lopussa enää tarpeellinen, kun navigointipainikkeet on toteutettu?
+
+5. Kehitysideat
+
+- 
+
+- mielenkiintoinen käytettävyys demonstraatio ja arvointi
+- Äänen kanssa ongelmia kun käytössä läppäri+telakka (ja selaimen iphone-emulaatio)
+- Mainio proto, josta voisi kehkeytyä tulevaisuudessa myös natiivisovellus puhelimiin.
+
+--------------------
+
+Paavo Nieminen
+
+1. Käyttökokemus
+
+- 
+
+2. Navigointitoiminnot
+
+- 
+
+3. Perustoiminnot
+
+- 
+
+4. Vapaamuotoinen palaute työkalua koskien
+
+- 
+
+5. Kehitysideat
+
+- 

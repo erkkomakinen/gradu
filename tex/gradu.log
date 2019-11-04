@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  24 OCT 2019 21:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  4 NOV 2019 19:57
 entering extended mode
 **./gradu.tex
 (gradu.tex
@@ -843,17 +843,17 @@ Overfull \hbox (1.20001pt too wide) detected at line 13
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 17
- []\T1/ptm/m/n/12 33[]
+ []\T1/ptm/m/n/12 32[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 19
- []\T1/ptm/m/n/12 34[]
+ []\T1/ptm/m/n/12 33[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 21
- []\T1/ptm/m/n/12 35[]
+ []\T1/ptm/m/n/12 34[]
  []
 
 )
@@ -948,12 +948,12 @@ Overfull \hbox (1.20001pt too wide) detected at line 39
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 41
- []\T1/ptm/m/n/12 29[]
+ []\T1/ptm/m/n/12 27[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 43
- []\T1/ptm/m/n/12 32[]
+ []\T1/ptm/m/n/12 33[]
  []
 
 
@@ -963,7 +963,7 @@ Overfull \hbox (1.20001pt too wide) detected at line 45
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 47
- []\T1/ptm/m/n/12 33[]
+ []\T1/ptm/m/n/12 34[]
  []
 
 
@@ -973,7 +973,7 @@ Overfull \hbox (1.20001pt too wide) detected at line 49
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 51
- []\T1/ptm/m/n/12 34[]
+ []\T1/ptm/m/n/12 35[]
  []
 
 
@@ -1038,29 +1038,29 @@ Overfull \hbox (1.20001pt too wide) detected at line 75
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 77
- []\T1/ptm/m/n/12 42[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 79
  []\T1/ptm/m/n/12 43[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 81
+Overfull \hbox (1.20001pt too wide) detected at line 79
  []\T1/ptm/m/n/12 44[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 81
+ []\T1/ptm/m/n/12 47[]
  []
 
 [4
 
 ]
 Overfull \hbox (1.20001pt too wide) detected at line 83
- []\T1/ptm/m/n/12 48[]
+ []\T1/ptm/m/n/12 51[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 85
- []\T1/ptm/m/n/12 48[]
+ []\T1/ptm/m/n/12 51[]
  []
 
 )
@@ -1176,7 +1176,7 @@ Underfull \hbox (badness 2334) in paragraph at lines 328--328
  []
 
 [27] [28]
-Overfull \hbox (2.25804pt too wide) in paragraph at lines 340--341
+Overfull \hbox (2.25804pt too wide) in paragraph at lines 342--343
 []\T1/ptm/m/n/12 Äänipalautetyökalun käyt-tö-liit-ty-mä voi-daan ja-kaa vaa-ka-
 suun-nas-sa nel-jään eri alu-ee-seen, jois-
  []
@@ -1185,20 +1185,17 @@ suun-nas-sa nel-jään eri alu-ee-seen, jois-
 <./kuvat/UI.png, id=579, 892.08281pt x 360.59718pt>
 File: ./kuvat/UI.png Graphic file (type png)
 <use ./kuvat/UI.png>
-Package pdftex.def Info: ./kuvat/UI.png  used on input line 357.
+Package pdftex.def Info: ./kuvat/UI.png  used on input line 359.
 (pdftex.def)             Requested size: 492.7161pt x 199.16928pt.
 
-Overfull \hbox (51.69836pt too wide) in paragraph at lines 357--358
+Overfull \hbox (51.69836pt too wide) in paragraph at lines 359--360
  [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 <./kuvat/UI_tablet.png, id=580, 568.37344pt x 365.11406pt>
 File: ./kuvat/UI_tablet.png Graphic file (type png)
 <use ./kuvat/UI_tablet.png>
-Package pdftex.def Info: ./kuvat/UI_tablet.png  used on input line 363.
+Package pdftex.def Info: ./kuvat/UI_tablet.png  used on input line 365.
 (pdftex.def)             Requested size: 310.04791pt x 199.16928pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1206,43 +1203,55 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <./kuvat/UI_mobile.png, id=581, 271.0125pt x 429.10312pt>
 File: ./kuvat/UI_mobile.png Graphic file (type png)
 <use ./kuvat/UI_mobile.png>
-Package pdftex.def Info: ./kuvat/UI_mobile.png  used on input line 369.
+Package pdftex.def Info: ./kuvat/UI_mobile.png  used on input line 371.
 (pdftex.def)             Requested size: 125.79205pt x 199.16928pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32] [33 <./kuvat/UI.png>] [34 <./kuvat/UI_tablet.png>] [35 <./kuvat/UI_mobile.
-png>] [36]
+[32 <./kuvat/UI.png>] [33 <./kuvat/UI_tablet.png>] [34 <./kuvat/UI_mobile.png>]
+[35] [36]
 Luku 5.
 [37
 
 ]
-Overfull \hbox (3.9261pt too wide) in paragraph at lines 438--439
+Overfull \hbox (3.9261pt too wide) in paragraph at lines 440--441
 \T1/ptm/m/n/12 huo-man-nut ää-ni-pa-lau-te-työ-ka-lun oi-keas-sa ylä-kul-mas-sa
  si-jait-se-vaa kysymysmerkki-ikonia, jos-
  []
 
-[38] [39] [40] [41] [42]
-Luku 6.
-[43
+[38] [39] [40] [41]
+Overfull \hbox (5.48528pt too wide) in paragraph at lines 488--489
+[]\T1/ptm/m/n/12 Kuudesta pe-rus-toi-min-nos-ta nel-jä koet-tiin täy-sin sel-ke
+ik-si, mut-ta Preview- ja Split-toimintoihin
+ []
 
-]
-Overfull \hbox (1.52896pt too wide) in paragraph at lines 489--489
+[42]
+Overfull \hbox (5.75487pt too wide) in paragraph at lines 490--491
+\T1/ptm/m/n/12 on sel-key-ty-nyt ja pa-ran-tu-nut en-ti-ses-tään. Tä-mä joh-tuu
+ muun-muas-sa sii-tä, et-tä kysymysmerkki-
+ []
+
+[43]
+Luku 6.
+[44
+
+] [45] [46]
+Overfull \hbox (1.52896pt too wide) in paragraph at lines 548--548
 [][]\T1/ptm/m/n/12 Heimbürger, A., ja V. Iso-möt-tö-nen. 2017. ``Mo-de-ra-ting 
 cul-tu-ral ef-fects in a hig-her e-education
  []
 
-[44
+[47
 
-] [45] [46] [47] [48
+] [48] [49] [50] [51
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 495.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 495.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 554.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 554.
  (gradu.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 495.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 495.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 554.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 554.
 Package rerunfilecheck Info: File `gradu.out' has not changed.
 (rerunfilecheck)             Checksum: E2B99AC7F6BCE40A67023037A89E0C53;2919.
 Package logreq Info: Writing requests to 'gradu.run.xml'.
@@ -1250,10 +1259,10 @@ Package logreq Info: Writing requests to 'gradu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15773 strings out of 492895
- 271684 string characters out of 3133473
+ 15780 strings out of 492895
+ 271765 string characters out of 3133473
  1005146 words of memory out of 3000000
- 19298 multiletter control sequences out of 15000+200000
+ 19302 multiletter control sequences out of 15000+200000
  39969 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,13n,62p,1794b,3911s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1262,9 +1271,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gradu.pdf (54 pages, 394931 bytes).
+Output written on gradu.pdf (57 pages, 404034 bytes).
 PDF statistics:
- 715 PDF objects out of 1000 (max. 8388607)
- 159 named destinations out of 1000 (max. 500000)
+ 728 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 500000)
  354 words of extra memory for PDF output out of 10000 (max. 10000000)
 
