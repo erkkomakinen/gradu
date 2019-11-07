@@ -70,9 +70,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.2}jatkotoimenpiteet}{39}{subsection.5.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Toinen iteraatio}{42}{section.5.2}% 
+\contentsline {section}{\numberline {5.2}Toinen iteraatio}{41}{section.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Tulokset}{42}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.1}Tulokset}{41}{subsection.5.2.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.2}Jatkotoimenpiteet}{44}{subsection.5.2.2}% 
 \defcounter {refsection}{0}\relax 
