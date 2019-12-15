@@ -1,42 +1,41 @@
 \BOOKMARK [0][]{chapter.1}{1 Johdanto}{}% 1
 \BOOKMARK [0][]{chapter.2}{2 \304\344nipalaute}{}% 2
-\BOOKMARK [1][]{section.2.1}{2.1 Yleist\344 palautteenannosta ja \344nipalautteesta}{chapter.2}% 3
+\BOOKMARK [1][]{section.2.1}{2.1 Yleist\344 palautteenannosta ja \344\344nipalautteesta}{chapter.2}% 3
 \BOOKMARK [1][]{section.2.2}{2.2 \304\344nipalautteen hyvi\344 ja huonoja puolia}{chapter.2}% 4
 \BOOKMARK [1][]{section.2.3}{2.3 \304\344nipalautteen antaminen}{chapter.2}% 5
 \BOOKMARK [0][]{chapter.3}{3 Tutkimusongelma ja tutkimusmenetelm\344}{}% 6
-\BOOKMARK [1][]{section.3.1}{3.1 Suunnittelututkimuksen syklit}{chapter.3}% 7
-\BOOKMARK [2][]{subsection.3.1.1}{3.1.1 Relevanssisykli}{section.3.1}% 8
-\BOOKMARK [2][]{subsection.3.1.2}{3.1.2 t\344sm\344llisyyssykli}{section.3.1}% 9
-\BOOKMARK [2][]{subsection.3.1.3}{3.1.3 Suunnittelusykli}{section.3.1}% 10
-\BOOKMARK [1][]{section.3.2}{3.2 Artefaktin evaluointi}{chapter.3}% 11
-\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 evaluoinnin kriteerit}{section.3.2}% 12
-\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 Artefaktin evaluointimenetelm\344t}{section.3.2}% 13
-\BOOKMARK [0][]{chapter.4}{4 Ty\366kalun suunnittelu ja toteutus}{}% 14
-\BOOKMARK [1][]{section.4.1}{4.1 Tekniset toteutusratkaisut}{chapter.4}% 15
-\BOOKMARK [1][]{section.4.2}{4.2 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{chapter.4}% 16
-\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Gestaltin hahmolait}{section.4.2}% 17
-\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Nielsenin heuristiikat}{section.4.2}% 18
-\BOOKMARK [1][]{section.4.3}{4.3 K\344ytt\366liittym\344}{chapter.4}% 19
-\BOOKMARK [1][]{section.4.4}{4.4 Perustoiminnot}{chapter.4}% 20
-\BOOKMARK [2][]{subsection.4.4.1}{4.4.1 Record}{section.4.4}% 21
-\BOOKMARK [2][]{subsection.4.4.2}{4.4.2 Insert Record}{section.4.4}% 22
-\BOOKMARK [2][]{subsection.4.4.3}{4.4.3 Play}{section.4.4}% 23
-\BOOKMARK [2][]{subsection.4.4.4}{4.4.4 Preview}{section.4.4}% 24
-\BOOKMARK [2][]{subsection.4.4.5}{4.4.5 Split}{section.4.4}% 25
-\BOOKMARK [2][]{subsection.4.4.6}{4.4.6 Delete}{section.4.4}% 26
-\BOOKMARK [1][]{section.4.5}{4.5 Erikoistoiminnot}{chapter.4}% 27
-\BOOKMARK [2][]{subsection.4.5.1}{4.5.1 Start New}{section.4.5}% 28
-\BOOKMARK [2][]{subsection.4.5.2}{4.5.2 Import}{section.4.5}% 29
-\BOOKMARK [2][]{subsection.4.5.3}{4.5.3 Save}{section.4.5}% 30
-\BOOKMARK [0][]{chapter.5}{5 Evaluiointi ja sen tulokset}{}% 31
-\BOOKMARK [1][]{section.5.1}{5.1 Ensimm\344inen iteraatio}{chapter.5}% 32
-\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 tulokset}{section.5.1}% 33
-\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 jatkotoimenpiteet}{section.5.1}% 34
-\BOOKMARK [1][]{section.5.2}{5.2 Toinen iteraatio}{chapter.5}% 35
-\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Tulokset}{section.5.2}% 36
-\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Jatkotoimenpiteet}{section.5.2}% 37
-\BOOKMARK [0][]{chapter.6}{6 Pohdinta}{}% 38
-\BOOKMARK [0][]{section*.2}{L\344hteet}{}% 39
-\BOOKMARK [0][]{section*.4}{Liitteet}{}% 40
-\BOOKMARK [1][]{section.F.1}{A Linkki \344\344nipalautety\366kaluun}{section*.4}% 41
-\BOOKMARK [1][]{section.F.2}{B Linkki evaluointien arviointilomakkeeseen}{section*.4}% 42
+\BOOKMARK [1][]{section.3.1}{3.1 Design science yleisesti}{chapter.3}% 7
+\BOOKMARK [2][]{subsection.3.1.1}{3.1.1 Suunnittelututkimuksen syklit}{section.3.1}% 8
+\BOOKMARK [2][]{subsection.3.1.2}{3.1.2 Artefaktin evaluointi}{section.3.1}% 9
+\BOOKMARK [1][]{section.3.2}{3.2 Design science sovellettuna t\344h\344n tutkimukseen}{chapter.3}% 10
+\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 Tutkimuksen eri vaiheet}{section.3.2}% 11
+\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 Artefaktin evaluointi}{section.3.2}% 12
+\BOOKMARK [0][]{chapter.4}{4 Ty\366kalun suunnittelu ja toteutus}{}% 13
+\BOOKMARK [1][]{section.4.1}{4.1 Tekniset toteutusratkaisut}{chapter.4}% 14
+\BOOKMARK [1][]{section.4.2}{4.2 Hy\366dynnetyt k\344ytett\344vyysperiaatteet}{chapter.4}% 15
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Gestaltin hahmolait}{section.4.2}% 16
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Nielsenin heuristiikat}{section.4.2}% 17
+\BOOKMARK [1][]{section.4.3}{4.3 K\344ytt\366liittym\344}{chapter.4}% 18
+\BOOKMARK [1][]{section.4.4}{4.4 Perustoiminnot}{chapter.4}% 19
+\BOOKMARK [2][]{subsection.4.4.1}{4.4.1 Record}{section.4.4}% 20
+\BOOKMARK [2][]{subsection.4.4.2}{4.4.2 Insert Record}{section.4.4}% 21
+\BOOKMARK [2][]{subsection.4.4.3}{4.4.3 Play}{section.4.4}% 22
+\BOOKMARK [2][]{subsection.4.4.4}{4.4.4 Preview}{section.4.4}% 23
+\BOOKMARK [2][]{subsection.4.4.5}{4.4.5 Split}{section.4.4}% 24
+\BOOKMARK [2][]{subsection.4.4.6}{4.4.6 Delete}{section.4.4}% 25
+\BOOKMARK [1][]{section.4.5}{4.5 Erikoistoiminnot}{chapter.4}% 26
+\BOOKMARK [2][]{subsection.4.5.1}{4.5.1 Start New}{section.4.5}% 27
+\BOOKMARK [2][]{subsection.4.5.2}{4.5.2 Import}{section.4.5}% 28
+\BOOKMARK [2][]{subsection.4.5.3}{4.5.3 Save}{section.4.5}% 29
+\BOOKMARK [0][]{chapter.5}{5 Evaluiointi ja sen tulokset}{}% 30
+\BOOKMARK [1][]{section.5.1}{5.1 Ensimm\344inen iteraatio}{chapter.5}% 31
+\BOOKMARK [2][]{subsection.5.1.1}{5.1.1 Tulokset}{section.5.1}% 32
+\BOOKMARK [2][]{subsection.5.1.2}{5.1.2 Jatkotoimenpiteet}{section.5.1}% 33
+\BOOKMARK [1][]{section.5.2}{5.2 Toinen iteraatio}{chapter.5}% 34
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Tulokset}{section.5.2}% 35
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Jatkotoimenpiteet}{section.5.2}% 36
+\BOOKMARK [0][]{chapter.6}{6 Pohdinta}{}% 37
+\BOOKMARK [0][]{section*.2}{L\344hteet}{}% 38
+\BOOKMARK [0][]{section*.4}{Liitteet}{}% 39
+\BOOKMARK [1][]{section.F.1}{A Linkki \344\344nipalautety\366kaluun}{section*.4}% 40
+\BOOKMARK [1][]{section.F.2}{B Linkki evaluointien arviointilomakkeeseen}{section*.4}% 41

@@ -6,7 +6,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}\IeC {\"A}\IeC {\"a}nipalaute}{4}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Yleist\IeC {\"a} palautteenannosta ja \IeC {\"a}nipalautteesta}{4}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Yleist\IeC {\"a} palautteenannosta ja \IeC {\"a}\IeC {\"a}nipalautteesta}{4}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}\IeC {\"A}\IeC {\"a}nipalautteen hyvi\IeC {\"a} ja huonoja puolia}{6}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
@@ -14,74 +14,72 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Tutkimusongelma ja tutkimusmenetelm\IeC {\"a}}{13}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Suunnittelututkimuksen syklit}{14}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}Design science yleisesti}{13}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Relevanssisykli}{15}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Suunnittelututkimuksen syklit}{15}{subsection.3.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}t\IeC {\"a}sm\IeC {\"a}llisyyssykli}{16}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.2}Artefaktin evaluointi}{16}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Suunnittelusykli}{18}{subsection.3.1.3}% 
+\contentsline {section}{\numberline {3.2}Design science sovellettuna t\IeC {\"a}h\IeC {\"a}n tutkimukseen}{22}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Artefaktin evaluointi}{19}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Tutkimuksen eri vaiheet}{23}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}evaluoinnin kriteerit}{19}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Artefaktin evaluointi}{25}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Artefaktin evaluointimenetelm\IeC {\"a}t}{23}{subsection.3.2.2}% 
+\contentsline {chapter}{\numberline {4}Ty\IeC {\"o}kalun suunnittelu ja toteutus}{28}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Ty\IeC {\"o}kalun suunnittelu ja toteutus}{25}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Tekniset toteutusratkaisut}{28}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Tekniset toteutusratkaisut}{25}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Hy\IeC {\"o}dynnetyt k\IeC {\"a}ytett\IeC {\"a}vyysperiaatteet}{29}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Hy\IeC {\"o}dynnetyt k\IeC {\"a}ytett\IeC {\"a}vyysperiaatteet}{26}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Gestaltin hahmolait}{30}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Gestaltin hahmolait}{27}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Nielsenin heuristiikat}{31}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Nielsenin heuristiikat}{28}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {4.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{34}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}K\IeC {\"a}ytt\IeC {\"o}liittym\IeC {\"a}}{31}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Perustoiminnot}{39}{section.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Perustoiminnot}{36}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Record}{40}{subsection.4.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.1}Record}{36}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Insert Record}{40}{subsection.4.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Insert Record}{37}{subsection.4.4.2}% 
+\contentsline {subsection}{\numberline {4.4.3}Play}{40}{subsection.4.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.3}Play}{37}{subsection.4.4.3}% 
+\contentsline {subsection}{\numberline {4.4.4}Preview}{41}{subsection.4.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.4}Preview}{37}{subsection.4.4.4}% 
+\contentsline {subsection}{\numberline {4.4.5}Split}{41}{subsection.4.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.5}Split}{38}{subsection.4.4.5}% 
+\contentsline {subsection}{\numberline {4.4.6}Delete}{42}{subsection.4.4.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.6}Delete}{38}{subsection.4.4.6}% 
+\contentsline {section}{\numberline {4.5}Erikoistoiminnot}{42}{section.4.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Erikoistoiminnot}{39}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Start New}{43}{subsection.4.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.1}Start New}{39}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Import}{43}{subsection.4.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.2}Import}{40}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}Save}{43}{subsection.4.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.3}Save}{40}{subsection.4.5.3}% 
+\contentsline {chapter}{\numberline {5}Evaluiointi ja sen tulokset}{44}{chapter.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Evaluiointi ja sen tulokset}{41}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Ensimm\IeC {\"a}inen iteraatio}{44}{section.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Ensimm\IeC {\"a}inen iteraatio}{41}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Tulokset}{44}{subsection.5.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}tulokset}{41}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Jatkotoimenpiteet}{46}{subsection.5.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}jatkotoimenpiteet}{43}{subsection.5.1.2}% 
+\contentsline {section}{\numberline {5.2}Toinen iteraatio}{50}{section.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Toinen iteraatio}{47}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Tulokset}{50}{subsection.5.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Tulokset}{47}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}Jatkotoimenpiteet}{52}{subsection.5.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Jatkotoimenpiteet}{49}{subsection.5.2.2}% 
+\contentsline {chapter}{\numberline {6}Pohdinta}{57}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Pohdinta}{54}{chapter.6}% 
+\contentsline {chapter}{L\"ahteet}{60}{section*.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{L\"ahteet}{57}{section*.2}% 
+\contentsline {chapter}{Liitteet}{65}{section*.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Liitteet}{61}{section*.4}% 
+\contentsline {section}{\numberline {A}Linkki \IeC {\"a}\IeC {\"a}nipalautety\IeC {\"o}kaluun}{65}{section.F.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Linkki \IeC {\"a}\IeC {\"a}nipalautety\IeC {\"o}kaluun}{61}{section.F.1}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Linkki evaluointien arviointilomakkeeseen}{61}{section.F.2}% 
+\contentsline {section}{\numberline {B}Linkki evaluointien arviointilomakkeeseen}{65}{section.F.2}% 
