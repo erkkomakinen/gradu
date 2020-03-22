@@ -1,0 +1,75 @@
+- evalaluoinnin kolme tavoitetta, jotka voivat taistella toistensa kanssa: täsmällisyys, tehokkuus (resurssien puitteissa), etiikka (ei tulisi ole vahingollista kenellekkään / millekään) 
+
+ Hevner \parencite*{hevner2004} jaottelee evaluointimenetelmät viiteen kategoriaan: havainnollisiin, analyyttisiin, kokeellisiin, testaaviin ja kuvaaviin menetelmiin. Hän ei kuitenkaan kerro tarkempaa informaatiota niiden suorittamisesta.
+
+-evaluointimenetelmät
+-evaluointistrategiat
+
+-evaluoinnin tarkoitukset
+-evaluointikriteerit
+-evaluoinnin tavoitteet
+- viitekehys evaluoinnin suunnittelulle
+
+Ensimmäinen askel evaluointia koskien on sen suunnittelu. 
+
+
+-------------
+
+työkalusta suoraan  Tämän suunnittelututkimuksesta on myösapua vastaavanlaisen työkalun kehittämiseen, sillä tutkimuksessa on kartoitettu suuri määrän erilaisia vaatimuksia sitä koskien.
+
+-Kahden evaluoinnin perusteella äänipalautetyökalun voidaan sanoa olevan tarkoituksenmukainen, yksinkertainen ja helppokäyttöinen, joten tutkimuksen tavoitteet artefaktin suhteen ovat toteutuneet hyvin.
+
+- Tavoitteena oli toteuttaa mahdollisimman helppokäyttöinen äänipalautetyökalu
+	- mahd. vähän toiminnallisuuksia
+	- responsiivisuus
+	- Tutut jutut muista audio-ohjelmistoista (äänileikenäkymä, jotkut perustoiminnot, undo, help)
+	- Myös innovatiivisia toiminnallisuuksia (insert-record, äänileikkeiden autom. sijoittelu)
+- Suunnittelussa ja heuristisessa arvioinnissa hyödynnettiin Gestaltin ja Nielsenin heuristiikkoja
+
+- Evaluointien tulosten perusteella voidaan sanoa, että äänipalautetyökalu palvelee tarkoitustaan eli on tarkoituksenmukainen, mikä oli yksi oleellisimmista evaluointikriteereistä.
+- Kenttätestauksissa ilmeni joitakin bugeja liittyen mm. ääneen, ääniaallon piirtymiseen, ja muutamia pikkubugeja
+
+- Vaikka oli tiettyjä ongelmia, tulosten perusteella äänipalautetyökalu-prototyypissä tiettyjä ominaisuuksia, jotka helpottavat äänipalautteen antamista verrattuna esim. audacityyn tai muuhun erilliseen audio-ohjelmistoon verrattuna. 
+	- insert-recordin tuoma lisäarvo
+	- joustava (eri laitteilla ja alustoilla, voidaan käyttää esim. kotisohvalta mobiililla)
+	- sisältää vähän ominaisuuksia, toisin kuin useimmat muut audio-ohjelmistot, mutta kuitenkin tarpeeksi samanlainen kuin muut audio-ohjelmistot, joten ei niin suurta oppimiskynnystä, jos jo kokemusta muista.
+	- Äänipalautteen antamisen kannalta oleellisimmat ominaisuudet toteutettu web-käyttöliittymään
+	- Jos jakaminen olisi toteutettuna työkaluun suoraan, vähentäis säätöä erillisen aduio-ohjelmiston kanssa (esim. audiotiedostojen exporttaamisen säädöt audacityssä)
+	- Olisi paras integroituna oppimisympäristöön.
+	
+- Jokaisen opettajan suhtautuminen äänipalautteen antamiseen oli jo entuudestaan positiivinen, joten työkalun käytöllä ei ollut vaikutusta siihen.
+
+
+- Yksi potentiaalinen jatkotutkimuksen aihe olisi laajentaa esim. kyseistä prototyyppiä suunnittelututkimuksen menetelmin sellaiseksi, että palautteen jakaminen olisi mahdollisimman vaivatonta sekä opettajille että oppilaille.
+- Kannattaisiko prototyyppiä jatkaa, vai toteuttaa uudestaan alusta?
+- Tutkimuskysymys äänipalautteeseen suhtautumisesta ei ollut tässä tutkimuksessa oleellinen, sillä kaikilla oli jo positiivinen suhtautuminen (toisaalta suhtautuminen ei muuttunut huonompaan suuntaan, mikä on hyvä). Voitaisiin testauttaa protoa sellaisilla, joilla on jostain syystä negatiivinen suhtautuminen äänipalautteen antamiseen.
+- Lisäksi kuten yksi palautteenantajista ilmaisi, niin integrointi oppimisympäristöön tai muuhun vastaavan voisi olla erittäin hyvä ratkaisu, mutta aihe vaatisi perehetymistä.
+- Kirjallisuudessa tulee esille, että palautteen jakaminen on työläs osa äänipalautteenantoa, joten jakamisen toteuttaminen helpoksi voisi olla ajankäytön kannalta merkittävä säästö.
+- Tutkimuksessa tulisi myös selvittää tarkemmin millä palvelimella työkalua kannattaisi hostata, ja mitä palveluita voitaisiin hyödyntää äänitiedostojen jakamisessa siten, että kuluja ei olisi, tai että ne olisivat minimaaliset. Onko tämä edes mahdollista?
+
+- Tutkimuksen voidaan katsoa onnistuneen hyvin, sillä prototyypin kehittämisen ja evaluointien yhteydessä löydettiin sellaisia innovatiivisia ratkaisuja, jotka toisivat kokoversion tapauksessa lisäarvoa äänipalautteen antamiseen (insert-record, minimimäärä toimintoja, monialustaisuus).
+- hevner guidelines
+- käytettävyysperiaatteet
+
+---------------------------------------
+
+- Englannin kielinen tiivistelmä puuttuu
+- Työstä puuttuu yhteenveto (max 1 sivu). Sen voisi lisätä  lukuun 6 ja tällöin otsikko Pohdinta ja yhteenveto tai laittaa omaksi luvukseen 7. Yhteenveto
+- Sivu 34, kysymysmerkki-ikoni -sana tavuttuu oudosti
+- Luku 6, eka lause, puuttuu sana
+- Luku 6, olisi hvä  olla vielä selkeämpi kytkentä luvussa 3.2 esitettyihin tutkimuskysymyksiin
+
+
+5. Pohdintaluku (5-10 sivua)
+
+Mitä aineistoanalyysi kertoo tutkimushypoteesista? 
+Tukevatko tulokset teorialuvussa esitettyjä näkemyksiä? 
+Vastasiko tutkimusmetodi odotuksia? 
+Voiko tapaustutkimuksen pohjalta tehdä yleistyksiä?
+Pohdintaluvussa harjoitetaan itsenäistä ajattelua. 
+Sen voi periaatteessa kirjoittaa ilman lähdekirjallisuutta, sillä tarkastelun kohteena on aiemmin kirjoitettamasi materiaali. 
+Nyt tutkimuksen tuloksia on aika arvioida kriittisesti. 
+Niitä verrataan aiempaan tutkimukseen ja pohditaan, mitä uutta tutkimus paljastaa aiheesta ja miten tulokset suhteutuvat aiempaan tutkimukseen – tukevatko vai ovatko ristiriidassa? 
+Jos analyysivaiheessa on ollut vaikeuksia, niitä ei pidä lakaista maton alle; niiden puntaroiminen kertoo tutkimuksen läpinäkyvyydestä ja tulosten luotettavuudesta.
+
+

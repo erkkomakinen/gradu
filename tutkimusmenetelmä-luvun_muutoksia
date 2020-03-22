@@ -1,0 +1,76 @@
+----- YLEISTÄ
+
+Tässä tutkimuksessa toteutettava artefakti, eli äänipalautetyökalu, luokitellaan instanssiksi, sillä tutkimuksessa on suunnitellaan ja kehitetään prototyyppisovellus, jonka avulla pyritään selvittämään, voidaanko äänipalautteen antamista helpottaa opettajan näkökulmasta.
+
+Äänipalautteen antaminen on siis tutkittava ongelma, johon äänipalautetyökalun suunnittelulla ja toteutuksella pyritään löytämään ratkaisuja. Näistä ongelmista ja tavoitteista johdetut tutkimuskysymykset ovat:
+
+\begin{itemize}
+  \item Helpottaako äänipalautetyökalu äänipalautteen antamista?
+  \item Muuttaako äänipalautetyökalun käyttö suhtautimista äänipalautteen antamiseen?
+\end{itemize}
+
+Tämän tutkielman tavoitteena poikkeuksellisesti ei kuitenkaan ole liiketoiminnallisten etujen tavoitteleminen, vaan äänipalautteen antamista helpottavien innovaatioiden löytäminen ja tutkiminen.
+
+Äänipalautetyökalun suunnittelu ja toteutus voidaan luokitella viheliääksi ongelmaksi, sillä siinä on samoja piirteitä kuin edellä mainitussa listauksessa. Työkalun vaatimukset ja rajoitteet ovat projektin alussa epäselviä, sillä tarkoitus oli nimenomaan lähteä selvittämään erilaisia ratkaisuja äänipalautteen antamisen helpottamiseksi, siihen suunnatun työkalun avulla. Tämä epätietietoisuus myös vaikuttaa siihen, että artefaktin suunnittelu ja toteutus muovaantuu prosessin edetessä ja ongelmanratkaisu vaatii luovaa ajattelua. Lisäksi tutkielman ohjaajien ja muiden työkalun evaluointiin osallistuvien henkilöiden kokemuksella, näkemyksillä ja palautteilla on suuri merkitys artefaktin suunnittelu- ja toteutus -ratkaisuihin, sillä heillä on kokemusta äänipalautteen antamisesta, toisin kuin työkalun toteuttajalla.
+
+------ SYKLIT
+
+- RELEVANSSISYKLI
+
+Tämän tutkimuksen sovellusalue koostuu yliopistosta organisaationa, opettajista sekä järjestelmistä, joita hyödynnetään äänipalautteen antamisessa. Ensimmäisen relevanssisyklin tärkein tavoite on selvittää, miten opettajat suhtautuvat äänipalautteen antamiseen, millaisia työkaluja he käyttävät sekä millä keinoin äänipalautteen antamista voidaan helpottaa. Relevanssisyklin erityisen tärkeä osa on äänipalautteen antamiseen liittyvien ongelmien tai mahdollisuuksien löytäminen, jotka tämän tutkimuksen kohdalla saivat alkuunsa Heimburgerin, Isomöttösen ym. \parencite*[][]{academics} toteuttaman tutkimuksen kautta. Tutkimuksessa opettajat kohtasivat tiettyjä äänipalautteen antamiseen liittyviä ongelmia, jotka herättivät ideoita äänipalautteen antamiseen tarkoitetusta työkalusta.
+
+Kenttätestaus suoritetaan tutkimuksessa kehitettävän prototyyppisovelluksen käyttäjätestaamisella ja evaluoinnilla. Evaluoinnin suorittavat neljä opettajaa, joilla on jo aiempaa kokemusta äänipalautteen antamisesta. Kenttätestauksen suoritukseen osallistuvat tämän tutkielman ohjaajat Anneli Heimburger ja Ville Isomöttönen sekä kaksi muuta yliopistossa työskentelevää opettajaa Paavo Nieminen sekä Harri Keto. Evaluointia käsitellään tarkemmin luvussa X. 
+
+- TÄSMÄLLISYYSSYKLI
+
+Tämän suunnittelututkimuksen tietopohja pohjautuu opettajien kokemuksiin ja näkemyksiin äänipalautteen antamisesta, käyttöliittymäsuunnittelussa hyödynnettäviin käytettävyysperiaatteisiin sekä erilaisten audio- ja äänipalauteohjelmistojen tämänhetkiseen tilaan.  Kuten jo aiemmin on mainittu, niin tämä suunnittelututkimus sai alkunsa tutkimuksesta, joka käsittelee äänipalautteen antamista opettajien näkökulmasta. Tutkimuksessa tuli esille tietynlaisia haasteita äänipalautteen antamiseen liittyen, sekä ideoita äänipalautteen antamiseen suunnatusta työkalusta. Jo olemassa olevien nauhoitus- ja äänipalautetyökalujen tutkimisen pohjalta voidaan todeta, että työkalut eivät ole täysin soveltuvia äänipalautteen antamiseen ja sitä kautta niissä on parantamisen varaa. Esimerkiksi useimmat äänipalautteen antamiseen suunnatut työkalut ovat kaupallisia, joten niiden käyttö opetuksessa on lähes aina poissuljettua. Jo tämän tutkimuksen alkuvaiheilla oli selkeää, että äänitteen väliin tulisi pystyä nauhoittamaan uusi äänite mahdollisimman helposti. Monissa äänitystyökaluissa tämä onnistuu, mutta se vaatii useita peräkkäisiä toimintoja. Lisäksi työkalut sisältävät runsaasti sellaisia toimintoja, jotka ovat äänipalautteen antamisessa tarpeettomia. Pelkästään näiden tietojen pohjalta saadaan varmuus siihen, että suunnittelututkimuksessa kehitetään jotain uutta ja innovatiivista.
+
+Käyttöliittymän suunnittelu on erittäin tärkeää, jotta työkalu olisi käytettävyydeltään mahdollisimman hyvä. Suunnittelun apuna tutkimuksessa käytetään kahta toisistaan eroavaa käytettävyysperiaatteiden joukkoa. Nielsenin heuristiikat tarjoavat yleisiä käytettävyyteen liittyviä ohjenuoria kun taas Gestaltin hahmolait keskittyvät käyttöliittymän visuaalisuuteen ihmisaivojen hahmottelukyvyn kautta. Suunnittelussa hyödynnettyjä käytettävyysperiaatteita käsitellään tarkemmin luvussa \ref{Kaytettavyysperiaatteet}.
+
+Äänipalautetyökalun evaluointi suoritetaan hyvin vapaamuotoisena käyttäjäkyselynä, joka suoritetaan kahteen kertaan tutkimuksen eri vaiheissa. Kyselyn tärkein tavoite on saada selville helpottiko äänipalautetyökalu äänipalautteen antamista tai siihen suhtautumista. Lisäksi evaluointiin kuuluu työkalun tarkoituksenmukaisuuden, perustoimintojen sekä käytettävyyden arviointi. Evaluointi on täysin laadullinen, sillä edellä mainittujen ominaisuuksien arvioiminen olisi määrällisesti haastavaa, erityisesti kun kyseessä on keskeneräinen prototyyppisovellus. Äänipalautetyökalun evaluointia käsitellään tarkemmin luvussa X.
+
+- SUUNNITTELUSYKLI
+
+Tässä tutkimuksessa suunnittelusyklien määrä joudutaan rajaamaan kahteen iteraatioon, jotta tutkimuksen laajuus vastaisi tyypillistä pro gradu -tutkielmaa. Ensimmäisen iteraation tavoitteena on kehittää prototyyppi sellaiseen pisteeseen, että äänipalautteen äänittäminen ja editointi olisi mahdollista. Tämä siis tarkoittaa sitä, että työkalun käyttöliittymä, perustoiminnot ja äänileikenäkymä on toteutettu ja testattu tiettyyn pisteeseen. Evaluoinnin tärkein tavoite on löytää äänipalautetyökalun hyvät ja huonot suunnitteluratkaisut, sekä selvittää kaipaako työkalu vielä ylimääräisiä toiminnallisuuksia. Ensimmäisen iteraation suorittavat Anneli Heimburger ja Ville Isomöttönen, jotka toimivat tämän tutkielman ohjaajina. Kaksi muuta koehenkilöä osallistuvat ohjaajien lisäksi vasta toiseen iteraatioon, jossa artefaktiin on tehty muutoksia ensimmäisen iteraation pohjalta.
+
+Näiden kahden suunnittelusyklin lisäksi äänipalautetyökalun kehittäminen tapahtuu useissa pienemmissä sykleissä, jotka muistuttavat varsinaista suunnittelusykliä. Artefaktin suunnitteluratkaisuista neuvotellaan palavereissa ohjaajien kanssa, joilla on kokemusta äänipalautteen antamisesta. Kun suunnitellut ominaisuudet on toteutettu, arvioidaan onko työkalun suunta oikea, ja sovitaan jatkotoimenpiteistä seuraavaa palaveria varten. Tällä syklillä on yhtäläisyyksiä myös relevanssisyklin kanssa, jossa mm. määritellään artefaktin vaatimuksia.
+
+----- EVALUOINTIKRITEERIT
+
+\begin{figure}[H]\centering
+\newgeometry{top=0cm}
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{evaluointikriteerit}
+  \caption[]{Evaluointikriteerien hierarkia Pratin, Comyn-Wattiaun ja Akokan \parencite[][]{evaluation} laatimaa kuviota mukaillen. Äänipalautetyökalun evaluoinnin kannalta tärkeimmät evaluointikriteerit on korostettu sinisellä värillä.}
+  \label{fig:evaluointikriteerit}
+\restoregeometry
+\end{figure}
+
+Äänipalautetyökalun evaluoinnissa selkeästi tärkeimmät järjestelmän ulottuvuudet ovat tavoite ja ympäristö. Tavoite-ulottuvuuteen sisältyvistä evaluontikriteereistä huomioon otetaan tehokkuus, jolla mitataan sitä, kuinka tehokkaasti artefaktilla pystytään suorittamaan sille oleellinen tehtävä, sekä validius, joka koskee sitä, kuinka oikein artefakti toimii tämän tavoitteen saavuttamisessa. Tehokkuus on kriteereistä tärkein, sillä tutkimuksen tavoitteena on nimenomaan tutkia, voidaanko äänipalautteen antamista helpottaa siihen suunnitellun työkalun avulla. Validiutta tutkimalla tavoitteen saavuttamista voidaan mahdollisesti tehostaa entisestään, joten se on myös oleellinen evaluoinnin kriteereistä. Yleisyys on rajattu evaluointikriteereistä ulkopuolelle, sillä työkalun tavoite on selkeä ja rajattu.
+
+Ympäristö-ulottuvuuden alle kuuluvista evaluointikriteereistä tutkimukseen otetaan johdonmukaisuus ihmisten kanssa, joka on myös yksi evaluoinnin tärkeimmistä kriteereistä. Se jakautuu useampaan alakriteeriin, joista evaluointiin otetaan mukaan hyödyllisyys, ymmärrettävyys ja helppokäyttöisyys. Nämä ovat tärkeitä artefaktin laatuattribuutteja, sillä ne liittyvät suurelta osin käyttäjäkokemukseen, joka taas vaikuttaa käyttäjän suhtautumiseen ja oppimiskynnykseen työkalua koskien. Johdonmukaisuus ihmisten kanssa -evaluointikriteeristä on rajattu ulos eettisyys ja sivuvaikutukset, joilla ei tässä tutkimuksessa ole merkitystä.
+
+Suurin osa suunnittelututkimuksista keskittyy organisaation toiminnan tehostamiseen, mutta tämä tutkimus keskittyy poikkeuksellisesti enemmän ihmisten suhtautumiseen ja kokemuksiin artefaktiin liittyen. Sen lisäksi, koska evaluoitava artefakti on prototyyppi, niin evaluointikriteeri johdonmukaisuus organisaation kanssa rajataan evaluoinnin ulkopuolelle, mutta siihen liittyviä seikkoja voidaan mahdollisesti arvioida evaluoinnin tulosten perusteella välillisesti. 
+
+Rakenteeseen, aktiivisuuteen ja evoluutioon liittyvät evaluointikriteerit voidaan rajata suoraan evaluoinnin ulkopuolelle, sillä evaluoinnin kohteena oleva artefakti on prototyyppi. Ne ovat yksityiskohtaisempia kriteerejä, jotka liittyvät vahvasti mm. viimeistelyyn, täydellisyyteen, suoritustehoon ja mukautuvuuteen, jota ei prototyypiltä voida vaatia. Äänipalautteen suunnittelussa ja toteutuksessa nämä seikat on myös jätetty lähes täysin huomiotta, sillä tarkoituksena on kahden tutkimusiteraation kautta saada selville työkalun toimivat ja ei-toimivat ratkaisut tavoitteeseen ja käyttäjäystävällisyyteen liittyen.
+
+----- EVALUOINTIMENETELMÄT
+
+Tässä tutkimuksessa suoritettava äänipalautetyökalun evaluointi on instanssitasoista, sillä abstraktin artefaktin sijaan evaluoinnin kohteena on prototyyppi äänipalautetyökalusta. Usein prototyyppiä evaluoidessa hyödynnetään toissijaisia osallistujia, mutta tämän tutkimuksen tapauksessa artefaktia evaluoivat ainoastaan ensisijaiset koehenkilöt. Ensimmäiseen iteraatioon osallistuu kaksi henkilöä, ja toiseen iteraatioon neljä henkilöä.
+
+Molemmat evaluointikerroista suoritetaan lähes samalla tavalla, pieniä muutoksia lukuunottamatta. Testihenkilöille lähetetään sähköpostin välityksellä linkki äänipalautetyökaluun, sekä arviointilomakkeeseen, jossa heidän tulee vastata äänipalautetyökalua koskeviin kysymyksiin. Evaluoinnin ohjeistukset on kerrottu arviointilomakkeen alussa. Testihenkilöitä pyydetään aluksi käyttämään äänipalautetyökalua autenttisessa tilanteessa, jotta evaluoinnin tulokset olisivat mahdollisimman tarkkoja. Testihenkilöt voivat suorittaa testauksen, joko mobiililaitteella, tabletilla tai tietokoneella, sillä työkalun tarkoituksen on toimia joustavasti alustasta tai laitteesta riippumatta. Koekäytön jälkeen heitä pyydetään testaamaan jokaista työkalun perustoimintoja, joita annetun tehtävän aikana koehenkilö ei testannut. Nämä kaksi tehtävänantoa suoritettuaan koehenkilön tulee vastata lomakkeella esitettyihin kysymyksiin. 
+
+Lomakkeella käyttäjän tulee arvioida, palveliko äänipalautetyökalu tarkoitustaan, helpottiko työkalu äänipalautteen antamista entuudestaan, tai muuttiko se suhtautumista äänipalautteen antamiseen. Sen lisäksi koehenkilön tulee arvioida työkalun perustoiminnallisuuksia, jos joitakin huomioita niihin liittyen ilmaantuu. Lomakkeen viimeisissä osioissa käyttäjällä on mahdollisuus tuoda vapaamuotoisesti ilmi työkaluun liittyviä huomioita ja kehitysideoita.
+
+Evaluointi on suhteeltaan absoluuttinen, suhteessa muihin samankaltaisiin artefakteihin, sekä suhteessa vastaavanlaisten artefaktien puuttumiseen, joten se kattaa kaikki kolme osa-aluetta. Evaluoinnissa arvioidaan absoluuttisesti työkalun tarkoituksenmukaisuutta ja toiminnallisuutta, mutta lisäksi äänipalautteen antoa pyydetään vertaamaan koehenkilön aiempiin kokemuksiin. Toisaalta aivan vastaavanlaisia äänipalautteen antamiseen suunniteltuja artefakteja ei ole vielä kehitetty, joten vertaaminen tapahtuu esimerkiksi perinteisiä nauhoitusohjelmia vasten.
+
+\begin{table}[H]
+\begin{adjustwidth}{-1.5cm}{}
+\caption{Yhteenveto evaluoinnin ominaisuuksista}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Kuvaus} & \textbf{evaluointikriteerit}                                                                                                                                                                             & \begin{tabular}[t]{@{}l@{}}\textbf{evaluoinnin} \\  \textbf{tyyppi}\end{tabular} & \begin{tabular}[t]{@{}l@{}}\textbf{evaluoinnin}\\ \textbf{taso}\end{tabular} & \begin{tabular}[t]{@{}l@{}}\textbf{evaluoinnin} \\ \textbf{suhteellisuus}\end{tabular}                                                                                  \\ \hline
+\begin{tabular}[t]{@{}l@{}}Äänipalautetyökalun\\ tarkoituksenmukaisuuden, \\ käytettävyyden ja \\ toiminnallisuuden\\ evaluointi.\end{tabular} & \begin{tabular}[t]{@{}l@{}}Tavoite / tehokkuus\\ Tavoite / validius\\ \\ ympäristö / \\ johdonmukaisuus\\ ihmisten kanssa /\\ hyödyllisyys,\\ ymmärrettävyys, \\ helppokäyttöisyys\end{tabular} & Laadullinen                                                   & Instanssi                                                  & \begin{tabular}[t]{@{}l@{}}Absoluuttinen,\\ \\ suhteessa saman-\\ kaltaisiin\\ artefakteihin,\\ \\ suhteessa artefaktien \\ puuttumiseen\end{tabular} \\ \hline
+\end{tabular}
+\end{adjustwidth}
+\end{table}
+
